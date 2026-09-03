@@ -1,5 +1,62 @@
 {
-  "updated_at": null,
+  "updated_at": "2026-09-03T04:15:10.100640+00:00",
   "coverage_note": "HTML Hansard on parliament.nz is reliably available from ~Feb 2003. Winston Peters first elected 25 Nov 1978; pre-2003 needs PDF/OCR.",
-  "days": {}
+  "days": {
+    "2026-08-21": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:12:23.299769+00:00"
+    },
+    "2026-08-22": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:12:36.365569+00:00"
+    },
+    "2026-08-23": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:12:49.066423+00:00"
+    },
+    "2026-08-24": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:13:01.774293+00:00"
+    },
+    "2026-08-25": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:13:14.466091+00:00"
+    },
+    "2026-08-26": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:13:27.393742+00:00"
+    },
+    "2026-08-27": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:13:40.085816+00:00"
+    },
+    "2026-08-28": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:13:52.779497+00:00"
+    },
+    "2026-08-29": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:14:06.118803+00:00"
+    },
+    "2026-08-30": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:14:18.867791+00:00"
+    },
+    "2026-08-31": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:14:31.606600+00:00"
+    },
+    "2026-09-01": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:14:44.637921+00:00"
+    },
+    "2026-09-02": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:14:57.372329+00:00"
+    },
+    "2026-09-03": {
+      "status": "missing",
+      "scraped_at": "2026-09-03T04:15:10.100578+00:00"
+    }
+  }
 }
