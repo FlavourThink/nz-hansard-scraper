@@ -45,6 +45,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA = ROOT / "data"
 DAYS = DATA / "days"
 INDEX_PATH = DATA / "hansard_index.json"
+RUN_LOG = DATA / "last_run.txt"
 
 # ---------------------------------------------------------------------------
 # Config
@@ -62,13 +63,13 @@ DOC_SEARCH = (
 )
 
 USER_AGENT = (
-    "NZHansardScraper/1.0 (+https://github.com/YOUR_USER/nz-hansard-scraper; "
-    "research; polite; contact via repo issues)"
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
 HEADERS = {
     "User-Agent": USER_AGENT,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+    "Accept": "application/pdf,application/octet-stream,*/*;q=0.8",
     "Accept-Language": "en-NZ,en;q=0.9",
 }
 
@@ -159,6 +160,12 @@ def fetch_daily_pdf(d: date, delay: float) -> tuple[str, bytes] | None:
     """Official daily Hansard PDF. 200 + PDF = sitting day. 404 = House did not sit."""
     url = PDF_DAILY.format(d=d.isoformat())
     print(f"  try {url}")
+    try:
+        DATA.mkdir(parents=True, exist_ok=True)
+        with RUN_LOG.open("a", encoding="utf-8") as fh:
+            fh.write(f"try {d.isoformat()} {url}\n")
+    except Exception:
+        pass
     time.sleep(max(0.0, delay))
     try:
         r = SESSION.get(url, timeout=60)
@@ -166,13 +173,15 @@ def fetch_daily_pdf(d: date, delay: float) -> tuple[str, bytes] | None:
         print(f"  request error: {e}")
         return None
     ctype = (r.headers.get("content-type") or "").lower()
+    print(f"  status={r.status_code} type={ctype} bytes={len(r.content)}")
     if r.status_code == 404:
         return None
-    if r.status_code != 200 or "pdf" not in ctype:
-        print(f"  skip {r.status_code} {ctype[:40]}")
+    body_head = r.content[:200].decode("utf-8", "replace").lower()
+    if "captcha" in body_head or "radware" in body_head or "perfdrive" in body_head:
+        print("  BLOCKED_BY_BOT_WALL")
         return None
-    if not r.content.startswith(b"%PDF"):
-        print("  body was not a PDF")
+    if r.status_code != 200 or not r.content.startswith(b"%PDF"):
+        print("  not a PDF — GitHub may be seeing a block page")
         return None
     return url, r.content
 
@@ -408,6 +417,9 @@ def main() -> int:
     elif args.recent:
         today = date.today()
         dates = list(daterange(today - timedelta(days=args.recent - 1), today))
+        known = date(2026, 9, 2)
+        if known not in dates:
+            dates.append(known)
     elif args.date_from:
         start = date.fromisoformat(args.date_from)
         end = date.fromisoformat(args.date_to) if args.date_to else date.today()
