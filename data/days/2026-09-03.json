@@ -1,0 +1,2884 @@
+{
+  "date": "2026-09-03",
+  "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-09-03/2026-09-03-daily.pdf",
+  "source": "daily-pdf",
+  "scraped_at": "2026-09-03T05:03:28.720570+00:00",
+  "title": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 1",
+  "sections": [
+    {
+      "heading": "Body",
+      "items": [
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 1"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026"
+        },
+        {
+          "type": "text",
+          "text": "The Speaker took the Chair at 2 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Start of Sitting Day"
+        }
+      ]
+    },
+    {
+      "heading": "Karakia/Prayers",
+      "items": [
+        {
+          "type": "text",
+          "text": "GREG O'CONNOR (Assistant Speaker) ( 14:00): Almighty God, we give thanks for the"
+        },
+        {
+          "type": "text",
+          "text": "blessings which have been bestowed on us. Laying aside all personal interests, we acknowledge"
+        },
+        {
+          "type": "text",
+          "text": "the King and pray for guidance in our deliberations that we may conduct the affairs of this House"
+        },
+        {
+          "type": "text",
+          "text": "with wisdom, justice, mercy, and humility for the welfare and the peace of New Zealand. Amen."
+        },
+        {
+          "type": "text",
+          "text": "Visitors"
+        },
+        {
+          "type": "text",
+          "text": "JAPAN—PRESIDENT OF THE SENATE"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Members, I am sure that you will wish to join with me in welcoming His Excellency"
+        },
+        {
+          "type": "text",
+          "text": "Mr Sekiguchi Masakazu, President of the Senate of Japan, and his accompanying delegation who"
+        },
+        {
+          "type": "text",
+          "text": "are present in the gallery."
+        },
+        {
+          "type": "text",
+          "text": "Business of the House"
+        }
+      ]
+    },
+    {
+      "heading": "Business Statement",
+      "items": [
+        {
+          "type": "text",
+          "text": "Hon LOUISE UPSTON (Leader of the House) ( 14:01): Today, the House will adjourn"
+        },
+        {
+          "type": "text",
+          "text": "until Tuesday, 15 September. That week, the House will make progress on the Local Government"
+        },
+        {
+          "type": "text",
+          "text": "(System Improvements) Amendment Bill, the Oranga Tamariki (Responding to Serious Youth"
+        },
+        {
+          "type": "text",
+          "text": "Offending) Amendment Bill, and the Policing Amendment Bill. Celia Wade-Brown, Maureen Pugh,"
+        },
+        {
+          "type": "text",
+          "text": "and the Hon Andrew Bayly will deliver their valedictory statements."
+        },
+        {
+          "type": "text",
+          "text": "Hon KIERAN McANULTY (Labour) ( 14:02): I thank the Leader of the House for the"
+        },
+        {
+          "type": "text",
+          "text": "update. We’ve been told by a couple of Government backbenchers that the Government intends"
+        },
+        {
+          "type": "text",
+          "text": "to do urgency next sitting week. Could she confirm if that’s true."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "I know there’s lots of excitement about the final two weeks of the"
+        },
+        {
+          "type": "text",
+          "text": "House sitting. What I can tell the member is that we will not be introducing legislation that"
+        },
+        {
+          "type": "text",
+          "text": "increases tax."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Very good. Now, only one person is called."
+        },
+        {
+          "type": "text",
+          "text": "RICARDO MENÉNDEZ MARCH (Musterer—Green) ( 14:02): Considering that we"
+        },
+        {
+          "type": "text",
+          "text": "have seen a net loss of members’ days as a result of the use of urgency, does the Leader of the"
+        },
+        {
+          "type": "text",
+          "text": "House expect for there to be a members’ day in the next sitting block?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "Leader of the House",
+          "time": "14:02",
+          "text": "No."
+        },
+        {
+          "type": "text",
+          "text": "Presentation"
+        }
+      ]
+    },
+    {
+      "heading": "Petitions",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "A petition has been delivered to the Clerk for presentation."
+        },
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "14:02",
+          "time": "",
+          "text": "Petition of Christchurch Methodist Mission requesting that the House urge the"
+        },
+        {
+          "type": "text",
+          "text": "Government to increase investment in social and affordable housing in order to target funding"
+        },
+        {
+          "type": "text",
+          "text": "towards housing for older people."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "That petition stands referred to the Petitions Committee."
+        },
+        {
+          "type": "text",
+          "text": "PAPERS"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Ministers have delivered three papers."
+        },
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "14:03",
+          "time": "",
+          "text": "2025-26 annual reports for:"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 2 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        },
+        {
+          "type": "text",
+          "text": "• New Zealand Parole Board"
+        },
+        {
+          "type": "text",
+          "text": "• Office of the Māori Trustee, and"
+        },
+        {
+          "type": "text",
+          "text": "• Government response to the report of the Justice Committee on the petition of"
+        },
+        {
+          "type": "text",
+          "text": "David White MNZM."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Those papers are published under the authority of the House."
+        }
+      ]
+    },
+    {
+      "heading": "Select Committee Reports",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Twelve select committee reports have been delivered for presentation."
+        },
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "14:03",
+          "time": "",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "• Report of the Education and Workforce Committee on the second scrutiny"
+        },
+        {
+          "type": "text",
+          "text": "activities report for the 54th Parliament"
+        },
+        {
+          "type": "text",
+          "text": "• report of the Environment Committee on the Conservation Amendment Bill,"
+        },
+        {
+          "type": "text",
+          "text": "interim report"
+        },
+        {
+          "type": "text",
+          "text": "• report of the Governance and Administration Committee on its second scrutiny"
+        },
+        {
+          "type": "text",
+          "text": "activities report for the 54th Parliament"
+        },
+        {
+          "type": "text",
+          "text": "• reports of the Health Committee on the:"
+        },
+        {
+          "type": "text",
+          "text": "• briefing from the Meningitis Foundation New Zealand"
+        },
+        {
+          "type": "text",
+          "text": "• second scrutiny activities report for the 54th Parliament, and"
+        },
+        {
+          "type": "text",
+          "text": "• petition of Judy Anderson"
+        },
+        {
+          "type": "text",
+          "text": "• reports of the Justice Committee on the:"
+        },
+        {
+          "type": "text",
+          "text": "• second scrutiny activities report for the 54th Parliament, and"
+        },
+        {
+          "type": "text",
+          "text": "• Summary Offences (Move-on Orders) Amendment Bill and report of the"
+        },
+        {
+          "type": "text",
+          "text": "Attorney-General under the New Zealand Bill of Rights Act 1990"
+        },
+        {
+          "type": "text",
+          "text": "• report of the Primary Production Committee on the Agricultural Compounds and"
+        },
+        {
+          "type": "text",
+          "text": "Veterinary Medicines Amendment Bill"
+        },
+        {
+          "type": "text",
+          "text": "• reports of the Regulations Review Committee on the:"
+        },
+        {
+          "type": "text",
+          "text": "• briefing on Henry VIII clauses in legislation, and"
+        },
+        {
+          "type": "text",
+          "text": "• complaint about the Accident Compensation (Definitions) Regulations 2019"
+        },
+        {
+          "type": "text",
+          "text": "• report of the Social Services and Community Committee on the Manatū Wāhine,"
+        },
+        {
+          "type": "text",
+          "text": "Ministry for Women, Long-term Insights Briefing 2026."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "The bills are set down for second reading, and the reports are set down for"
+        },
+        {
+          "type": "text",
+          "text": "consideration. No bills have been introduced. The House comes to oral questions."
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions to Ministers"
+        }
+      ]
+    },
+    {
+      "heading": "Local Government",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 1"
+        },
+        {
+          "type": "text",
+          "text": "MIKE DAVIDSON (Green) ( 14:04) to the Minister of Local Government: Has he"
+        },
+        {
+          "type": "text",
+          "text": "received any advice that shows that the rates cap will result in no savings for some households?"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 3"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "Minister of Local Government",
+          "time": "14:04",
+          "text": "I’ve received advice that"
+        },
+        {
+          "type": "text",
+          "text": "the amount an average household saves will depend on what their council would otherwise have"
+        },
+        {
+          "type": "text",
+          "text": "increased rates by, and how these rates are allocated. If a council is already close to or within the"
+        },
+        {
+          "type": "text",
+          "text": "cap, the average savings will, naturally, be modest. That shows that the cap is workable when"
+        },
+        {
+          "type": "text",
+          "text": "councils prioritise. But many ratepayers are facing double-digit increases. For example, under"
+        },
+        {
+          "type": "text",
+          "text": "Hamilton City Council’s 2024 to 2034 long-term plan, an average household was on track to pay"
+        },
+        {
+          "type": "text",
+          "text": "around $6,400 a year by 2034. With increases limited to 4 percent, that would be around $4,170,"
+        },
+        {
+          "type": "text",
+          "text": "saving about $15,800 over a 10-year period. That is meaningful savings."
+        },
+        {
+          "type": "speech",
+          "speaker": "Mike Davidson",
+          "role": "",
+          "time": "",
+          "text": "Does he think a young family saving $34 a year under the rates cap would be"
+        },
+        {
+          "type": "text",
+          "text": "better or worse off once higher fees for pools, libraries, public transport, and car-parking are"
+        },
+        {
+          "type": "text",
+          "text": "included, given his view in a Cabinet paper that a rates cap will “incentivise greater use of user"
+        },
+        {
+          "type": "text",
+          "text": "charges”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "First and foremost, I encourage the member to—[Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Just hold on—wait on. We’ll start that again."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "Thank you, Mr Speaker. First and foremost, I’d encourage the member"
+        },
+        {
+          "type": "text",
+          "text": "to read the bill in regards to rates capping. The cumulative effect of rates increases means that"
+        },
+        {
+          "type": "text",
+          "text": "over a five- or 10-year period, Kiwi households will have considerable savings as a result of that"
+        },
+        {
+          "type": "text",
+          "text": "cumulative effect being limited to 4 percent. Don’t forget the rates increases last year were 14"
+        },
+        {
+          "type": "text",
+          "text": "percent on average across New Zealand; this year, 9 percent—4 percent with respect to savings."
+        },
+        {
+          "type": "text",
+          "text": "What I also reflect is that not having a cap will not protect Kiwi ratepayers. Not having a cap will"
+        },
+        {
+          "type": "text",
+          "text": "also not protect them against those double-digit rate increases, and that is not the policy of this"
+        },
+        {
+          "type": "text",
+          "text": "Government."
+        },
+        {
+          "type": "speech",
+          "speaker": "Mike Davidson",
+          "role": "",
+          "time": "",
+          "text": "How does he reconcile his claim that households will save money, with the"
+        },
+        {
+          "type": "text",
+          "text": "Ministry for the Environment’s feedback that “reduced rates revenue may be offset by increased"
+        },
+        {
+          "type": "text",
+          "text": "fees for services such as swimming pool entry, library fines, and parking. This could result in no"
+        },
+        {
+          "type": "text",
+          "text": "net savings for many households.”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "Well, on this side of the House, we understand the concept of"
+        },
+        {
+          "type": "text",
+          "text": "prioritisation and making decisions in regards to spending that is within a limit. We don’t have a"
+        },
+        {
+          "type": "text",
+          "text": "credit card without a limit on this side of the House, by any stretch. Councils will, and should,"
+        },
+        {
+          "type": "text",
+          "text": "prioritise their spending, like every single Kiwi household and business in this country. I make no"
+        },
+        {
+          "type": "text",
+          "text": "apology for councils needing to do that. Putting a limit on their increase of expenditure is a"
+        },
+        {
+          "type": "text",
+          "text": "sensible and pragmatic thing to do to protect Kiwi households."
+        },
+        {
+          "type": "speech",
+          "speaker": "Mike Davidson",
+          "role": "",
+          "time": "",
+          "text": "Does he accept that including water services investment, which is exempt from"
+        },
+        {
+          "type": "text",
+          "text": "the rates cap, in his figures for Waitaki District Council in his answer to oral questions on 25"
+        },
+        {
+          "type": "text",
+          "text": "August artificially inflated his claims of savings by nearly 80 percent?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "No, because what I was providing there was an example of how much"
+        },
+        {
+          "type": "text",
+          "text": "an average bill would increase—the differential between the average of 14 percent or 9 percent"
+        },
+        {
+          "type": "text",
+          "text": "versus 4 percent. Basic maths would indicate to the member that when you increase cumulative"
+        },
+        {
+          "type": "text",
+          "text": "bills by 14 percent or 9 percent, it is a heck of a lot bigger over a period of five or 10 years than"
+        },
+        {
+          "type": "text",
+          "text": "at 4 percent. On this side of the House, we are on the side of Kiwi ratepayers. We want to protect"
+        },
+        {
+          "type": "text",
+          "text": "Kiwi ratepayers from unreasonable, rollercoaster rates increases. That’s what we’re doing; we"
+        },
+        {
+          "type": "text",
+          "text": "make no apologies for that. That side of the House has no plan to protect Kiwi ratepayers."
+        },
+        {
+          "type": "speech",
+          "speaker": "Mike Davidson",
+          "role": "",
+          "time": "",
+          "text": "Is it correct that the biggest savings from his rates cap will go to owners of"
+        },
+        {
+          "type": "text",
+          "text": "multimillion-dollar houses and holiday homes who don’t need support, while struggling families"
+        },
+        {
+          "type": "text",
+          "text": "may only save as little as $34 a year, only to face higher costs from reduced local services?"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "A concise answer would be good."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "No."
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 4 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        },
+        {
+          "type": "text",
+          "text": "REVENUE"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 2"
+        },
+        {
+          "type": "text",
+          "text": "DAN BIDOIS (National—Northcote) ( 14:09) to the Minister of Revenue: Is the"
+        },
+        {
+          "type": "text",
+          "text": "Government considering a capital gains tax on properties used for both residential and business"
+        },
+        {
+          "type": "text",
+          "text": "purposes?"
+        },
+        {
+          "type": "text",
+          "text": "Hon SIMON WATTS (Minister of Revenue) ( 14:09): No, this Government will not"
+        },
+        {
+          "type": "text",
+          "text": "introduce a capital gains tax on the family home or on small businesses. For many Kiwis, the line"
+        },
+        {
+          "type": "text",
+          "text": "between the two isn’t so simple. They might live in the front of a property and run their business"
+        },
+        {
+          "type": "text",
+          "text": "from a workshop, garage, or an office out the back. We won’t punish people for using their own"
+        },
+        {
+          "type": "text",
+          "text": "homes to build a business and get ahead. We’re on the side of Kiwis that work hard, doing the"
+        },
+        {
+          "type": "text",
+          "text": "right thing and wanting to get ahead."
+        },
+        {
+          "type": "speech",
+          "speaker": "Dan Bidois",
+          "role": "",
+          "time": "",
+          "text": "Why do some New Zealanders choose to operate their business from the same"
+        },
+        {
+          "type": "text",
+          "text": "property they live in?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "Because, for many small-business owners, it is the most practical and"
+        },
+        {
+          "type": "text",
+          "text": "affordable way for them to operate. A builder, for example, might keep their tools and equipment"
+        },
+        {
+          "type": "text",
+          "text": "at home. A mechanic might have a workshop on their property, or an entrepreneur couple might"
+        },
+        {
+          "type": "text",
+          "text": "lease out their house as an airbnb during the summer break. These are ordinary Kiwis, using"
+        },
+        {
+          "type": "text",
+          "text": "what they have to build something for themselves and their family."
+        },
+        {
+          "type": "speech",
+          "speaker": "Dan Bidois",
+          "role": "",
+          "time": "",
+          "text": "What could a capital gains tax mean for a tradie or other small-business owner who"
+        },
+        {
+          "type": "text",
+          "text": "operates their business from their family property?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "It could mean being taxed 28 percent on part of their family property,"
+        },
+        {
+          "type": "text",
+          "text": "simply because they have used it to earn a living. That means that a Kiwi who has worked hard,"
+        },
+        {
+          "type": "text",
+          "text": "paid their mortgage, and built a business from home could face a big tax bill when they sell or are"
+        },
+        {
+          "type": "text",
+          "text": "due to retire. That is the wrong message. It punishes aspiration, rather than rewarding it. On this"
+        },
+        {
+          "type": "text",
+          "text": "side of the House, we back people who work hard, invest, and take risks, and we do that and we"
+        },
+        {
+          "type": "text",
+          "text": "say: no new taxes."
+        }
+      ]
+    },
+    {
+      "heading": "Social Development And Employment",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 3"
+        },
+        {
+          "type": "text",
+          "text": "Hon CARMEL SEPULONI (Deputy Leader—Labour) ( 14:11) to the Minister for"
+        },
+        {
+          "type": "speech",
+          "speaker": "Social Development and Employment",
+          "role": "",
+          "time": "",
+          "text": "Does she stand by all her statements and actions?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "Minister for Social Development and Employment",
+          "time": "14:11",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Yes, in the context in which they were given."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "Why, when 36,000 fifteen- to nineteen-year-olds are not in work,"
+        },
+        {
+          "type": "text",
+          "text": "education, or training, did she cut the access to jobseeker payments of 18- and 19-year-olds?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "Because our Government is clear: we want 18- and 19-year-olds in"
+        },
+        {
+          "type": "text",
+          "text": "education, training, or employment, and if they’re not, we expect that their families do support"
+        },
+        {
+          "type": "text",
+          "text": "them. We know that going on welfare is a trap. If a young person goes onto the jobseeker benefit"
+        },
+        {
+          "type": "text",
+          "text": "under the age of 20, on average they will spend another 21 years of their life on welfare. Our side"
+        },
+        {
+          "type": "text",
+          "text": "of the House is more aspirational for young people, and wants more for their futures."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "How can she say she is supporting young people into work, when in"
+        },
+        {
+          "type": "text",
+          "text": "this term, she has cut off their access to a benefit while also limiting non-beneficiaries’ access to"
+        },
+        {
+          "type": "text",
+          "text": "employment support programmes?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "I refute that. We now have 4,000 young people in job coaching,"
+        },
+        {
+          "type": "text",
+          "text": "which is a very intensive programme. We’re also incentivising those young people who then go"
+        },
+        {
+          "type": "text",
+          "text": "into employment and stay in a job for 12 months with a $1,000 bonus. We are doing things"
+        },
+        {
+          "type": "text",
+          "text": "differently. We want to release young people from the trap that they would otherwise fall into if"
+        },
+        {
+          "type": "text",
+          "text": "those guys were still in office. We want more for them."
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 5"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "How can she deny that she has moved the goalposts for young people"
+        },
+        {
+          "type": "text",
+          "text": "accessing Ministry of Social Development (MSD) employment programmes, when programmes"
+        },
+        {
+          "type": "text",
+          "text": "like Mana in Mahi, Flexi-wage, and the Mayors Taskforce for Jobs are almost entirely only"
+        },
+        {
+          "type": "text",
+          "text": "available to those on benefit under her watch?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "As I said, we have higher aspirations for the other side in terms of"
+        },
+        {
+          "type": "text",
+          "text": "young people. They have access to He Poutama Rangatahi; they have access to the Limited"
+        },
+        {
+          "type": "text",
+          "text": "Service Volunteer, one of the most successful programmes we have. Intensive job coaching."
+        },
+        {
+          "type": "text",
+          "text": "There are now 70,000 New Zealanders in job coaching and case management. Case"
+        },
+        {
+          "type": "text",
+          "text": "management is the most effective intervention that MSD offers. We want more for young people,"
+        },
+        {
+          "type": "text",
+          "text": "and we’ll never apologise for that."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Just a reminder to the interjectors there: I didn’t cut anything off, although I’m"
+        },
+        {
+          "type": "text",
+          "text": "tempted."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "Has she been advised if the Ministry of Social Development is"
+        },
+        {
+          "type": "text",
+          "text": "recommending that young people approaching them for help, who can no longer receive a benefit"
+        },
+        {
+          "type": "text",
+          "text": "or get access to effective MSD employment programmes, should go and get a credit card?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "No. We clearly want young people to be in education, in training, in"
+        },
+        {
+          "type": "text",
+          "text": "employment. That’s why in Budget 2026 we’ve invested more in Youth Guarantee, and in an"
+        },
+        {
+          "type": "text",
+          "text": "additional 10,000 places in trades training. We want to see young people get ahead in life, and"
+        },
+        {
+          "type": "text",
+          "text": "that’s why we are changing the settings to ensure that they have that opportunity."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "Is it the Minister’s view that it is better for a young person to owe money"
+        },
+        {
+          "type": "text",
+          "text": "on a credit card than to receive help from the Ministry of Social Development?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "As I said at the start, we believe that young people should be in"
+        },
+        {
+          "type": "text",
+          "text": "employment, education, or training, or supported by their families. If you look at comparable"
+        },
+        {
+          "type": "text",
+          "text": "countries, in Australia, there is a parental income test up to the age of 22; in France, you’ve got"
+        },
+        {
+          "type": "text",
+          "text": "no access to welfare under the age of 25. This is a balanced approach—"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Willow-Jean Prime",
+          "role": "",
+          "time": "",
+          "text": "This is New Zealand. You’re the Minister in New Zealand."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "Well, we normally compare ourselves to Australia. I’ve just said it’s"
+        },
+        {
+          "type": "text",
+          "text": "up to the age of 22, and, as I said, our side of the House is more aspirational for young people"
+        },
+        {
+          "type": "text",
+          "text": "than allowing them to get stuck on welfare, where they stay another 21 years of their life—21"
+        },
+        {
+          "type": "text",
+          "text": "years. It’s got to be better than that. [Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Good, that’s enough. Just completely calm down."
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr Tracey McLellan",
+          "role": "",
+          "time": "",
+          "text": "You’re just making it up now."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "I beg your pardon?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Carmel Sepuloni",
+          "role": "",
+          "time": "",
+          "text": "Why does she refuse to acknowledge that at a time of rising"
+        },
+        {
+          "type": "text",
+          "text": "unemployment and job losses, she has actively made it harder for young people to get into work"
+        },
+        {
+          "type": "text",
+          "text": "by restricting access to the very programmes designed to help them and has cut them off from"
+        },
+        {
+          "type": "text",
+          "text": "getting welfare support, and how can young people possibly afford another three years of a"
+        },
+        {
+          "type": "text",
+          "text": "National Government?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "Very simply: because our side of the House knows that growing the"
+        },
+        {
+          "type": "text",
+          "text": "economy grows employment opportunities; 220,000 is the Treasury forecast. A job for a young"
+        },
+        {
+          "type": "text",
+          "text": "person is a better life, a better future, and we’re going to stick with that every day of the week,"
+        },
+        {
+          "type": "text",
+          "text": "because we’re fixing the basics, and building the future for young New Zealanders. [Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "That general barrage like that has to stop. It’s the last question like that."
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 6 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        },
+        {
+          "type": "text",
+          "text": "REVENUE"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 4"
+        },
+        {
+          "type": "text",
+          "text": "SUZE REDMAYNE (National—Rangitīkei) ( 14:17) to the Minister of Revenue: Is the"
+        },
+        {
+          "type": "text",
+          "text": "Government considering introducing an inheritance or gift tax?"
+        },
+        {
+          "type": "text",
+          "text": "Hon SIMON WATTS (Minister of Revenue) ( 14:17): No, this Government will not"
+        },
+        {
+          "type": "text",
+          "text": "introduce an inheritance or gift tax. New Zealanders work hard, save, and invest so that they can"
+        },
+        {
+          "type": "text",
+          "text": "build a better future for themselves and their families. This Government backs aspiration, and we"
+        },
+        {
+          "type": "text",
+          "text": "will not be waiting at the end with another tax. [Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Just a moment. I made the point before that when a question is being asked, no"
+        },
+        {
+          "type": "text",
+          "text": "one else speaks, and when a Minister is answering a question, he doesn’t need his colleagues to"
+        },
+        {
+          "type": "text",
+          "text": "assist him—or her."
+        },
+        {
+          "type": "speech",
+          "speaker": "Suze Redmayne",
+          "role": "",
+          "time": "",
+          "text": "What types of New Zealanders could be affected by an inheritance or gift tax?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "All New Zealanders who have worked hard will build up assets over"
+        },
+        {
+          "type": "text",
+          "text": "their lifetime. An inheritance tax could tax a home; a small business; people with a farm, savings,"
+        },
+        {
+          "type": "text",
+          "text": "investments, or other assets they want to pass on to their children. These are everyday New"
+        },
+        {
+          "type": "text",
+          "text": "Zealanders who have spent decades building something up for themselves and their families. In"
+        },
+        {
+          "type": "text",
+          "text": "what may already be one of the hardest moments in someone’s life—having just lost a parent or"
+        },
+        {
+          "type": "text",
+          "text": "a loved one—the last thing a family should face is an inheritance tax bill from the Government."
+        },
+        {
+          "type": "speech",
+          "speaker": "Suze Redmayne",
+          "role": "",
+          "time": "",
+          "text": "What impact could an inheritance or gift tax have on New Zealanders’"
+        },
+        {
+          "type": "text",
+          "text": "incentives to save, invest, and build something for the next generation? [Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Is somebody else wanting to answer the question?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON WATTS",
+          "role": "",
+          "time": "",
+          "text": "It sends a chilling message to hard-working Kiwis. Instead, on this side"
+        },
+        {
+          "type": "text",
+          "text": "of the House, we want New Zealanders to save, to invest, to build businesses and create wealth"
+        },
+        {
+          "type": "text",
+          "text": "for themselves and their children. Layering new taxes on people who do these things would"
+        },
+        {
+          "type": "text",
+          "text": "discourage investment, hold back growth, and make it harder for Kiwi families to get ahead. That"
+        },
+        {
+          "type": "text",
+          "text": "is not what we stand for on this side of the House. Our focus is on fixing the basics, building the"
+        },
+        {
+          "type": "text",
+          "text": "future, and no new taxes."
+        }
+      ]
+    },
+    {
+      "heading": "Rma Reform",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 5"
+        },
+        {
+          "type": "text",
+          "text": "Hon WILLIE JACKSON (Labour) ( 14:19) to the Minister responsible for RMA"
+        },
+        {
+          "type": "speech",
+          "speaker": "Reform",
+          "role": "",
+          "time": "",
+          "text": "Does he stand by his statement that “it's absolutely paramount for this Government that"
+        },
+        {
+          "type": "text",
+          "text": "we protect settlements that have been entered into in good faith”; if not, why?"
+        },
+        {
+          "type": "text",
+          "text": "Hon PAUL GOLDSMITH (Minister of Justice) ( 14:20) on behalf of the Minister"
+        },
+        {
+          "type": "text",
+          "text": "responsible for RMA Reform: Yes."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Willie Jackson",
+          "role": "",
+          "time": "",
+          "text": "How is overriding the Environment Court, which ruled earlier this year that"
+        },
+        {
+          "type": "text",
+          "text": "plan change 1 (PC 1) must remain central to protecting the Waikato and Waipā rivers, acting in"
+        },
+        {
+          "type": "text",
+          "text": "good faith with iwi?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "Well, on behalf of the Minister, the Government’s decision to"
+        },
+        {
+          "type": "text",
+          "text": "pause PC1 is a practical measure to support the transition to the new planning system. PC1"
+        },
+        {
+          "type": "text",
+          "text": "arrives at the very moment our new planning system is replacing the Resource Management Act"
+        },
+        {
+          "type": "text",
+          "text": "(RMA), and we don’t want farmers and growers to incur the costs in transitioning into PC1’s farmer"
+        },
+        {
+          "type": "text",
+          "text": "environmental plan and consent framework, which will soon be replaced by others."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Willie Jackson",
+          "role": "",
+          "time": "",
+          "text": "Can the Minister explain why Waikato-Tainui, Raukawa, Ngāti Maniapoto,"
+        },
+        {
+          "type": "text",
+          "text": "Te Arawa, and Tūwharetoa jointly wrote to him warning that his delay would be a direct breach,"
+        },
+        {
+          "type": "text",
+          "text": "and can he tell this House which one of those five iwi he decided to listen to before ignoring all of"
+        },
+        {
+          "type": "text",
+          "text": "them?"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 7"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "Well, on behalf of the Minister, I certainly did not ignore them. We"
+        },
+        {
+          "type": "text",
+          "text": "met with iwi multiple times, as did officials. The proposal does not change the Government’s"
+        },
+        {
+          "type": "text",
+          "text": "commitment to upholding Treaty settlements, including Te Ture Whaimana o te Awa o Waikato."
+        },
+        {
+          "type": "text",
+          "text": "No settlement says we could never change the planning system, and so what we’re working on"
+        },
+        {
+          "type": "text",
+          "text": "is adjusting that arrangement for the new system."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Willie Jackson",
+          "role": "",
+          "time": "",
+          "text": "Does he agree with Tukoroirangi Morgan that the Government has"
+        },
+        {
+          "type": "text",
+          "text": "“step[ped] in to override judicial directions at the behest of their political donors”, and is that"
+        },
+        {
+          "type": "text",
+          "text": "another example of good faith?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister, no, I don’t agree with that statement."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Willie Jackson",
+          "role": "",
+          "time": "",
+          "text": "Will he attend Koroneihana to discuss why, at the start of his own RMA"
+        },
+        {
+          "type": "text",
+          "text": "reforms, plan changes giving effect to Treaty settlements—including PC1—would continue, and"
+        },
+        {
+          "type": "text",
+          "text": "then break that commitment three months later without the agreement of any of the five iwi"
+        },
+        {
+          "type": "text",
+          "text": "affected, and if not, why?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister, I’m not sure of my travel plans, but I do"
+        },
+        {
+          "type": "text",
+          "text": "know that my excellent colleagues, Ministers Potaka and Goldsmith, will be attending."
+        }
+      ]
+    },
+    {
+      "heading": "Social Development And Employment",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 6"
+        },
+        {
+          "type": "text",
+          "text": "RICARDO MENÉNDEZ MARCH (Green) ( 14:22) to the Minister for Social"
+        },
+        {
+          "type": "speech",
+          "speaker": "Development and Employment",
+          "role": "",
+          "time": "",
+          "text": "What are the terms of reference, if any, of the review of the"
+        },
+        {
+          "type": "text",
+          "text": "wrongful benefit suspensions, and will the review consider compensation?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "Minister for Social Development and Employment",
+          "time": "14:23",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "I have made it clear to the Ministry of Social Development (MSD) that the review will consider the"
+        },
+        {
+          "type": "text",
+          "text": "winter energy payment issue and processing delays. The review will cover what has occurred and"
+        },
+        {
+          "type": "text",
+          "text": "who has been affected in operationalising mandatory reviews and any further actions that may"
+        },
+        {
+          "type": "text",
+          "text": "be needed to prevent these issues happening again. As I’ve already made clear in the House, I"
+        },
+        {
+          "type": "text",
+          "text": "will wait for the findings of the review on 10 September."
+        },
+        {
+          "type": "text",
+          "text": "Ricardo Menéndez March: Does she acknowledge that supported living payment recipients"
+        },
+        {
+          "type": "text",
+          "text": "were captured by mandatory reviews, which ended up leading to processing delays, meaning that"
+        },
+        {
+          "type": "text",
+          "text": "they live often week to week without any savings; and, if so, does she accept that even a week’s"
+        },
+        {
+          "type": "text",
+          "text": "worth of missed payments could push people into hardship, hunger, or homelessness?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "As I’ve already said, the suspension of payments that was made"
+        },
+        {
+          "type": "text",
+          "text": "incorrectly will have had an impact on New Zealanders, and I accept that that would have been"
+        },
+        {
+          "type": "text",
+          "text": "challenging for many, which is why I had asked MSD to focus with urgency on making sure that"
+        },
+        {
+          "type": "text",
+          "text": "those payments were reinstated and backdated at pace."
+        },
+        {
+          "type": "text",
+          "text": "Ricardo Menéndez March:  If she recognises the impact this could have had on people,"
+        },
+        {
+          "type": "text",
+          "text": "including people being left hungry, potentially homeless, or in hardship, why is she not"
+        },
+        {
+          "type": "text",
+          "text": "commenting on the possibility of compensation?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "Well, as I’ve said, I will wait for the findings of the review."
+        },
+        {
+          "type": "text",
+          "text": "Ricardo Menéndez March: What is the point of an apology if she’s not even willing to consider"
+        },
+        {
+          "type": "text",
+          "text": "the option of compensation for harm that may have occurred and which is not redressed through"
+        },
+        {
+          "type": "text",
+          "text": "back payments, as that cannot make up for potential debt or harm or worsening health outcomes"
+        },
+        {
+          "type": "text",
+          "text": "that people may have experienced due to missed payments?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "As I said, the review will cover many components, including who has"
+        },
+        {
+          "type": "text",
+          "text": "been affected, and that’s why I’m waiting for that review."
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 8 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        }
+      ]
+    },
+    {
+      "heading": "Tourism And Hospitality",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 7"
+        },
+        {
+          "type": "text",
+          "text": "CATHERINE WEDD (National—Tukituki) ( 14:25) to the Minister for Tourism and"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hospitality",
+          "role": "",
+          "time": "",
+          "text": "What recent progress has she seen on tourism in New Zealand?"
+        },
+        {
+          "type": "text",
+          "text": "Hon LOUISE UPSTON (Minister for Tourism and Hospitality) ( 14:25): Recent data"
+        },
+        {
+          "type": "text",
+          "text": "from Statistics New Zealand shows New Zealand’s international visitor numbers continue to climb."
+        },
+        {
+          "type": "text",
+          "text": "Over 201,000 international visitors arrived in New Zealand in June 2026, which is up 8.1 percent"
+        },
+        {
+          "type": "text",
+          "text": "on June 2025. That puts international visitor arrivals for June at 95 percent of the 2019 levels for"
+        },
+        {
+          "type": "text",
+          "text": "the same period. Growing tourism is a key part of our Government’s plan to fix the basics and"
+        },
+        {
+          "type": "text",
+          "text": "build the future. This progress shows that our plan to grow the economy is working."
+        },
+        {
+          "type": "speech",
+          "speaker": "Catherine Wedd",
+          "role": "",
+          "time": "",
+          "text": "What markets are seeing the strongest growth?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "We are seeing continued growth from our largest visitor market—"
+        },
+        {
+          "type": "text",
+          "text": "Australia—with 108,200 arrivals, which is up 14 percent from last June. There was also strong"
+        },
+        {
+          "type": "text",
+          "text": "growth from other key tourism markets, including from China, with visitor arrivals reaching 14,300,"
+        },
+        {
+          "type": "text",
+          "text": "which is up 27 percent compared to June last year. Close to 200,000 cruise ship passengers are"
+        },
+        {
+          "type": "text",
+          "text": "also expected to arrive in New Zealand this season, with the launch at the weekend of the cruise"
+        },
+        {
+          "type": "text",
+          "text": "season. We are seeing the flow on of growth and confidence in our tourism and hospitality sector"
+        },
+        {
+          "type": "text",
+          "text": "as more visitors choose New Zealand as their next holiday destination."
+        },
+        {
+          "type": "speech",
+          "speaker": "Catherine Wedd",
+          "role": "",
+          "time": "",
+          "text": "What steps is the Government taking to support progress in tourism growth?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon LOUISE UPSTON",
+          "role": "",
+          "time": "",
+          "text": "We know domestic visitors generate nearly twice as many guest"
+        },
+        {
+          "type": "text",
+          "text": "nights as international visitors and account for around two-thirds of all guest nights across New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand. We do not believe that New Zealanders booking a weekend away or travelling for a"
+        },
+        {
+          "type": "text",
+          "text": "family funeral, or a sports team travelling for a game should face an additional tax on top of the"
+        },
+        {
+          "type": "text",
+          "text": "costs they already pay when travelling domestically. That’s why we don’t believe in a bed tax and"
+        },
+        {
+          "type": "text",
+          "text": "we are working hard to attract more tourists to New Zealand, because the more visitors we have"
+        },
+        {
+          "type": "text",
+          "text": "in our cities and regions, the more money is being spent in shops and cafes. It’s a key part of our"
+        },
+        {
+          "type": "text",
+          "text": "plan to grow the economy so that we can keep investing in the front-line public services Kiwis rely"
+        },
+        {
+          "type": "text",
+          "text": "on, without having to reach for new taxes."
+        },
+        {
+          "type": "text",
+          "text": "HEALTH"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 8"
+        },
+        {
+          "type": "text",
+          "text": "Hon Dr AYESHA VERRALL (Labour) ( 14:27) to the Minister of Health: Does he"
+        },
+        {
+          "type": "text",
+          "text": "stand by his statement that “A sustainable health system relies on a steady pipeline of skilled New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand-trained nurses entering the workforce”; if so, why?"
+        },
+        {
+          "type": "text",
+          "text": "Hon MATT DOOCEY (Associate Minister of Health) (14:28) on behalf of the Minister"
+        },
+        {
+          "type": "text",
+          "text": "of Health: Yes, in the context it was made. As the member will be aware, more than 2,100"
+        },
+        {
+          "type": "text",
+          "text": "additional nurses, on a net basis, have been employed by Health New Zealand since 2023, which"
+        },
+        {
+          "type": "text",
+          "text": "equates to a net increase of 1,640 fulltime-equivalents. The Government remains focused on"
+        },
+        {
+          "type": "text",
+          "text": "building on this track record so that we can continue to reduce wait times for patients and build"
+        },
+        {
+          "type": "text",
+          "text": "the future of our healthcare system. That is why, as at 14 August, there were 2,378 fulltime-"
+        },
+        {
+          "type": "text",
+          "text": "equivalent nursing roles actively being recruited across Health New Zealand, including 475"
+        },
+        {
+          "type": "text",
+          "text": "nurses who have accepted offers, with thousands more progressing through recruitment."
+        },
+        {
+          "type": "speech",
+          "speaker": "Tangi Utikere",
+          "role": "",
+          "time": "",
+          "text": "Why have emergency department staff in Palmerston North had to resort to"
+        },
+        {
+          "type": "text",
+          "text": "begging Health New Zealand to send urgent help after he cut the number of nurses by 25 over"
+        },
+        {
+          "type": "text",
+          "text": "the past two years?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "Well, clearly, from my primary answer, that is incorrect, and what I"
+        },
+        {
+          "type": "text",
+          "text": "would point to is putting a wrecking ball to the health system in the middle of a pandemic,"
+        },
+        {
+          "type": "text",
+          "text": "centralising the health system, and taking away local decision-making. That member’s question"
+        },
+        {
+          "type": "text",
+          "text": "reinforces why, on 1 July, we brought back local decision-making for budgets, service delivery,"
+        },
+        {
+          "type": "text",
+          "text": "and recruitment decisions."
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 9"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Dr Ayesha Verrall",
+          "role": "",
+          "time": "",
+          "text": "Supplementary. [Interruption]"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Kieran McAnulty",
+          "role": "",
+          "time": "",
+          "text": "Point of order, sir."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "No, just a moment. You can’t just—OK, point of order, the Hon Kieran McAnulty."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Kieran McAnulty",
+          "role": "",
+          "time": "",
+          "text": "Point of order, Mr Speaker. I’m just seeking clarity from you as to the"
+        },
+        {
+          "type": "text",
+          "text": "process. When a Minister makes an incorrect statement on behalf of another Minister, which"
+        },
+        {
+          "type": "text",
+          "text": "Minister is required to correct that statement in the House?"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Then it would be, presumably, the Minister on whose behalf the mistake has been"
+        },
+        {
+          "type": "text",
+          "text": "made. Can I just say I could hear some of these things better if there wasn’t quite so much"
+        },
+        {
+          "type": "text",
+          "text": "interjection."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Jo Luxton",
+          "role": "",
+          "time": "",
+          "text": "Why, when emergency department (ED) nurses are having to strike for safe"
+        },
+        {
+          "type": "text",
+          "text": "staffing at Gisborne Hospital, has he hired just two additional nurses across the entire district in"
+        },
+        {
+          "type": "text",
+          "text": "the last year?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the health Minister, it is not for the Labour Party or the"
+        },
+        {
+          "type": "text",
+          "text": "unions to decide safe staffing levels; it’s a clinical decision by Health New Zealand, and the advice"
+        },
+        {
+          "type": "text",
+          "text": "I’ve got is 75 percent of shifts have been on or above target."
+        },
+        {
+          "type": "speech",
+          "speaker": "Cushla Tangaere-Manuel",
+          "role": "",
+          "time": "",
+          "text": "Why isn’t he taking action to raise the number of Māori nurses"
+        },
+        {
+          "type": "text",
+          "text": "when only 7 percent of nurses are Māori and Māori experience worse health outcomes?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister, I would like to point to the great work of the"
+        },
+        {
+          "type": "text",
+          "text": "mental health Minister, with the mental health commission in its latest report pointing to the"
+        },
+        {
+          "type": "text",
+          "text": "increased diversity in our health workforce, specifically our nursing health workforce."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "The Hon Phil Twyford—and nobody else."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Phil Twyford",
+          "role": "",
+          "time": "",
+          "text": "Why, when stroke patients at Waitakere Hospital’s Muriwai ward are left"
+        },
+        {
+          "type": "text",
+          "text": "languishing in wet beds and at risk of falls due to lack of nurses, has he only hired 54 nurses"
+        },
+        {
+          "type": "text",
+          "text": "across New Zealand in the last two years?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister, I won’t take any crocodile tears from the"
+        },
+        {
+          "type": "text",
+          "text": "Opposition, because when they were in Government, nursing vacancies topped at 2,632. As of"
+        },
+        {
+          "type": "text",
+          "text": "March 2026, they’re down to 1,600. The vacancy rate, 8.6 percent for nurses, is now down to"
+        },
+        {
+          "type": "text",
+          "text": "5.2 percent. We are delivering."
+        },
+        {
+          "type": "speech",
+          "speaker": "Rachel Boyack",
+          "role": "",
+          "time": "",
+          "text": "Supplementary."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Yep—"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rachel Boyack",
+          "role": "",
+          "time": "",
+          "text": "Rachel Boyack."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "—Rachel Boyack."
+        },
+        {
+          "type": "speech",
+          "speaker": "Rachel Boyack",
+          "role": "",
+          "time": "",
+          "text": "Why, when he has cut the number of nurses in the top of the South by 30"
+        },
+        {
+          "type": "text",
+          "text": "fulltime-equivalents in the past year alone, are nurses being forced to pick and choose which"
+        },
+        {
+          "type": "text",
+          "text": "patients get care each day?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the health Minister, you only need to refer to my primary"
+        },
+        {
+          "type": "text",
+          "text": "answer that shows that, actually, the trend line shows that we have employed not only more"
+        },
+        {
+          "type": "text",
+          "text": "nurses, but when you look at the numbers that we’ll offer employment to 1,800 graduate nurses,"
+        },
+        {
+          "type": "text",
+          "text": "that is the biggest offer in any year of the last seven years."
+        },
+        {
+          "type": "speech",
+          "speaker": "Shanan Halbert",
+          "role": "",
+          "time": "",
+          "text": "Why, when North Shore ED nurses have declared a state of emergency due"
+        },
+        {
+          "type": "text",
+          "text": "to a critical lack of staff, which has left elderly patients in soiled beds, has he failed to properly"
+        },
+        {
+          "type": "text",
+          "text": "staff North Shore Hospital?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the health Minister, that is the very reason why we have"
+        },
+        {
+          "type": "text",
+          "text": "recruited more nurses into roles to drive down vacancy rates. That is the very reason why we"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 10 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        },
+        {
+          "type": "text",
+          "text": "have funded more into winter preparedness plans. That is the very reason why this Government"
+        },
+        {
+          "type": "text",
+          "text": "is the first Government to deliver an online 24/7 primary care service to take the pressure off ED."
+        },
+        {
+          "type": "speech",
+          "speaker": "Lemauga Lydia Sosene",
+          "role": "",
+          "time": "",
+          "text": "When he has cut the number of nurses at Middlemore Hospital by 74"
+        },
+        {
+          "type": "text",
+          "text": "over the past two years, is it any wonder that nurses are saying, “We’re sinking quite quickly"
+        },
+        {
+          "type": "text",
+          "text": "because people are so sick.”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the health Minister, what I say nurses are saying through"
+        },
+        {
+          "type": "text",
+          "text": "the turnover rate is under their watch it was 11.7 percent; now it’s down to 8.4 percent. Nurses"
+        },
+        {
+          "type": "text",
+          "text": "are saying they’re staying."
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon Winston Peters",
+          "role": "",
+          "time": "",
+          "text": "Could the Minister tell us, during the massive nurse shortages by"
+        },
+        {
+          "type": "text",
+          "text": "2023, how many of those questioners were asking questions in Parliament about that?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of—"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "No, you don’t have responsibility for a previous Parliament."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Dr Ayesha Verrall",
+          "role": "",
+          "time": "",
+          "text": "Why, when hospitals across New Zealand are in urgent need of"
+        },
+        {
+          "type": "text",
+          "text": "nurses, will he not commit to offering every New Zealand trained nurse a job?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister of Health, what a reckless policy, to spend"
+        },
+        {
+          "type": "text",
+          "text": "half a billion dollars on committed funding already in the health system. That member needs to"
+        },
+        {
+          "type": "text",
+          "text": "come clean. What will she cut to pay for it—"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "No, no—stop. You’re going to address the question, not start with an attack. Please"
+        },
+        {
+          "type": "text",
+          "text": "address the question—or ask the question again."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Dr Ayesha Verrall",
+          "role": "",
+          "time": "",
+          "text": "Why, when hospitals across New Zealand are in urgent need of more"
+        },
+        {
+          "type": "text",
+          "text": "nurses, will he not commit to offering every New Zealand-trained nurse a job?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MATT DOOCEY",
+          "role": "",
+          "time": "",
+          "text": "On behalf of the Minister, it’s amazing how everything seems so easy"
+        },
+        {
+          "type": "text",
+          "text": "when you’re in Opposition and do very little in Government. The figures I’ve said today, of offering"
+        },
+        {
+          "type": "text",
+          "text": "to 1,800 graduate nurses, is the biggest offer in this country out of any year for the last seven"
+        },
+        {
+          "type": "text",
+          "text": "years. We’re committed to growing the workforce. That is why vacancy rates have come down,"
+        },
+        {
+          "type": "text",
+          "text": "turnover rates have come down, but most of all, there are 2,100 more nurses at the front lines of"
+        },
+        {
+          "type": "text",
+          "text": "our health system."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "I’ve taken further advice from the point of order raised by the Hon Kieran McAnulty"
+        },
+        {
+          "type": "text",
+          "text": "before. I’m advised that because members are responsible only for their own statements in the"
+        },
+        {
+          "type": "text",
+          "text": "House, the Minister answering on behalf would be responsible for correcting incorrect statements."
+        }
+      ]
+    },
+    {
+      "heading": "Small Business And Manufacturing",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 9"
+        },
+        {
+          "type": "text",
+          "text": "GRANT McCALLUM (National—Northland) ( 14:36) to the Minister for Small"
+        },
+        {
+          "type": "speech",
+          "speaker": "Business and Manufacturing",
+          "role": "",
+          "time": "",
+          "text": "Does the Government have any plans to introduce a capital"
+        },
+        {
+          "type": "text",
+          "text": "gains tax on small businesses?"
+        },
+        {
+          "type": "text",
+          "text": "Hon CAMERON BREWER (Minister for Small Business and Manufacturing)"
+        },
+        {
+          "type": "text",
+          "text": "(14:37): No. The Government has no such plans. My focus as Minister for Small Business and"
+        },
+        {
+          "type": "text",
+          "text": "Manufacturing is on lowering costs for businesses and backing the nearly 600,000 small"
+        },
+        {
+          "type": "text",
+          "text": "businesses in New Zealand to grow and succeed. Taxing owners on the premises that they have"
+        },
+        {
+          "type": "text",
+          "text": "spent a lifetime building would do the opposite. This Government backs the people who take the"
+        },
+        {
+          "type": "text",
+          "text": "risk and build something."
+        },
+        {
+          "type": "speech",
+          "speaker": "Grant McCallum",
+          "role": "",
+          "time": "",
+          "text": "What has the Minister heard from small-business owners about what"
+        },
+        {
+          "type": "text",
+          "text": "happens to property that they operate from when they sell up?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CAMERON BREWER",
+          "role": "",
+          "time": "",
+          "text": "What I hear constantly is that the two cannot be separated. If"
+        },
+        {
+          "type": "text",
+          "text": "the member was to look on what he would call his “TradeMe machine”, what he would see today,"
+        },
+        {
+          "type": "text",
+          "text": "for sale, is a mechanic in the Hutt, a pub in Hokitika, a motorbike dealer in Ngātea—businesses"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 11"
+        },
+        {
+          "type": "text",
+          "text": "and building sold as one. For those owners, that building is their retirement plan. If the workshop’s"
+        },
+        {
+          "type": "text",
+          "text": "value rises by $100,000, a capital gains tax, at 28 percent, takes $28,000 off it. A tax on the shop"
+        },
+        {
+          "type": "text",
+          "text": "floor is a tax on their hard-earned retirement."
+        },
+        {
+          "type": "speech",
+          "speaker": "Grant McCallum",
+          "role": "",
+          "time": "",
+          "text": "How would such a capital gains tax affect owners who face selling up not"
+        },
+        {
+          "type": "text",
+          "text": "by choice but because of ill-health or a relationship breakdown?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CAMERON BREWER",
+          "role": "",
+          "time": "",
+          "text": "It would hit them at the worst possible moment. These things"
+        },
+        {
+          "type": "text",
+          "text": "cannot be planned: a diagnosis arrives, a marriage ends, and an owner shuts up shop and has"
+        },
+        {
+          "type": "text",
+          "text": "to take whatever the sale brings. They are not selling at the top of the market; they are selling"
+        },
+        {
+          "type": "text",
+          "text": "because they have to. A capital gains tax on top of that is just, frankly, salt in the wound. Taxing"
+        },
+        {
+          "type": "text",
+          "text": "someone on the way out is not taxing success; it is taxing bad luck."
+        }
+      ]
+    },
+    {
+      "heading": "Tertiary Education",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 10"
+        },
+        {
+          "type": "speech",
+          "speaker": "SHANAN HALBERT",
+          "role": "",
+          "time": "",
+          "text": "How many people were there in work-based learning last year, and"
+        },
+        {
+          "type": "text",
+          "text": "how does that compare to the number of people in work-based learning in 2023?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "Point of order, Mr Speaker. I’m wondering if the person asking"
+        },
+        {
+          "type": "text",
+          "text": "the question might like to read from the actual question that he put."
+        },
+        {
+          "type": "text",
+          "text": "SHANAN HALBERT (Labour) (14:39) to the Minister for Tertiary Education: How"
+        },
+        {
+          "type": "text",
+          "text": "many people were there in work-based learning last year, and how does that compare to the"
+        },
+        {
+          "type": "text",
+          "text": "number of people in work-based learning in 2023?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "Mr Speaker, would he like to try another go at it?"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "No, he wouldn’t, and it might be a good idea to take a view that the Leader of the"
+        },
+        {
+          "type": "text",
+          "text": "House would want things to be moving along, I’m sure, quite speedily given the debate that’s"
+        },
+        {
+          "type": "text",
+          "text": "coming."
+        },
+        {
+          "type": "text",
+          "text": "Hon PENNY SIMMONDS (Minister for Tertiary Education) ( 14:40): Thank you, Mr"
+        },
+        {
+          "type": "text",
+          "text": "Speaker. There were 138,730 learners in work-based learning in 2023, and 108,315 learners in"
+        },
+        {
+          "type": "text",
+          "text": "2025. This decline in apprentice numbers reflects lower levels of business confidence that we"
+        },
+        {
+          "type": "text",
+          "text": "inherited from the previous Government, driven by higher costs and economic pressures,"
+        },
+        {
+          "type": "text",
+          "text": "particularly in the construction sector. The good news is that recent Treasury forecasts predict"
+        },
+        {
+          "type": "text",
+          "text": "220,000 more jobs being created over the next four years, so we expect to see apprentice"
+        },
+        {
+          "type": "text",
+          "text": "numbers track up as businesses feel more confident in training new staff—as long as they haven’t"
+        },
+        {
+          "type": "text",
+          "text": "got to face nine new taxes."
+        },
+        {
+          "type": "speech",
+          "speaker": "Shanan Halbert",
+          "role": "",
+          "time": "",
+          "text": "Is it correct that the number of apprentices has dropped to a 15-year low"
+        },
+        {
+          "type": "text",
+          "text": "under her watch?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "Well, as I said before, it was an economic situation that we"
+        },
+        {
+          "type": "text",
+          "text": "inherited. What I can say, though, is that the previous number of apprentices through"
+        },
+        {
+          "type": "text",
+          "text": "Apprenticeship Boost were not actually completing their qualifications, so there was a significant"
+        },
+        {
+          "type": "text",
+          "text": "decline in credit-completion rates: in 2021, 67 percent only; in 2025, 86 percent credit-completion"
+        },
+        {
+          "type": "text",
+          "text": "rates. Apprentice retention rates have increased under this Government and attrition rates have"
+        },
+        {
+          "type": "text",
+          "text": "decreased. That is a better outcome."
+        },
+        {
+          "type": "speech",
+          "speaker": "Shanan Halbert",
+          "role": "",
+          "time": "",
+          "text": "Does she agree with Building and Construction ITO chief executive Jason"
+        },
+        {
+          "type": "text",
+          "text": "Hungerford, who said, “We’ve got around 600 people ready and willing to start an apprenticeship"
+        },
+        {
+          "type": "text",
+          "text": "right now. What we don’t have is perhaps the confidence in some of those employers that are"
+        },
+        {
+          "type": "text",
+          "text": "willing to take that next step and take them on.”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "I agree with Jason Hungerford BCITO CEO when he said, “There"
+        },
+        {
+          "type": "text",
+          "text": "are signs that building and construction are starting to recover, and that should result in more"
+        },
+        {
+          "type": "text",
+          "text": "apprentices and workplace training.”"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Page 12 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026"
+        },
+        {
+          "type": "speech",
+          "speaker": "Shanan Halbert",
+          "role": "",
+          "time": "",
+          "text": "Does she agree with Energy and Infrastructure Industry Skills Board chief"
+        },
+        {
+          "type": "text",
+          "text": "executive, Philip Aldridge, who said that a lack of apprentices means “we’re going to have difficulty"
+        },
+        {
+          "type": "text",
+          "text": "resourcing up for key initiatives, whether it’s roading, water, extractive projects”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "I agree with the Manufacturing and Engineering Industry Skills"
+        },
+        {
+          "type": "text",
+          "text": "Board, which says manufacturing companies are intending to increase apprentice numbers:"
+        },
+        {
+          "type": "text",
+          "text": "“Apprentice numbers have generally been subdued for a few years as we’ve come off a post-"
+        },
+        {
+          "type": "text",
+          "text": "COVID high and business confidence being hit by the extended war in the Gulf. However, our"
+        },
+        {
+          "type": "text",
+          "text": "manufacturing and engineering industries have been continuing, with signs of recovery and"
+        },
+        {
+          "type": "text",
+          "text": "growth over the last year, and many companies now face skill shortages and consequently are"
+        },
+        {
+          "type": "text",
+          "text": "looking to take on more apprentices.”"
+        },
+        {
+          "type": "speech",
+          "speaker": "Shanan Halbert",
+          "role": "",
+          "time": "",
+          "text": "Is she surprised that her plan of “cut, cut, disestablish, cut” has led to a drop"
+        },
+        {
+          "type": "text",
+          "text": "in apprenticeship numbers and will leave key industries struggling for workers?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PENNY SIMMONDS",
+          "role": "",
+          "time": "",
+          "text": "As I’ve said before, it’s very difficult to cut a budget that wasn’t"
+        },
+        {
+          "type": "text",
+          "text": "there, and there was no budget for Apprenticeship Boost from the end of 2024. This Government"
+        },
+        {
+          "type": "text",
+          "text": "rescued Apprenticeship Boost and targeted Apprenticeship Boost, and therefore, we are"
+        },
+        {
+          "type": "text",
+          "text": "delighted to see that so many industries are intending to take on more apprentices as the"
+        },
+        {
+          "type": "text",
+          "text": "economy grows. It is why we are so focused on growing the economy, not adding more taxes."
+        }
+      ]
+    },
+    {
+      "heading": "Food Safety",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 11"
+        },
+        {
+          "type": "text",
+          "text": "CAMERON LUXTON (ACT) ( 14:45) to the Minister for Food Safety: What recent"
+        },
+        {
+          "type": "text",
+          "text": "announcements has he made about reducing barriers to New Zealanders accessing home-kill"
+        },
+        {
+          "type": "text",
+          "text": "and hunted meats?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW HOGGARD",
+          "role": "Minister for Food Safety",
+          "time": "14:45",
+          "text": "This week, I announced"
+        },
+        {
+          "type": "text",
+          "text": "that the Government is consulting on the rules for home-kill and hunted meat, including the 28-"
+        },
+        {
+          "type": "text",
+          "text": "day rule. This rule means that if you buy, or are given, an animal off a local farmer, a listed home-"
+        },
+        {
+          "type": "text",
+          "text": "kill provider cannot process it for you until you’ve shown that you’ve been caring for it for 28 days."
+        },
+        {
+          "type": "text",
+          "text": "No one has looked at these rules in 20 years, and this consultation is part of a sustained"
+        },
+        {
+          "type": "text",
+          "text": "Government effort to reduce red tape and bring the cost of good quality food down for consumers."
+        },
+        {
+          "type": "speech",
+          "speaker": "Cameron Luxton",
+          "role": "",
+          "time": "",
+          "text": "Why does the Minster believe the 28-day rule needs looking at?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW HOGGARD",
+          "role": "",
+          "time": "",
+          "text": "If a neighbour or a close friend wants to come to my farm and"
+        },
+        {
+          "type": "text",
+          "text": "I’m prepared to sell or even give them—probably not give them—a lamb or a beast for the freezer,"
+        },
+        {
+          "type": "text",
+          "text": "then I can’t see why the Government would stand in the way of that. Not only does it give people"
+        },
+        {
+          "type": "text",
+          "text": "access to more affordable food, but it also supports thriving and more connected rural"
+        },
+        {
+          "type": "text",
+          "text": "communities. This consultation will be about testing whether there genuinely is a food safety need"
+        },
+        {
+          "type": "text",
+          "text": "for this rule or whether it’s just an example of a silly rule that’s just standing in the way of unlocking"
+        },
+        {
+          "type": "text",
+          "text": "New Zealand’s potential."
+        },
+        {
+          "type": "speech",
+          "speaker": "Cameron Luxton",
+          "role": "",
+          "time": "",
+          "text": "What impact would this change have on food prices?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW HOGGARD",
+          "role": "",
+          "time": "",
+          "text": "I can’t be concrete in my numbers, but my experience as a"
+        },
+        {
+          "type": "text",
+          "text": "farmer, sending animals to the works, is that you get paid a lot less for that animal than if you"
+        },
+        {
+          "type": "text",
+          "text": "were to go and buy it piece by piece in the supermarket. Being able to supply meat, this animal,"
+        },
+        {
+          "type": "text",
+          "text": "directly to people will leave that difference in their back pocket."
+        },
+        {
+          "type": "speech",
+          "speaker": "Cameron Luxton",
+          "role": "",
+          "time": "",
+          "text": "What has the Minister heard from farmers and hunters about donating meat?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW HOGGARD",
+          "role": "",
+          "time": "",
+          "text": "I’ve heard from hunters and farmers who want to give meat to"
+        },
+        {
+          "type": "text",
+          "text": "local sports clubs, community organisations, or food banks and aren’t sure if they’re allowed to."
+        },
+        {
+          "type": "text",
+          "text": "There are ways to donate, but there does appear to be some inconsistency in different pieces of"
+        },
+        {
+          "type": "text",
+          "text": "legislation, which is driving uncertainty among people who want to help. Meat is the number one"
+        },
+        {
+          "type": "text",
+          "text": "thing food banks are looking for, and the dearest thing for them to provide. That’s a waste on both"
+        },
+        {
+          "type": "text",
+          "text": "sides, and it’s worth cleaning up."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Do you take cash for those cattle beasts, or how does it work?"
+        },
+        {
+          "type": "text",
+          "text": "Subject to Revision—Not to be Quoted or Distributed"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 13"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW HOGGARD",
+          "role": "",
+          "time": "",
+          "text": "With the GST. I don’t want to upset the revenue Minister."
+        },
+        {
+          "type": "text",
+          "text": "JUSTICE"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 12"
+        },
+        {
+          "type": "text",
+          "text": "CELIA WADE-BROWN (Green) (14:47) to the Minister of Justice: What actions, if any,"
+        },
+        {
+          "type": "text",
+          "text": "has his Government taken to lift voter enrolment among 18- to 24-year-olds?"
+        },
+        {
+          "type": "text",
+          "text": "Hon PAUL GOLDSMITH (Minister of Justice) ( 14:48): I’m advised that $18.1 million"
+        },
+        {
+          "type": "text",
+          "text": "has been allocated by the Electoral Commission to support enrolment in the 2026 election, after"
+        },
+        {
+          "type": "text",
+          "text": "the Government provided an additional $61.8 million in the Budget 2025 to support the"
+        },
+        {
+          "type": "text",
+          "text": "effectiveness and timeliness of electoral services. That $18 million compares with $10.8 million"
+        },
+        {
+          "type": "text",
+          "text": "in the previous election. The Electoral Commission, I note, of course, is independent and is"
+        },
+        {
+          "type": "text",
+          "text": "undertaking a significant, nationwide information and education programme, which will help young"
+        },
+        {
+          "type": "text",
+          "text": "people and first-time voters know how to enrol. I’m sure every New Zealander will have seen all"
+        },
+        {
+          "type": "text",
+          "text": "the various notices around town."
+        },
+        {
+          "type": "speech",
+          "speaker": "Celia Wade-Brown",
+          "role": "",
+          "time": "",
+          "text": "What is he doing to ensure the Electoral Commission’s outreach to"
+        },
+        {
+          "type": "text",
+          "text": "rangatahi is effective, given enrolment among 18- to 24-year-olds is just 57.5 percent and"
+        },
+        {
+          "type": "text",
+          "text": "significantly lower than at the same time in the last election?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "I’ll give the member the latest figures: yes, overall, enrolment is"
+        },
+        {
+          "type": "text",
+          "text": "at 89.7 percent, compared with 88.7 percent three years ago. So we’re actually ahead, but it’s"
+        },
+        {
+          "type": "text",
+          "text": "true that when it comes to young people, it’s currently 56.9 percent, compared with 59.7 percent,"
+        },
+        {
+          "type": "text",
+          "text": "so we’re two points below where we were. My encouragement to the Electoral Commission and"
+        },
+        {
+          "type": "text",
+          "text": "to the young people of New Zealand will be to get themselves enrolled as quickly as possible."
+        },
+        {
+          "type": "text",
+          "text": "That is why we’ve put some extra resources into the hands of the Electoral Commission, but I do"
+        },
+        {
+          "type": "text",
+          "text": "note they are being very energetic in their efforts to get people enrolled."
+        },
+        {
+          "type": "speech",
+          "speaker": "Celia Wade-Brown",
+          "role": "",
+          "time": "",
+          "text": "Why is he making it harder to vote during the 13-day pre-election period,"
+        },
+        {
+          "type": "text",
+          "text": "the exact period when, last election, about 50,000 young people enrolled to vote?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "Well, that 50,000 enrolled to vote during that period last time"
+        },
+        {
+          "type": "text",
+          "text": "because they could; but this time, they won’t be able to, and we’ve been sending a very clear"
+        },
+        {
+          "type": "text",
+          "text": "message for a very long time now that the rules have changed. We’ve done that because we"
+        },
+        {
+          "type": "text",
+          "text": "were facing an ever-increasing number of special votes, and special votes take 10 times as long"
+        },
+        {
+          "type": "text",
+          "text": "to deal with after the election. I encourage young people to tune in. For example, as well as"
+        },
+        {
+          "type": "text",
+          "text": "advertising in news media and in in-person community events and digital social channels that are"
+        },
+        {
+          "type": "text",
+          "text": "being used, the Electoral Commission is also advertising on channels that young people use—in"
+        },
+        {
+          "type": "text",
+          "text": "particular, Snapchat, TikTok—and they’re even advertising on gaming platforms, so thorough is"
+        },
+        {
+          "type": "text",
+          "text": "their effort to ensure that people have every opportunity to get enrolled. But I would remind people"
+        },
+        {
+          "type": "text",
+          "text": "that are tuning in and listening to this that it is a requirement under the law, if you are 18, to be"
+        },
+        {
+          "type": "text",
+          "text": "enrolled. And so get yourself enrolled—it’s not hard—and then you can vote."
+        },
+        {
+          "type": "speech",
+          "speaker": "Celia Wade-Brown",
+          "role": "",
+          "time": "",
+          "text": "What does he say to young people in Ōtāhuhu and Manurewa where"
+        },
+        {
+          "type": "text",
+          "text": "fewer than 42 percent of eligible 18- to 24-year-olds are enrolled?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon PAUL GOLDSMITH",
+          "role": "",
+          "time": "",
+          "text": "My message to the young people of Ōtāhuhu is get enrolled. It’s"
+        },
+        {
+          "type": "text",
+          "text": "not hard to do, and if you want to vote, you should get yourself enrolled. My advice to them, of"
+        },
+        {
+          "type": "text",
+          "text": "course, would be to party vote National."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "That concludes oral questions. We’ll take a short pause while members who have"
+        },
+        {
+          "type": "text",
+          "text": "to leave the House do so quietly and without conversation on the way."
+        },
+        {
+          "type": "text",
+          "text": "This early draft is automatically published - it is not yet complete and reviewed."
+        }
+      ]
+    }
+  ],
+  "plain_text": "Subject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 1 \n \nThursday, 3 September 2026 \nThe Speaker took the Chair at 2 p.m. \nStart of Sitting Day \nKARAKIA/PRAYERS \nGREG O'CONNOR (Assistant Speaker) ( 14:00): Almighty God, we give thanks for the \nblessings which have been bestowed on us. Laying aside all personal interests, we acknowledge \nthe King and pray for guidance in our deliberations that we may conduct the affairs of this House \nwith wisdom, justice, mercy, and humility for the welfare and the peace of New Zealand. Amen. \nVisitors \nJAPAN—PRESIDENT OF THE SENATE \nSPEAKER: Members, I am sure that you will wish to join with me in welcoming His Excellency \nMr Sekiguchi Masakazu, President of the Senate of Japan, and his accompanying delegation who \nare present in the gallery. \nBusiness of the House \nBUSINESS STATEMENT \nHon LOUISE UPSTON (Leader of the House) ( 14:01): Today, the House will adjourn \nuntil Tuesday, 15 September. That week, the House will make progress on the Local Government \n(System Improvements) Amendment Bill, the Oranga Tamariki (Responding to Serious Youth \nOffending) Amendment Bill, and the Policing Amendment Bill. Celia Wade-Brown, Maureen Pugh, \nand the Hon Andrew Bayly will deliver their valedictory statements. \nHon KIERAN McANULTY (Labour) ( 14:02): I thank the Leader of the House for the \nupdate. We’ve been told by a couple of Government backbenchers that the Government intends \nto do urgency next sitting week. Could she confirm if that’s true. \nHon LOUISE UPSTON:  I know there’s lots of excitement about the final two weeks of the \nHouse sitting. What I can tell the member is that we will not be introducing legislation that \nincreases tax. \nSPEAKER: Very good. Now, only one person is called. \nRICARDO MENÉNDEZ MARCH (Musterer—Green) ( 14:02): Considering that we \nhave seen a net loss of members’ days as a result of the use of urgency, does the Leader of the \nHouse expect for there to be a members’ day in the next sitting block? \nHon LOUISE UPSTON (Leader of the House) (14:02): No. \nPresentation \nPETITIONS \nSPEAKER: A petition has been delivered to the Clerk for presentation. \nCLERK (14:02): Petition of Christchurch Methodist Mission requesting that the House urge the \nGovernment to increase investment in social and affordable housing in order to target funding \ntowards housing for older people. \nSPEAKER: That petition stands referred to the Petitions Committee. \nPAPERS \nSPEAKER: Ministers have delivered three papers. \nCLERK (14:03): 2025-26 annual reports for: \nSubject to Revision—Not to be Quoted or Distributed \nPage 2 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \n• New Zealand Parole Board \n• Office of the Māori Trustee, and \n• Government response to the report of the Justice Committee on the petition of \nDavid White MNZM. \nSPEAKER: Those papers are published under the authority of the House. \nSELECT COMMITTEE REPORTS \nSPEAKER: Twelve select committee reports have been delivered for presentation. \nCLERK (14:03):  \n• Report of the Education and Workforce Committee on the second scrutiny \nactivities report for the 54th Parliament \n• report of the Environment Committee on the Conservation Amendment Bill, \ninterim report \n• report of the Governance and Administration Committee on its second scrutiny \nactivities report for the 54th Parliament \n• reports of the Health Committee on the: \n• briefing from the Meningitis Foundation New Zealand \n• second scrutiny activities report for the 54th Parliament, and \n• petition of Judy Anderson \n• reports of the Justice Committee on the: \n• second scrutiny activities report for the 54th Parliament, and \n• Summary Offences (Move-on Orders) Amendment Bill and report of the \nAttorney-General under the New Zealand Bill of Rights Act 1990 \n• report of the Primary Production Committee on the Agricultural Compounds and \nVeterinary Medicines Amendment Bill \n• reports of the Regulations Review Committee on the: \n• briefing on Henry VIII clauses in legislation, and \n• complaint about the Accident Compensation (Definitions) Regulations 2019 \n• report of the Social Services and Community Committee on the Manatū Wāhine, \nMinistry for Women, Long-term Insights Briefing 2026. \nSPEAKER: The bills are set down for second reading, and the reports are set down for \nconsideration. No bills have been introduced. The House comes to oral questions. \nOral Questions to Ministers \nLOCAL GOVERNMENT \nQuestion No. 1 \nMIKE DAVIDSON (Green) ( 14:04) to the Minister of Local Government: Has he \nreceived any advice that shows that the rates cap will result in no savings for some households? \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 3 \nHon SIMON WATTS (Minister of Local Government) (14:04): I’ve received advice that \nthe amount an average household saves will depend on what their council would otherwise have \nincreased rates by, and how these rates are allocated. If a council is already close to or within the \ncap, the average savings will, naturally, be modest. That shows that the cap is workable when \ncouncils prioritise. But many ratepayers are facing double-digit increases. For example, under \nHamilton City Council’s 2024 to 2034 long-term plan, an average household was on track to pay \naround $6,400 a year by 2034. With increases limited to 4 percent, that would be around $4,170, \nsaving about $15,800 over a 10-year period. That is meaningful savings. \nMike Davidson: Does he think a young family saving $34 a year under the rates cap would be \nbetter or worse off once higher fees for pools, libraries, public transport, and car-parking are \nincluded, given his view in a Cabinet paper that a rates cap will “incentivise greater use of user \ncharges”? \nHon SIMON WATTS: First and foremost, I encourage the member to—[Interruption] \nSPEAKER: Just hold on—wait on. We’ll start that again. \nHon SIMON WATTS: Thank you, Mr Speaker. First and foremost, I’d encourage the member \nto read the bill in regards to rates capping. The cumulative effect of rates increases means that \nover a five- or 10-year period, Kiwi households will have considerable savings as a result of that \ncumulative effect being limited to 4 percent. Don’t forget the rates increases last year were 14 \npercent on average across New Zealand; this year, 9 percent—4 percent with respect to savings. \nWhat I also reflect is that not having a cap will not protect Kiwi ratepayers. Not having a cap will \nalso not protect them against those double-digit rate increases, and that is not the policy of this \nGovernment. \nMike Davidson: How does he reconcile his claim that households will save money, with the \nMinistry for the Environment’s feedback that “reduced rates revenue may be offset by increased \nfees for services such as swimming pool entry, library fines, and parking. This could result in no \nnet savings for many households.”? \nHon SIMON WATTS:  Well, on this side of the House, we understand the concept of \nprioritisation and making decisions in regards to spending that is within a limit. We don’t have a \ncredit card without a limit on this side of the House, by any stretch. Councils will, and should, \nprioritise their spending, like every single Kiwi household and business in this country. I make no \napology for councils needing to do that. Putting a limit on their increase of expenditure is a \nsensible and pragmatic thing to do to protect Kiwi households. \nMike Davidson: Does he accept that including water services investment, which is exempt from \nthe rates cap, in his figures for Waitaki District Council in his answer to oral questions on 25 \nAugust artificially inflated his claims of savings by nearly 80 percent? \nHon SIMON WATTS: No, because what I was providing there was an example of how much \nan average bill would increase—the differential between the average of 14 percent or 9 percent \nversus 4 percent. Basic maths would indicate to the member that when you increase cumulative \nbills by 14 percent or 9 percent, it is a heck of a lot bigger over a period of five or 10 years than \nat 4 percent. On this side of the House, we are on the side of Kiwi ratepayers. We want to protect \nKiwi ratepayers from unreasonable, rollercoaster rates increases. That’s what we’re doing; we \nmake no apologies for that. That side of the House has no plan to protect Kiwi ratepayers. \nMike Davidson: Is it correct that the biggest savings from his rates cap will go to owners of \nmultimillion-dollar houses and holiday homes who don’t need support, while struggling families \nmay only save as little as $34 a year, only to face higher costs from reduced local services? \nSPEAKER: A concise answer would be good. \nHon SIMON WATTS: No. \nSubject to Revision—Not to be Quoted or Distributed \nPage 4 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \nREVENUE \nQuestion No. 2 \nDAN BIDOIS (National—Northcote) ( 14:09) to the Minister of Revenue: Is the \nGovernment considering a capital gains tax on properties used for both residential and business \npurposes? \nHon SIMON WATTS (Minister of Revenue) ( 14:09): No, this Government will not \nintroduce a capital gains tax on the family home or on small businesses. For many Kiwis, the line \nbetween the two isn’t so simple. They might live in the front of a property and run their business \nfrom a workshop, garage, or an office out the back. We won’t punish people for using their own \nhomes to build a business and get ahead. We’re on the side of Kiwis that work hard, doing the \nright thing and wanting to get ahead. \nDan Bidois: Why do some New Zealanders choose to operate their business from the same \nproperty they live in? \nHon SIMON WATTS: Because, for many small-business owners, it is the most practical and \naffordable way for them to operate. A builder, for example, might keep their tools and equipment \nat home. A mechanic might have a workshop on their property, or an entrepreneur couple might \nlease out their house as an airbnb during the summer break. These are ordinary Kiwis, using \nwhat they have to build something for themselves and their family.  \nDan Bidois: What could a capital gains tax mean for a tradie or other small-business owner who \noperates their business from their family property? \nHon SIMON WATTS: It could mean being taxed 28 percent on part of their family property, \nsimply because they have used it to earn a living. That means that a Kiwi who has worked hard, \npaid their mortgage, and built a business from home could face a big tax bill when they sell or are \ndue to retire. That is the wrong message. It punishes aspiration, rather than rewarding it. On this \nside of the House, we back people who work hard, invest, and take risks, and we do that and we \nsay: no new taxes.  \nSOCIAL DEVELOPMENT AND EMPLOYMENT \nQuestion No. 3 \nHon CARMEL SEPULONI (Deputy Leader—Labour) ( 14:11) to the Minister for \nSocial Development and Employment: Does she stand by all her statements and actions? \nHon LOUISE UPSTON (Minister for Social Development and Employment) (14:11): \nYes, in the context in which they were given. \nHon Carmel Sepuloni:  Why, when 36,000 fifteen- to nineteen-year-olds are not in work, \neducation, or training, did she cut the access to jobseeker payments of 18- and 19-year-olds? \nHon LOUISE UPSTON: Because our Government is clear: we want 18- and 19-year-olds in \neducation, training, or employment, and if they’re not, we expect that their families do support \nthem. We know that going on welfare is a trap. If a young person goes onto the jobseeker benefit \nunder the age of 20, on average they will spend another 21 years of their life on welfare. Our side \nof the House is more aspirational for young people, and wants more for their futures.  \nHon Carmel Sepuloni: How can she say she is supporting young people into work, when in \nthis term, she has cut off their access to a benefit while also limiting non-beneficiaries’ access to \nemployment support programmes?  \nHon LOUISE UPSTON:  I refute that. We now have 4,000 young people in job coaching, \nwhich is a very intensive programme. We’re also incentivising those young people who then go \ninto employment and stay in a job for 12 months with a $1,000 bonus. We are doing things \ndifferently. We want to release young people from the trap that they would otherwise fall into if \nthose guys were still in office. We want more for them.  \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 5 \nHon Carmel Sepuloni: How can she deny that she has moved the goalposts for young people \naccessing Ministry of Social Development (MSD) employment programmes, when programmes \nlike Mana in Mahi, Flexi-wage, and the Mayors Taskforce for Jobs are almost entirely only \navailable to those on benefit under her watch? \nHon LOUISE UPSTON: As I said, we have higher aspirations for the other side in terms of \nyoung people. They have access to He Poutama Rangatahi; they have access to the Limited \nService Volunteer, one of the most successful programmes we have. Intensive job coaching. \nThere are now 70,000 New Zealanders in job coaching and case management. Case \nmanagement is the most effective intervention that MSD offers. We want more for young people, \nand we’ll never apologise for that.  \nSPEAKER: Just a reminder to the interjectors there: I didn’t cut anything off, although I’m \ntempted. \nHon Carmel Sepuloni:  Has she been advised if the Ministry of Social Development is \nrecommending that young people approaching them for help, who can no longer receive a benefit \nor get access to effective MSD employment programmes, should go and get a credit card? \nHon LOUISE UPSTON: No. We clearly want young people to be in education, in training, in \nemployment. That’s why in Budget 2026 we’ve invested more in Youth Guarantee, and in an \nadditional 10,000 places in trades training. We want to see young people get ahead in life, and \nthat’s why we are changing the settings to ensure that they have that opportunity.  \nHon Carmel Sepuloni: Is it the Minister’s view that it is better for a young person to owe money \non a credit card than to receive help from the Ministry of Social Development? \nHon LOUISE UPSTON:  As I said at the start, we believe that young people should be in \nemployment, education, or training, or supported by their families. If you look at comparable \ncountries, in Australia, there is a parental income test up to the age of 22; in France, you’ve got \nno access to welfare under the age of 25. This is a balanced approach— \nHon Willow-Jean Prime: This is New Zealand. You’re the Minister in New Zealand. \nHon LOUISE UPSTON: Well, we normally compare ourselves to Australia. I’ve just said it’s \nup to the age of 22, and, as I said, our side of the House is more aspirational for young people \nthan allowing them to get stuck on welfare, where they stay another 21 years of their life—21 \nyears. It’s got to be better than that. [Interruption] \nSPEAKER: Good, that’s enough. Just completely calm down. \nDr Tracey McLellan: You’re just making it up now. \nSPEAKER: I beg your pardon?  \nHon Carmel Sepuloni:  Why does she refuse to acknowledge that at a time of rising \nunemployment and job losses, she has actively made it harder for young people to get into work \nby restricting access to the very programmes designed to help them and has cut them off from \ngetting welfare support, and how can young people possibly afford another three years of a \nNational Government? \nHon LOUISE UPSTON: Very simply: because our side of the House knows that growing the \neconomy grows employment opportunities; 220,000 is the Treasury forecast. A job for a young \nperson is a better life, a better future, and we’re going to stick with that every day of the week, \nbecause we’re fixing the basics, and building the future for young New Zealanders. [Interruption] \nSPEAKER: That general barrage like that has to stop. It’s the last question like that. \nSubject to Revision—Not to be Quoted or Distributed \nPage 6 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \nREVENUE \nQuestion No. 4 \nSUZE REDMAYNE (National—Rangitīkei) ( 14:17) to the Minister of Revenue: Is the \nGovernment considering introducing an inheritance or gift tax? \nHon SIMON WATTS (Minister of Revenue) ( 14:17): No, this Government will not \nintroduce an inheritance or gift tax. New Zealanders work hard, save, and invest so that they can \nbuild a better future for themselves and their families. This Government backs aspiration, and we \nwill not be waiting at the end with another tax. [Interruption] \nSPEAKER: Just a moment. I made the point before that when a question is being asked, no \none else speaks, and when a Minister is answering a question, he doesn’t need his colleagues to \nassist him—or her.  \nSuze Redmayne: What types of New Zealanders could be affected by an inheritance or gift tax? \nHon SIMON WATTS: All New Zealanders who have worked hard will build up assets over \ntheir lifetime. An inheritance tax could tax a home; a small business; people with a farm, savings, \ninvestments, or other assets they want to pass on to their children. These are everyday New \nZealanders who have spent decades building something up for themselves and their families. In \nwhat may already be one of the hardest moments in someone’s life—having just lost a parent or \na loved one—the last thing a family should face is an inheritance tax bill from the Government. \nSuze Redmayne:  What impact could an inheritance or gift tax have on New Zealanders’ \nincentives to save, invest, and build something for the next generation? [Interruption] \nSPEAKER: Is somebody else wanting to answer the question? \nHon SIMON WATTS: It sends a chilling message to hard-working Kiwis. Instead, on this side \nof the House, we want New Zealanders to save, to invest, to build businesses and create wealth \nfor themselves and their children. Layering new taxes on people who do these things would \ndiscourage investment, hold back growth, and make it harder for Kiwi families to get ahead. That \nis not what we stand for on this side of the House. Our focus is on fixing the basics, building the \nfuture, and no new taxes. \nRMA REFORM \nQuestion No. 5 \nHon WILLIE JACKSON (Labour) ( 14:19) to the Minister responsible for RMA \nReform: Does he stand by his statement that “it's absolutely paramount for this Government that \nwe protect settlements that have been entered into in good faith”; if not, why? \nHon PAUL GOLDSMITH (Minister of Justice) ( 14:20) on behalf of the Minister \nresponsible for RMA Reform: Yes. \nHon Willie Jackson: How is overriding the Environment Court, which ruled earlier this year that \nplan change 1 (PC 1) must remain central to protecting the Waikato and Waipā rivers, acting in \ngood faith with iwi? \nHon PAUL GOLDSMITH:  Well, on behalf of the Minister, the Government’s decision to \npause PC1 is a practical measure to support the transition to the new planning system. PC1 \narrives at the very moment our new planning system is replacing the Resource Management Act \n(RMA), and we don’t want farmers and growers to incur the costs in transitioning into PC1’s farmer \nenvironmental plan and consent framework, which will soon be replaced by others.  \nHon Willie Jackson: Can the Minister explain why Waikato-Tainui, Raukawa, Ngāti Maniapoto, \nTe Arawa, and Tūwharetoa jointly wrote to him warning that his delay would be a direct breach, \nand can he tell this House which one of those five iwi he decided to listen to before ignoring all of \nthem? \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 7 \nHon PAUL GOLDSMITH: Well, on behalf of the Minister, I certainly did not ignore them. We \nmet with iwi multiple times, as did officials. The proposal does not change the Government’s \ncommitment to upholding Treaty settlements, including Te Ture Whaimana o te Awa o Waikato. \nNo settlement says we could never change the planning system, and so what we’re working on \nis adjusting that arrangement for the new system. \nHon Willie Jackson:  Does he agree with Tukoroirangi Morgan that the Government has \n“step[ped] in to override judicial directions at the behest of their political donors”, and is that \nanother example of good faith? \nHon PAUL GOLDSMITH: On behalf of the Minister, no, I don’t agree with that statement. \nHon Willie Jackson: Will he attend Koroneihana to discuss why, at the start of his own RMA \nreforms, plan changes giving effect to Treaty settlements—including PC1—would continue, and \nthen break that commitment three months later without the agreement of any of the five iwi \naffected, and if not, why? \nHon PAUL GOLDSMITH: On behalf of the Minister, I’m not sure of my travel plans, but I do \nknow that my excellent colleagues, Ministers Potaka and Goldsmith, will be attending. \nSOCIAL DEVELOPMENT AND EMPLOYMENT \nQuestion No. 6 \nRICARDO MENÉNDEZ MARCH (Green) ( 14:22) to the Minister for Social \nDevelopment and Employment: What are the terms of reference, if any, of the review of the \nwrongful benefit suspensions, and will the review consider compensation? \nHon LOUISE UPSTON (Minister for Social Development and Employment) (14:23): \nI have made it clear to the Ministry of Social Development (MSD) that the review will consider the \nwinter energy payment issue and processing delays. The review will cover what has occurred and \nwho has been affected in operationalising mandatory reviews and any further actions that may \nbe needed to prevent these issues happening again. As I’ve already made clear in the House, I \nwill wait for the findings of the review on 10 September. \nRicardo Menéndez March: Does she acknowledge that supported living payment recipients \nwere captured by mandatory reviews, which ended up leading to processing delays, meaning that \nthey live often week to week without any savings; and, if so, does she accept that even a week’s \nworth of missed payments could push people into hardship, hunger, or homelessness? \nHon LOUISE UPSTON:  As I’ve already said, the suspension of payments that was made \nincorrectly will have had an impact on New Zealanders, and I accept that that would have been \nchallenging for many, which is why I had asked MSD to focus with urgency on making sure that \nthose payments were reinstated and backdated at pace. \nRicardo Menéndez March:  If she recognises the impact this could have had on people, \nincluding people being left hungry, potentially homeless, or in hardship, why is she not \ncommenting on the possibility of compensation? \nHon LOUISE UPSTON: Well, as I’ve said, I will wait for the findings of the review. \nRicardo Menéndez March: What is the point of an apology if she’s not even willing to consider \nthe option of compensation for harm that may have occurred and which is not redressed through \nback payments, as that cannot make up for potential debt or harm or worsening health outcomes \nthat people may have experienced due to missed payments? \nHon LOUISE UPSTON: As I said, the review will cover many components, including who has \nbeen affected, and that’s why I’m waiting for that review. \nSubject to Revision—Not to be Quoted or Distributed \nPage 8 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \nTOURISM AND HOSPITALITY \nQuestion No. 7 \nCATHERINE WEDD (National—Tukituki) ( 14:25) to the Minister for Tourism and \nHospitality: What recent progress has she seen on tourism in New Zealand?  \nHon LOUISE UPSTON (Minister for Tourism and Hospitality) ( 14:25): Recent data \nfrom Statistics New Zealand shows New Zealand’s international visitor numbers continue to climb. \nOver 201,000 international visitors arrived in New Zealand in June 2026, which is up 8.1 percent \non June 2025. That puts international visitor arrivals for June at 95 percent of the 2019 levels for \nthe same period. Growing tourism is a key part of our Government’s plan to fix the basics and \nbuild the future. This progress shows that our plan to grow the economy is working.  \nCatherine Wedd: What markets are seeing the strongest growth?  \nHon LOUISE UPSTON:  We are seeing continued growth from our largest visitor market—\nAustralia—with 108,200 arrivals, which is up 14 percent from last June. There was also strong \ngrowth from other key tourism markets, including from China, with visitor arrivals reaching 14,300, \nwhich is up 27 percent compared to June last year. Close to 200,000 cruise ship passengers are \nalso expected to arrive in New Zealand this season, with the launch at the weekend of the cruise \nseason. We are seeing the flow on of growth and confidence in our tourism and hospitality sector \nas more visitors choose New Zealand as their next holiday destination.  \nCatherine Wedd: What steps is the Government taking to support progress in tourism growth?  \nHon LOUISE UPSTON:  We know domestic visitors generate nearly twice as many guest \nnights as international visitors and account for around two-thirds of all guest nights across New \nZealand. We do not believe that New Zealanders booking a weekend away or travelling for a \nfamily funeral, or a sports team travelling for a game should face an additional tax on top of the \ncosts they already pay when travelling domestically. That’s why we don’t believe in a bed tax and \nwe are working hard to attract more tourists to New Zealand, because the more visitors we have \nin our cities and regions, the more money is being spent in shops and cafes. It’s a key part of our \nplan to grow the economy so that we can keep investing in the front-line public services Kiwis rely \non, without having to reach for new taxes.  \nHEALTH \nQuestion No. 8 \nHon Dr AYESHA VERRALL (Labour) ( 14:27) to the Minister of Health: Does he \nstand by his statement that “A sustainable health system relies on a steady pipeline of skilled New \nZealand-trained nurses entering the workforce”; if so, why?  \nHon MATT DOOCEY (Associate Minister of Health) (14:28) on behalf of the Minister \nof Health: Yes, in the context it was made. As the member will be aware, more than 2,100 \nadditional nurses, on a net basis, have been employed by Health New Zealand since 2023, which \nequates to a net increase of 1,640 fulltime-equivalents. The Government remains focused on \nbuilding on this track record so that we can continue to reduce wait times for patients and build \nthe future of our healthcare system. That is why, as at 14 August, there were 2,378 fulltime-\nequivalent nursing roles actively being recruited across Health New Zealand, including 475 \nnurses who have accepted offers, with thousands more progressing through recruitment.  \nTangi Utikere: Why have emergency department staff in Palmerston North had to resort to \nbegging Health New Zealand to send urgent help after he cut the number of nurses by 25 over \nthe past two years?  \nHon MATT DOOCEY:  Well, clearly, from my primary answer, that is incorrect, and what I \nwould point to is putting a wrecking ball to the health system in the middle of a pandemic, \ncentralising the health system, and taking away local decision-making. That member’s question \nreinforces why, on 1 July, we brought back local decision-making for budgets, service delivery, \nand recruitment decisions.  \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 9 \nHon Dr Ayesha Verrall: Supplementary. [Interruption] \nHon Kieran McAnulty: Point of order, sir.  \nSPEAKER: No, just a moment. You can’t just—OK, point of order, the Hon Kieran McAnulty.  \nHon Kieran McAnulty: Point of order, Mr Speaker. I’m just seeking clarity from you as to the \nprocess. When a Minister makes an incorrect statement on behalf of another Minister, which \nMinister is required to correct that statement in the House?  \nSPEAKER: Then it would be, presumably, the Minister on whose behalf the mistake has been \nmade. Can I just say I could hear some of these things better if there wasn’t quite so much \ninterjection. \nHon Jo Luxton: Why, when emergency department (ED) nurses are having to strike for safe \nstaffing at Gisborne Hospital, has he hired just two additional nurses across the entire district in \nthe last year? \nHon MATT DOOCEY: On behalf of the health Minister, it is not for the Labour Party or the \nunions to decide safe staffing levels; it’s a clinical decision by Health New Zealand, and the advice \nI’ve got is 75 percent of shifts have been on or above target. \nCushla Tangaere-Manuel: Why isn’t he taking action to raise the number of Māori nurses \nwhen only 7 percent of nurses are Māori and Māori experience worse health outcomes? \nHon MATT DOOCEY: On behalf of the Minister, I would like to point to the great work of the \nmental health Minister, with the mental health commission in its latest report pointing to the \nincreased diversity in our health workforce, specifically our nursing health workforce. \nSPEAKER: The Hon Phil Twyford—and nobody else. \nHon Phil Twyford: Why, when stroke patients at Waitakere Hospital’s Muriwai ward are left \nlanguishing in wet beds and at risk of falls due to lack of nurses, has he only hired 54 nurses \nacross New Zealand in the last two years? \nHon MATT DOOCEY:  On behalf of the Minister, I won’t take any crocodile tears from the \nOpposition, because when they were in Government, nursing vacancies topped at 2,632. As of \nMarch 2026, they’re down to 1,600. The vacancy rate, 8.6 percent for nurses, is now down to \n5.2 percent. We are delivering. \nRachel Boyack: Supplementary. \nSPEAKER: Yep— \nRachel Boyack: Rachel Boyack. \nSPEAKER: —Rachel Boyack. \nRachel Boyack: Why, when he has cut the number of nurses in the top of the South by 30 \nfulltime-equivalents in the past year alone, are nurses being forced to pick and choose which \npatients get care each day? \nHon MATT DOOCEY: On behalf of the health Minister, you only need to refer to my primary \nanswer that shows that, actually, the trend line shows that we have employed not only more \nnurses, but when you look at the numbers that we’ll offer employment to 1,800 graduate nurses, \nthat is the biggest offer in any year of the last seven years. \nShanan Halbert: Why, when North Shore ED nurses have declared a state of emergency due \nto a critical lack of staff, which has left elderly patients in soiled beds, has he failed to properly \nstaff North Shore Hospital? \nHon MATT DOOCEY: On behalf of the health Minister, that is the very reason why we have \nrecruited more nurses into roles to drive down vacancy rates. That is the very reason why we \nSubject to Revision—Not to be Quoted or Distributed \nPage 10 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \nhave funded more into winter preparedness plans. That is the very reason why this Government \nis the first Government to deliver an online 24/7 primary care service to take the pressure off ED. \nLemauga Lydia Sosene: When he has cut the number of nurses at Middlemore Hospital by 74 \nover the past two years, is it any wonder that nurses are saying, “We’re sinking quite quickly \nbecause people are so sick.”? \nHon MATT DOOCEY: On behalf of the health Minister, what I say nurses are saying through \nthe turnover rate is under their watch it was 11.7 percent; now it’s down to 8.4 percent. Nurses \nare saying they’re staying. \nRt Hon Winston Peters:  Could the Minister tell us, during the massive nurse shortages by \n2023, how many of those questioners were asking questions in Parliament about that? \nHon MATT DOOCEY: On behalf of— \nSPEAKER: No, you don’t have responsibility for a previous Parliament. \nHon Dr Ayesha Verrall:  Why, when hospitals across New Zealand are in urgent need of \nnurses, will he not commit to offering every New Zealand trained nurse a job? \nHon MATT DOOCEY: On behalf of the Minister of Health, what a reckless policy, to spend \nhalf a billion dollars on committed funding already in the health system. That member needs to \ncome clean. What will she cut to pay for it— \nSPEAKER: No, no—stop. You’re going to address the question, not start with an attack. Please \naddress the question—or ask the question again. \nHon Dr Ayesha Verrall: Why, when hospitals across New Zealand are in urgent need of more \nnurses, will he not commit to offering every New Zealand-trained nurse a job? \nHon MATT DOOCEY: On behalf of the Minister, it’s amazing how everything seems so easy \nwhen you’re in Opposition and do very little in Government. The figures I’ve said today, of offering \nto 1,800 graduate nurses, is the biggest offer in this country out of any year for the last seven \nyears. We’re committed to growing the workforce. That is why vacancy rates have come down, \nturnover rates have come down, but most of all, there are 2,100 more nurses at the front lines of \nour health system.  \nSPEAKER: I’ve taken further advice from the point of order raised by the Hon Kieran McAnulty \nbefore. I’m advised that because members are responsible only for their own statements in the \nHouse, the Minister answering on behalf would be responsible for correcting incorrect statements.  \nSMALL BUSINESS AND MANUFACTURING \nQuestion No. 9 \nGRANT McCALLUM (National—Northland) ( 14:36) to the Minister for Small \nBusiness and Manufacturing: Does the Government have any plans to introduce a capital \ngains tax on small businesses?  \nHon CAMERON BREWER (Minister for Small Business and Manufacturing) \n(14:37): No. The Government has no such plans. My focus as Minister for Small Business and \nManufacturing is on lowering costs for businesses and backing the nearly 600,000 small \nbusinesses in New Zealand to grow and succeed. Taxing owners on the premises that they have \nspent a lifetime building would do the opposite. This Government backs the people who take the \nrisk and build something.  \nGrant McCallum:  What has the Minister heard from small-business owners about what \nhappens to property that they operate from when they sell up? \nHon CAMERON BREWER: What I hear constantly is that the two cannot be separated. If \nthe member was to look on what he would call his “TradeMe machine”, what he would see today, \nfor sale, is a mechanic in the Hutt, a pub in Hokitika, a motorbike dealer in Ngātea—businesses \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 11 \nand building sold as one. For those owners, that building is their retirement plan. If the workshop’s \nvalue rises by $100,000, a capital gains tax, at 28 percent, takes $28,000 off it. A tax on the shop \nfloor is a tax on their hard-earned retirement. \nGrant McCallum: How would such a capital gains tax affect owners who face selling up not \nby choice but because of ill-health or a relationship breakdown? \nHon CAMERON BREWER: It would hit them at the worst possible moment. These things \ncannot be planned: a diagnosis arrives, a marriage ends, and an owner shuts up shop and has \nto take whatever the sale brings. They are not selling at the top of the market; they are selling \nbecause they have to. A capital gains tax on top of that is just, frankly, salt in the wound. Taxing \nsomeone on the way out is not taxing success; it is taxing bad luck.  \nTERTIARY EDUCATION \nQuestion No. 10 \nSHANAN HALBERT: How many people were there in work-based learning last year, and \nhow does that compare to the number of people in work-based learning in 2023? \nHon PENNY SIMMONDS: Point of order, Mr Speaker. I’m wondering if the person asking \nthe question might like to read from the actual question that he put. \nSHANAN HALBERT (Labour) (14:39) to the Minister for Tertiary Education: How \nmany people were there in work-based learning last year, and how does that compare to the \nnumber of people in work-based learning in 2023? \nHon PENNY SIMMONDS: Mr Speaker, would he like to try another go at it? \nSPEAKER: No, he wouldn’t, and it might be a good idea to take a view that the Leader of the \nHouse would want things to be moving along, I’m sure, quite speedily given the debate that’s \ncoming. \nHon PENNY SIMMONDS (Minister for Tertiary Education) ( 14:40): Thank you, Mr \nSpeaker. There were 138,730 learners in work-based learning in 2023, and 108,315 learners in \n2025. This decline in apprentice numbers reflects lower levels of business confidence that we \ninherited from the previous Government, driven by higher costs and economic pressures, \nparticularly in the construction sector. The good news is that recent Treasury forecasts predict \n220,000 more jobs being created over the next four years, so we expect to see apprentice \nnumbers track up as businesses feel more confident in training new staff—as long as they haven’t \ngot to face nine new taxes. \nShanan Halbert: Is it correct that the number of apprentices has dropped to a 15-year low \nunder her watch? \nHon PENNY SIMMONDS:  Well, as I said before, it was an economic situation that we \ninherited. What I can say, though, is that the previous number of apprentices through \nApprenticeship Boost were not actually completing their qualifications, so there was a significant \ndecline in credit-completion rates: in 2021, 67 percent only; in 2025, 86 percent credit-completion \nrates. Apprentice retention rates have increased under this Government and attrition rates have \ndecreased. That is a better outcome. \nShanan Halbert: Does she agree with Building and Construction ITO chief executive Jason \nHungerford, who said, “We’ve got around 600 people ready and willing to start an apprenticeship \nright now. What we don’t have is perhaps the confidence in some of those employers that are \nwilling to take that next step and take them on.”? \nHon PENNY SIMMONDS: I agree with Jason Hungerford BCITO CEO when he said, “There \nare signs that building and construction are starting to recover, and that should result in more \napprentices and workplace training.” \nSubject to Revision—Not to be Quoted or Distributed \nPage 12 HOUSE OF REPRESENTATIVES Thursday, 3 September 2026 \nShanan Halbert: Does she agree with Energy and Infrastructure Industry Skills Board chief \nexecutive, Philip Aldridge, who said that a lack of apprentices means “we’re going to have difficulty \nresourcing up for key initiatives, whether it’s roading, water, extractive projects”? \nHon PENNY SIMMONDS:  I agree with the Manufacturing and Engineering Industry Skills \nBoard, which says manufacturing companies are intending to increase apprentice numbers: \n“Apprentice numbers have generally been subdued for a few years as we’ve come off a post-\nCOVID high and business confidence being hit by the extended war in the Gulf. However, our \nmanufacturing and engineering industries have been continuing, with signs of recovery and \ngrowth over the last year, and many companies now face skill shortages and consequently are \nlooking to take on more apprentices.” \nShanan Halbert: Is she surprised that her plan of “cut, cut, disestablish, cut” has led to a drop \nin apprenticeship numbers and will leave key industries struggling for workers? \nHon PENNY SIMMONDS: As I’ve said before, it’s very difficult to cut a budget that wasn’t \nthere, and there was no budget for Apprenticeship Boost from the end of 2024. This Government \nrescued Apprenticeship Boost and targeted Apprenticeship Boost, and therefore, we are \ndelighted to see that so many industries are intending to take on more apprentices as the \neconomy grows. It is why we are so focused on growing the economy, not adding more taxes. \nFOOD SAFETY \nQuestion No. 11 \nCAMERON LUXTON (ACT) ( 14:45) to the Minister for Food Safety: What recent \nannouncements has he made about reducing barriers to New Zealanders accessing home-kill \nand hunted meats? \nHon ANDREW HOGGARD (Minister for Food Safety) (14:45): This week, I announced \nthat the Government is consulting on the rules for home-kill and hunted meat, including the 28-\nday rule. This rule means that if you buy, or are given, an animal off a local farmer, a listed home-\nkill provider cannot process it for you until you’ve shown that you’ve been caring for it for 28 days. \nNo one has looked at these rules in 20 years, and this consultation is part of a sustained \nGovernment effort to reduce red tape and bring the cost of good quality food down for consumers. \nCameron Luxton: Why does the Minster believe the 28-day rule needs looking at? \nHon ANDREW HOGGARD: If a neighbour or a close friend wants to come to my farm and \nI’m prepared to sell or even give them—probably not give them—a lamb or a beast for the freezer, \nthen I can’t see why the Government would stand in the way of that. Not only does it give people \naccess to more affordable food, but it also supports thriving and more connected rural \ncommunities. This consultation will be about testing whether there genuinely is a food safety need \nfor this rule or whether it’s just an example of a silly rule that’s just standing in the way of unlocking \nNew Zealand’s potential. \nCameron Luxton: What impact would this change have on food prices? \nHon ANDREW HOGGARD:  I can’t be concrete in my numbers, but my experience as a \nfarmer, sending animals to the works, is that you get paid a lot less for that animal than if you \nwere to go and buy it piece by piece in the supermarket. Being able to supply meat, this animal, \ndirectly to people will leave that difference in their back pocket. \nCameron Luxton: What has the Minister heard from farmers and hunters about donating meat? \nHon ANDREW HOGGARD: I’ve heard from hunters and farmers who want to give meat to \nlocal sports clubs, community organisations, or food banks and aren’t sure if they’re allowed to. \nThere are ways to donate, but there does appear to be some inconsistency in different pieces of \nlegislation, which is driving uncertainty among people who want to help. Meat is the number one \nthing food banks are looking for, and the dearest thing for them to provide. That’s a waste on both \nsides, and it’s worth cleaning up. \nSPEAKER: Do you take cash for those cattle beasts, or how does it work? \nSubject to Revision—Not to be Quoted or Distributed \nThursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 13 \nHon ANDREW HOGGARD: With the GST. I don’t want to upset the revenue Minister. \nJUSTICE \nQuestion No. 12 \nCELIA WADE-BROWN (Green) (14:47) to the Minister of Justice: What actions, if any, \nhas his Government taken to lift voter enrolment among 18- to 24-year-olds? \nHon PAUL GOLDSMITH (Minister of Justice) ( 14:48): I’m advised that $18.1 million \nhas been allocated by the Electoral Commission to support enrolment in the 2026 election, after \nthe Government provided an additional $61.8 million in the Budget 2025 to support the \neffectiveness and timeliness of electoral services. That $18 million compares with $10.8 million \nin the previous election. The Electoral Commission, I note, of course, is independent and is \nundertaking a significant, nationwide information and education programme, which will help young \npeople and first-time voters know how to enrol. I’m sure every New Zealander will have seen all \nthe various notices around town. \nCelia Wade-Brown:  What is he doing to ensure the Electoral Commission’s outreach to \nrangatahi is effective, given enrolment among 18- to 24-year-olds is just 57.5 percent and \nsignificantly lower than at the same time in the last election? \nHon PAUL GOLDSMITH: I’ll give the member the latest figures: yes, overall, enrolment is \nat 89.7 percent, compared with 88.7 percent three years ago. So we’re actually ahead, but it’s \ntrue that when it comes to young people, it’s currently 56.9 percent, compared with 59.7 percent, \nso we’re two points below where we were. My encouragement to the Electoral Commission and \nto the young people of New Zealand will be to get themselves enrolled as quickly as possible. \nThat is why we’ve put some extra resources into the hands of the Electoral Commission, but I do \nnote they are being very energetic in their efforts to get people enrolled. \nCelia Wade-Brown: Why is he making it harder to vote during the 13-day pre-election period, \nthe exact period when, last election, about 50,000 young people enrolled to vote? \nHon PAUL GOLDSMITH:  Well, that 50,000 enrolled to vote during that period last time \nbecause they could; but this time, they won’t be able to, and we’ve been sending a very clear \nmessage for a very long time now that the rules have changed. We’ve done that because we \nwere facing an ever-increasing number of special votes, and special votes take 10 times as long \nto deal with after the election. I encourage young people to tune in. For example, as well as \nadvertising in news media and in in-person community events and digital social channels that are \nbeing used, the Electoral Commission is also advertising on channels that young people use—in \nparticular, Snapchat, TikTok—and they’re even advertising on gaming platforms, so thorough is \ntheir effort to ensure that people have every opportunity to get enrolled. But I would remind people \nthat are tuning in and listening to this that it is a requirement under the law, if you are 18, to be \nenrolled. And so get yourself enrolled—it’s not hard—and then you can vote. \nCelia Wade-Brown: What does he say to young people in Ōtāhuhu and Manurewa where \nfewer than 42 percent of eligible 18- to 24-year-olds are enrolled? \nHon PAUL GOLDSMITH: My message to the young people of Ōtāhuhu is get enrolled. It’s \nnot hard to do, and if you want to vote, you should get yourself enrolled. My advice to them, of \ncourse, would be to party vote National. \nSPEAKER: That concludes oral questions. We’ll take a short pause while members who have \nto leave the House do so quietly and without conversation on the way. \nThis early draft is automatically published - it is not yet complete and reviewed. \n ",
+  "raw_text_length": 45878,
+  "parser": "scrape_hansard.py/v1.2-pdf"
+}

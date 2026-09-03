@@ -1,62 +1,162 @@
 {
-  "updated_at": "2026-09-03T04:15:10.100640+00:00",
+  "updated_at": "2026-09-03T05:03:28.724959+00:00",
   "coverage_note": "HTML Hansard on parliament.nz is reliably available from ~Feb 2003. Winston Peters first elected 25 Nov 1978; pre-2003 needs PDF/OCR.",
   "days": {
     "2026-08-21": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:12:23.299769+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:19.824140+00:00"
     },
     "2026-08-22": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:12:36.365569+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:22.600365+00:00"
     },
     "2026-08-23": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:12:49.066423+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:25.378022+00:00"
     },
     "2026-08-24": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:13:01.774293+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:28.182810+00:00"
     },
     "2026-08-25": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:13:14.466091+00:00"
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-25/2026-08-25-daily.pdf",
+      "title": "Tuesday, 25 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:02:51.056489+00:00",
+      "path": "data/days/2026-08-25.json",
+      "raw_text_length": 2246837
     },
     "2026-08-26": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:13:27.393742+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:54.236133+00:00"
     },
     "2026-08-27": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:13:40.085816+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:02:58.011852+00:00"
     },
     "2026-08-28": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:13:52.779497+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:03:01.206461+00:00"
     },
     "2026-08-29": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:14:06.118803+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:03:04.091687+00:00"
     },
     "2026-08-30": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:14:18.867791+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:03:06.868369+00:00"
     },
     "2026-08-31": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:14:31.606600+00:00"
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:03:09.645974+00:00"
     },
     "2026-09-01": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:14:44.637921+00:00"
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-09-01/2026-09-01-daily.pdf",
+      "title": "Tuesday, 1 September 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:03:16.661272+00:00",
+      "path": "data/days/2026-09-01.json",
+      "raw_text_length": 345874
     },
     "2026-09-02": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:14:57.372329+00:00"
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-09-02/2026-09-02-daily.pdf",
+      "title": "Wednesday, 2 September 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:03:24.375516+00:00",
+      "path": "data/days/2026-09-02.json",
+      "raw_text_length": 391209
     },
     "2026-09-03": {
-      "status": "missing",
-      "scraped_at": "2026-09-03T04:15:10.100578+00:00"
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-09-03/2026-09-03-daily.pdf",
+      "title": "Thursday, 3 September 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:03:28.720570+00:00",
+      "path": "data/days/2026-09-03.json",
+      "raw_text_length": 45878
+    },
+    "2026-08-05": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-05/2026-08-05-daily.pdf",
+      "title": "Wednesday, 5 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:01:08.896323+00:00",
+      "path": "data/days/2026-08-05.json",
+      "raw_text_length": 546570
+    },
+    "2026-08-06": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-06/2026-08-06-daily.pdf",
+      "title": "Thursday, 6 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:01:19.559812+00:00",
+      "path": "data/days/2026-08-06.json",
+      "raw_text_length": 204126
+    },
+    "2026-08-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:22.371296+00:00"
+    },
+    "2026-08-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:25.418156+00:00"
+    },
+    "2026-08-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:29.367816+00:00"
+    },
+    "2026-08-10": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:32.852952+00:00"
+    },
+    "2026-08-11": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:35.644054+00:00"
+    },
+    "2026-08-12": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:39.049089+00:00"
+    },
+    "2026-08-13": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:41.823318+00:00"
+    },
+    "2026-08-14": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:46.128641+00:00"
+    },
+    "2026-08-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:49.235613+00:00"
+    },
+    "2026-08-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:52.017773+00:00"
+    },
+    "2026-08-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-03T05:01:54.878317+00:00"
+    },
+    "2026-08-18": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-18/2026-08-18-daily.pdf",
+      "title": "Tuesday, 18 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:02:01.824309+00:00",
+      "path": "data/days/2026-08-18.json",
+      "raw_text_length": 335004
+    },
+    "2026-08-19": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-19/2026-08-19-daily.pdf",
+      "title": "Wednesday, 19 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:02:10.839084+00:00",
+      "path": "data/days/2026-08-19.json",
+      "raw_text_length": 570624
+    },
+    "2026-08-20": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-08-20/2026-08-20-daily.pdf",
+      "title": "Thursday, 20 August 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-03T05:02:17.029498+00:00",
+      "path": "data/days/2026-08-20.json",
+      "raw_text_length": 222630
     }
   }
 }
