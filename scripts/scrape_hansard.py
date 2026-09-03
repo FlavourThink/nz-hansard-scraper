@@ -10,7 +10,13 @@ Usage:
   python scripts/scrape_hansard.py --date 2024-08-14
   python scripts/scrape_hansard.py --from 2003-02-01 --to 2026-08-16 --delay 2.5
   python scripts/scrape_hansard.py --recent 14
+  python scripts/scrape_hansard.py --recent 14 --backfill-days 40
   python scripts/scrape_hansard.py --reindex
+
+--backfill-days N  Walk backward from the saved cursor toward 2003-02-01.
+                   Checks up to N weekdays per run, then stops and saves
+                   the cursor so tomorrow continues. That is how history
+                   fills slowly without one giant job.
 """
 
 from __future__ import annotations
@@ -24,6 +30,8 @@ from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
+from io import BytesIO
+from pypdf import PdfReader
 
 import requests
 from bs4 import BeautifulSoup
@@ -66,6 +74,8 @@ HEADERS = {
 
 # Sitting weekdays only (House does not sit every day)
 # We still try every date; non-sitting days simply 404 / empty.
+
+PDF_DAILY = "https://hansard.parliament.nz/api/resources/daily/related/{d}/{d}-daily.pdf"
 
 SESSION = requests.Session()
 SESSION.headers.update(HEADERS)
@@ -145,126 +155,84 @@ def candidate_urls(d: date) -> list[str]:
     return urls
 
 
-def find_hansard_page(d: date, delay: float) -> tuple[str, str] | None:
-    """
-    Try candidate URLs; return (final_url, html) for the first that looks like Hansard.
-    """
-    for url in candidate_urls(d):
-        print(f"  try {url}")
-        r = fetch(url, delay=delay)
-        if r is None:
-            continue
-        html = r.text
-        # Heuristic: real Hansard pages are long and mention debate/question markers
-        if len(html) < 2000:
-            continue
-        lower = html.lower()
-        if any(
-            x in lower
-            for x in (
-                "hansard",
-                "oral question",
-                "speaker",
-                "nzpd",
-                "debate",
-                "member for",
-            )
-        ):
-            return r.url, html
-    return None
+def fetch_daily_pdf(d: date, delay: float) -> tuple[str, bytes] | None:
+    """Official daily Hansard PDF. 200 + PDF = sitting day. 404 = House did not sit."""
+    url = PDF_DAILY.format(d=d.isoformat())
+    print(f"  try {url}")
+    time.sleep(max(0.0, delay))
+    try:
+        r = SESSION.get(url, timeout=60)
+    except requests.RequestException as e:
+        print(f"  request error: {e}")
+        return None
+    ctype = (r.headers.get("content-type") or "").lower()
+    if r.status_code == 404:
+        return None
+    if r.status_code != 200 or "pdf" not in ctype:
+        print(f"  skip {r.status_code} {ctype[:40]}")
+        return None
+    if not r.content.startswith(b"%PDF"):
+        print("  body was not a PDF")
+        return None
+    return url, r.content
 
 
-# ---------------------------------------------------------------------------
-# Parse HTML → structured day record
-# ---------------------------------------------------------------------------
+def pdf_to_text(blob: bytes) -> str:
+    reader = PdfReader(BytesIO(blob))
+    parts = []
+    for page in reader.pages:
+        parts.append(page.extract_text() or "")
+    return "\n".join(parts)
+
 
 SPEAKER_RE = re.compile(
-    r"^(?:Hon\.?\s+|Rt\s+Hon\.?\s+|Dr\s+|Mr\s+|Mrs\s+|Ms\s+|Miss\s+)?"
-    r"([A-Z][a-zA-Z' -]+?)(?:\s*\(|:|\s{2,})",
+    r"^(?P<name>[A-ZĀĒĪŌŪ][A-ZĀĒĪŌŪa-zāēīōū\-''\. ]{2,80})"
+    r"(?:\s+\((?P<role>[^)]{0,80})\))?"
+    r"(?:\s+\((?P<time>\d{1,2}:\d{2})\))?\s*:\s*(?P<rest>.*)$"
 )
 
 
-def clean_text(s: str) -> str:
-    s = re.sub(r"\s+", " ", s).strip()
-    return s
-
-
-def parse_hansard_html(html: str, d: date, url: str) -> dict[str, Any]:
-    """
-    Best-effort parse. Parliament HTML structure has changed over time;
-    we keep both structured sections and a full plain-text fallback.
-    """
-    soup = BeautifulSoup(html, "lxml")
-
-    # Remove scripts/styles/nav noise
-    for tag in soup(["script", "style", "nav", "footer", "header"]):
-        tag.decompose()
-
-    title = None
-    if soup.title and soup.title.string:
-        title = clean_text(soup.title.string)
-    h1 = soup.find("h1")
-    if h1:
-        title = clean_text(h1.get_text(" ", strip=True))
-
+def parse_plain_text(plain: str, d: date, url: str) -> dict[str, Any]:
+    lines = [ln.strip() for ln in plain.splitlines()]
+    title = next((ln for ln in lines if ln and "HOUSE OF REPRESENTATIVES" in ln.upper()), "")
+    if not title:
+        title = f"Hansard {d.isoformat()}"
     sections: list[dict[str, Any]] = []
     current: dict[str, Any] | None = None
-
-    # Walk common heading + paragraph patterns
-    body = soup.find("main") or soup.find("article") or soup.body or soup
-    for el in body.find_all(["h1", "h2", "h3", "h4", "p", "div"], recursive=True):
-        name = el.name
-        text = clean_text(el.get_text(" ", strip=True))
-        if not text or len(text) < 2:
+    heading_guess = re.compile(r"^[A-ZĀĒĪŌŪ][A-ZĀĒĪŌŪ /,&\-']{8,}$")
+    for ln in lines:
+        if not ln:
             continue
-
-        if name in ("h1", "h2", "h3", "h4"):
-            current = {"heading": text, "items": []}
+        if heading_guess.match(ln) and "PAGE " not in ln:
+            current = {"heading": ln.title() if ln.isupper() else ln, "items": []}
             sections.append(current)
             continue
-
         if current is None:
             current = {"heading": "Body", "items": []}
             sections.append(current)
-
-        item: dict[str, Any] = {"type": "text", "text": text}
-
-        # Speaker detection (e.g. "Hon CHRIS HIPKINS: ...")
-        if ":" in text[:80]:
-            left, _, right = text.partition(":")
-            left = left.strip()
-            if 3 < len(left) < 80 and left[0].isupper():
-                item = {
-                    "type": "speech",
-                    "speaker": left,
-                    "text": right.strip() or text,
-                }
-
-        # Question markers
-        low = text.lower()
-        if low.startswith("question no") or "oral question" in low[:40]:
-            item["type"] = "question_header"
-
-        current["items"].append(item)
-
-    # Plain text fallback for search / bulk NLP
-    plain = clean_text(body.get_text("\n", strip=True))
-
+        m = SPEAKER_RE.match(ln)
+        if m and len(m.group("name").split()) <= 8:
+            current["items"].append({
+                "type": "speech",
+                "speaker": m.group("name").strip(),
+                "role": (m.group("role") or "").strip(),
+                "time": (m.group("time") or "").strip(),
+                "text": (m.group("rest") or "").strip(),
+            })
+        else:
+            current["items"].append({"type": "text", "text": ln})
     return {
         "date": d.isoformat(),
         "url": url,
+        "source": "daily-pdf",
         "scraped_at": datetime.now(timezone.utc).isoformat(),
         "title": title,
         "sections": sections,
         "plain_text": plain,
         "raw_text_length": len(plain),
-        "parser": "scrape_hansard.py/v1",
+        "parser": "scrape_hansard.py/v1.2-pdf",
     }
 
-
-# ---------------------------------------------------------------------------
-# Core scrape actions
-# ---------------------------------------------------------------------------
 
 def scrape_day(d: date, delay: float, force: bool = False) -> dict[str, Any] | None:
     DAYS.mkdir(parents=True, exist_ok=True)
@@ -275,13 +243,19 @@ def scrape_day(d: date, delay: float, force: bool = False) -> dict[str, Any] | N
         return json.loads(out.read_text(encoding="utf-8"))
 
     print(f"> scrape {d.isoformat()}")
-    found = find_hansard_page(d, delay=delay)
+    found = fetch_daily_pdf(d, delay=delay)
     if not found:
-        print(f"  no Hansard page for {d.isoformat()}")
+        print(f"  no sitting PDF for {d.isoformat()}")
         return None
 
-    url, html = found
-    record = parse_hansard_html(html, d, url)
+    url, blob = found
+    plain = pdf_to_text(blob)
+    if len(plain.strip()) < 80:
+        print("  PDF had almost no text")
+        return None
+    record = parse_plain_text(plain, d, url)
+    pdf_path = DAYS / f"{d.isoformat()}.pdf"
+    # do not store the binary in git by default — text JSON is the record
     out.write_text(
         json.dumps(record, ensure_ascii=False, indent=2) + "\n",
         encoding="utf-8",
@@ -294,7 +268,7 @@ def update_index_for_day(index: dict[str, Any], record: dict[str, Any] | None, d
     key = d.isoformat()
     if record is None:
         index["days"][key] = {
-            "status": "missing",
+            "status": "no_sitting",
             "scraped_at": datetime.now(timezone.utc).isoformat(),
         }
         return
@@ -327,6 +301,71 @@ def reindex_from_files(index: dict[str, Any]) -> dict[str, Any]:
     return index
 
 
+
+HTML_START = date(2003, 2, 1)
+
+
+def backfill_chunk(index: dict[str, Any], n: int, delay: float, force: bool = False) -> tuple[int, int]:
+    """Walk backward toward Feb 2003, checking up to n weekdays, then stop.
+
+    Cursor is stored on the index so the next run continues where this one
+    left off. Already-saved days are skipped with no web request.
+    Weekends are skipped (the House almost never sits).
+    """
+    if index.get("backfill_done"):
+        print("Backfill already reached 2003-02-01.")
+        return 0, 0
+
+    raw = index.get("backfill_cursor")
+    try:
+        cursor = date.fromisoformat(raw) if raw else date.today()
+    except ValueError:
+        cursor = date.today()
+
+    if cursor < HTML_START:
+        index["backfill_done"] = True
+        index["backfill_cursor"] = HTML_START.isoformat()
+        print("Backfill already reached 2003-02-01.")
+        return 0, 0
+
+    print(f"Backfill: up to {n} weekdays, starting just before {cursor.isoformat()}")
+    checked = 0
+    ok = 0
+    missing = 0
+    d = cursor
+    # safety cap so a bad loop cannot run forever
+    guard = 0
+    while checked < n and d >= HTML_START and guard < 4000:
+        guard += 1
+        d = d - timedelta(days=1)
+        if d < HTML_START:
+            break
+        if d.weekday() >= 5:
+            continue
+        key = d.isoformat()
+        already = index.get("days", {}).get(key)
+        if already and already.get("status") in ("ok", "missing") and not force:
+            continue
+        rec = scrape_day(d, delay=delay, force=force)
+        update_index_for_day(index, rec, d)
+        checked += 1
+        if rec:
+            ok += 1
+        else:
+            missing += 1
+        if checked % 5 == 0:
+            index["backfill_cursor"] = d.isoformat()
+            save_index(index)
+
+    index["backfill_cursor"] = d.isoformat() if d >= HTML_START else HTML_START.isoformat()
+    if d <= HTML_START:
+        index["backfill_done"] = True
+        print("Backfill reached 2003-02-01. Historical HTML pass is complete.")
+    else:
+        print(f"Backfill pause at {index['backfill_cursor']}. Next run continues from there.")
+    return ok, missing
+
+
 # ---------------------------------------------------------------------------
 # CLI
 # ---------------------------------------------------------------------------
@@ -345,6 +384,13 @@ def main() -> int:
     ap.add_argument("--delay", type=float, default=2.0, help="Seconds between requests")
     ap.add_argument("--force", action="store_true", help="Re-scrape even if file exists")
     ap.add_argument("--reindex", action="store_true", help="Rebuild index from data/days")
+    ap.add_argument(
+        "--backfill-days",
+        type=int,
+        metavar="N",
+        default=0,
+        help="Walk N weekdays further back toward 2003-02-01 and save the cursor",
+    )
     args = ap.parse_args()
 
     index = load_index()
@@ -373,11 +419,13 @@ def main() -> int:
             )
             start = date(2003, 2, 1)
         dates = list(daterange(start, end))
+    elif args.backfill_days:
+        dates = []
     else:
         ap.print_help()
         print(
             "\nExamples:\n"
-            "  python scripts/scrape_hansard.py --recent 14\n"
+            "  python scripts/scrape_hansard.py --recent 14 --backfill-days 40\n"
             "  python scripts/scrape_hansard.py --from 2003-02-01 --to 2003-12-31\n"
             "  python scripts/scrape_hansard.py --date 2024-08-14\n",
             file=sys.stderr,
@@ -402,8 +450,13 @@ def main() -> int:
         if (ok + missing) % 5 == 0:
             save_index(index)
 
+    if args.backfill_days:
+        bok, bmiss = backfill_chunk(index, n=args.backfill_days, delay=args.delay, force=args.force)
+        ok += bok
+        missing += bmiss
+
     save_index(index)
-    print(f"\nDone. ok={ok} missing={missing} index_days={len(index['days'])}")
+    print(f"\nDone. ok={ok} missing={missing} index_days={len(index['days'])} cursor={index.get('backfill_cursor')}")
     return 0
 
 
