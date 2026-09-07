@@ -10,13 +10,13 @@ Usage:
   python scripts/scrape_hansard.py --date 2024-08-14
   python scripts/scrape_hansard.py --from 2003-02-01 --to 2026-08-16 --delay 2.5
   python scripts/scrape_hansard.py --recent 14
-  python scripts/scrape_hansard.py --recent 14 --backfill-days 40
+  python scripts/scrape_hansard.py --recent 14 --backfill-sittings 15
   python scripts/scrape_hansard.py --reindex
 
---backfill-days N  Walk backward from the saved cursor toward 2003-02-01.
-                   Checks up to N weekdays per run, then stops and saves
-                   the cursor so tomorrow continues. That is how history
-                   fills slowly without one giant job.
+--backfill-sittings N  Walk backward from the saved cursor toward 2003-02-01.
+                       Keep going until N sitting days are written (or the
+                       cap). Days with no sitting are skipped and do not
+                       count. Cursor is saved so the next run continues.
 """
 
 from __future__ import annotations
@@ -315,11 +315,11 @@ HTML_START = date(2003, 2, 1)
 
 
 def backfill_chunk(index: dict[str, Any], n: int, delay: float, force: bool = False) -> tuple[int, int]:
-    """Walk backward toward Feb 2003, checking up to n weekdays, then stop.
+    """Walk backward toward Feb 2003 until n sitting days are collected.
 
-    Cursor is stored on the index so the next run continues where this one
-    left off. Already-saved days are skipped with no web request.
-    Weekends are skipped (the House almost never sits).
+    No-sitting weekdays are recorded and skipped; they do not count toward n.
+    Weekends are skipped with no request. Cursor is stored so the next run
+    continues. Already-saved ok days are skipped with no web request.
     """
     if index.get("backfill_done"):
         print("Backfill already reached 2003-02-01.")
@@ -337,14 +337,14 @@ def backfill_chunk(index: dict[str, Any], n: int, delay: float, force: bool = Fa
         print("Backfill already reached 2003-02-01.")
         return 0, 0
 
-    print(f"Backfill: up to {n} weekdays, starting just before {cursor.isoformat()}")
-    checked = 0
+    print(f"Backfill: collect {n} sitting days, starting just before {cursor.isoformat()}")
+    collected = 0
     ok = 0
     missing = 0
     d = cursor
     # safety cap so a bad loop cannot run forever
     guard = 0
-    while checked < n and d >= HTML_START and guard < 4000:
+    while collected < n and d >= HTML_START and guard < 4000:
         guard += 1
         d = d - timedelta(days=1)
         if d < HTML_START:
@@ -353,16 +353,17 @@ def backfill_chunk(index: dict[str, Any], n: int, delay: float, force: bool = Fa
             continue
         key = d.isoformat()
         already = index.get("days", {}).get(key)
-        if already and already.get("status") in ("ok", "missing") and not force:
+        if already and already.get("status") == "ok" and not force:
             continue
         rec = scrape_day(d, delay=delay, force=force)
         update_index_for_day(index, rec, d)
-        checked += 1
         if rec:
+            collected += 1
             ok += 1
+            print(f"  sitting {collected}/{n} {key}")
         else:
             missing += 1
-        if checked % 5 == 0:
+        if (ok + missing) % 5 == 0:
             index["backfill_cursor"] = d.isoformat()
             save_index(index)
 
@@ -394,11 +395,18 @@ def main() -> int:
     ap.add_argument("--force", action="store_true", help="Re-scrape even if file exists")
     ap.add_argument("--reindex", action="store_true", help="Rebuild index from data/days")
     ap.add_argument(
+        "--backfill-sittings",
+        type=int,
+        metavar="N",
+        default=0,
+        help="Collect N sitting days walking backward toward 2003-02-01",
+    )
+    ap.add_argument(
         "--backfill-days",
         type=int,
         metavar="N",
         default=0,
-        help="Walk N weekdays further back toward 2003-02-01 and save the cursor",
+        help="Deprecated alias for --backfill-sittings",
     )
     args = ap.parse_args()
 
@@ -431,13 +439,13 @@ def main() -> int:
             )
             start = date(2003, 2, 1)
         dates = list(daterange(start, end))
-    elif args.backfill_days:
+    elif args.backfill_sittings or args.backfill_days:
         dates = []
     else:
         ap.print_help()
         print(
             "\nExamples:\n"
-            "  python scripts/scrape_hansard.py --recent 14 --backfill-days 40\n"
+            "  python scripts/scrape_hansard.py --recent 14 --backfill-sittings 15\n"
             "  python scripts/scrape_hansard.py --from 2003-02-01 --to 2003-12-31\n"
             "  python scripts/scrape_hansard.py --date 2024-08-14\n",
             file=sys.stderr,
@@ -462,8 +470,9 @@ def main() -> int:
         if (ok + missing) % 5 == 0:
             save_index(index)
 
-    if args.backfill_days:
-        bok, bmiss = backfill_chunk(index, n=args.backfill_days, delay=args.delay, force=args.force)
+    fill_n = args.backfill_sittings or args.backfill_days
+    if fill_n:
+        bok, bmiss = backfill_chunk(index, n=fill_n, delay=args.delay, force=args.force)
         ok += bok
         missing += bmiss
 
