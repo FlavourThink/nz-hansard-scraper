@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07T22:12:57.679646+00:00",
+  "updated_at": "2026-09-08T20:29:58.252582+00:00",
   "coverage_note": "HTML Hansard on parliament.nz is reliably available from ~Feb 2003. Winston Peters first elected 25 Nov 1978; pre-2003 needs PDF/OCR.",
   "days": {
     "2026-08-21": {
@@ -28,27 +28,27 @@
     },
     "2026-08-26": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:26.132164+00:00"
+      "scraped_at": "2026-09-08T20:26:07.220788+00:00"
     },
     "2026-08-27": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:23.311242+00:00"
+      "scraped_at": "2026-09-08T20:26:10.810989+00:00"
     },
     "2026-08-28": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:20.488797+00:00"
+      "scraped_at": "2026-09-08T20:26:13.737743+00:00"
     },
     "2026-08-29": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:07:54.910082+00:00"
+      "scraped_at": "2026-09-08T20:26:17.072445+00:00"
     },
     "2026-08-30": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:07:57.837230+00:00"
+      "scraped_at": "2026-09-08T20:26:19.911430+00:00"
     },
     "2026-08-31": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:17.657060+00:00"
+      "scraped_at": "2026-09-08T20:26:22.753809+00:00"
     },
     "2026-09-01": {
       "status": "ok",
@@ -160,19 +160,19 @@
     },
     "2026-09-04": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:14.822490+00:00"
+      "scraped_at": "2026-09-08T20:26:25.648693+00:00"
     },
     "2026-09-05": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:06.313914+00:00"
+      "scraped_at": "2026-09-08T20:26:28.502743+00:00"
     },
     "2026-09-06": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:09.179593+00:00"
+      "scraped_at": "2026-09-08T20:26:31.340862+00:00"
     },
     "2026-09-07": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-07T22:08:12.001179+00:00"
+      "scraped_at": "2026-09-08T20:26:34.221613+00:00"
     },
     "2026-08-04": {
       "status": "ok",
@@ -449,7 +449,231 @@
       "scraped_at": "2026-09-07T22:12:57.666615+00:00",
       "path": "data/days/2026-05-21.json",
       "raw_text_length": 215198
+    },
+    "2026-09-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:26:37.075907+00:00"
+    },
+    "2026-05-20": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-05-20/2026-05-20-daily.pdf",
+      "title": "Wednesday, 20 May 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:26:47.688533+00:00",
+      "path": "data/days/2026-05-20.json",
+      "raw_text_length": 358596
+    },
+    "2026-05-19": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-05-19/2026-05-19-daily.pdf",
+      "title": "Tuesday, 19 May 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:26:58.774422+00:00",
+      "path": "data/days/2026-05-19.json",
+      "raw_text_length": 524130
+    },
+    "2026-05-18": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:01.656608+00:00"
+    },
+    "2026-05-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:04.495083+00:00"
+    },
+    "2026-05-14": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-05-14/2026-05-14-daily.pdf",
+      "title": "Thursday, 14 May 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:27:13.533219+00:00",
+      "path": "data/days/2026-05-14.json",
+      "raw_text_length": 213196
+    },
+    "2026-05-13": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-05-13/2026-05-13-daily.pdf",
+      "title": "Wednesday, 13 May 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:27:23.026695+00:00",
+      "path": "data/days/2026-05-13.json",
+      "raw_text_length": 538666
+    },
+    "2026-05-12": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-05-12/2026-05-12-daily.pdf",
+      "title": "Tuesday, 12 May 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:27:32.418000+00:00",
+      "path": "data/days/2026-05-12.json",
+      "raw_text_length": 507614
+    },
+    "2026-05-11": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:35.307171+00:00"
+    },
+    "2026-05-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:38.160207+00:00"
+    },
+    "2026-05-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:41.004901+00:00"
+    },
+    "2026-05-06": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:43.851284+00:00"
+    },
+    "2026-05-05": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:46.695112+00:00"
+    },
+    "2026-05-04": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:49.562566+00:00"
+    },
+    "2026-05-01": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:27:52.406786+00:00"
+    },
+    "2026-04-30": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-30/2026-04-30-daily.pdf",
+      "title": "Thursday, 30 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:27:58.915052+00:00",
+      "path": "data/days/2026-04-30.json",
+      "raw_text_length": 212074
+    },
+    "2026-04-29": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-29/2026-04-29-daily.pdf",
+      "title": "Wednesday, 29 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:28:06.562065+00:00",
+      "path": "data/days/2026-04-29.json",
+      "raw_text_length": 342266
+    },
+    "2026-04-28": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-28/2026-04-28-daily.pdf",
+      "title": "Tuesday, 28 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:28:15.701621+00:00",
+      "path": "data/days/2026-04-28.json",
+      "raw_text_length": 505951
+    },
+    "2026-04-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:18.587665+00:00"
+    },
+    "2026-04-24": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:21.439231+00:00"
+    },
+    "2026-04-23": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-23/2026-04-23-daily.pdf",
+      "title": "Thursday, 23 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:28:27.719857+00:00",
+      "path": "data/days/2026-04-23.json",
+      "raw_text_length": 205453
+    },
+    "2026-04-22": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-22/2026-04-22-daily.pdf",
+      "title": "Wednesday, 22 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:28:37.282363+00:00",
+      "path": "data/days/2026-04-22.json",
+      "raw_text_length": 569539
+    },
+    "2026-04-21": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-21/2026-04-21-daily.pdf",
+      "title": "Tuesday, 21 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:28:45.554218+00:00",
+      "path": "data/days/2026-04-21.json",
+      "raw_text_length": 364152
+    },
+    "2026-04-20": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:48.448884+00:00"
+    },
+    "2026-04-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:51.296609+00:00"
+    },
+    "2026-04-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:54.190965+00:00"
+    },
+    "2026-04-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:28:57.514011+00:00"
+    },
+    "2026-04-14": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:00.372111+00:00"
+    },
+    "2026-04-13": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:03.211509+00:00"
+    },
+    "2026-04-10": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:06.054812+00:00"
+    },
+    "2026-04-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:09.375050+00:00"
+    },
+    "2026-04-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:13.149815+00:00"
+    },
+    "2026-04-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:16.428105+00:00"
+    },
+    "2026-04-06": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:19.267504+00:00"
+    },
+    "2026-04-03": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:22.547964+00:00"
+    },
+    "2026-04-02": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-02/2026-04-02-daily.pdf",
+      "title": "Thursday, 2 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:29:29.231665+00:00",
+      "path": "data/days/2026-04-02.json",
+      "raw_text_length": 217157
+    },
+    "2026-04-01": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-04-01/2026-04-01-daily.pdf",
+      "title": "Wednesday, 1 April 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:29:36.541823+00:00",
+      "path": "data/days/2026-04-01.json",
+      "raw_text_length": 335156
+    },
+    "2026-03-31": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-03-31/2026-03-31-daily.pdf",
+      "title": "Tuesday, 31 March 2026 HOUSE OF REPRESENTATIVES Page 1",
+      "scraped_at": "2026-09-08T20:29:46.138752+00:00",
+      "path": "data/days/2026-03-31.json",
+      "raw_text_length": 550959
+    },
+    "2026-03-30": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:49.023845+00:00"
+    },
+    "2026-03-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-08T20:29:51.886005+00:00"
+    },
+    "2026-03-26": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2026-03-26/2026-03-26-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2026",
+      "scraped_at": "2026-09-08T20:29:58.236885+00:00",
+      "path": "data/days/2026-03-26.json",
+      "raw_text_length": 224678
     }
   },
-  "backfill_cursor": "2026-05-21"
+  "backfill_cursor": "2026-03-26"
 }
