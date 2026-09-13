@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T19:53:20.837198+00:00",
+  "updated_at": "2026-09-13T20:02:33.222607+00:00",
   "coverage_note": "HTML Hansard on parliament.nz is reliably available from ~Feb 2003. Winston Peters first elected 25 Nov 1978; pre-2003 needs PDF/OCR.",
   "days": {
     "2026-08-21": {
@@ -48,7 +48,7 @@
     },
     "2026-08-31": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:07.058890+00:00"
+      "scraped_at": "2026-09-13T19:58:18.061679+00:00"
     },
     "2026-09-01": {
       "status": "ok",
@@ -160,19 +160,19 @@
     },
     "2026-09-04": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:09.881923+00:00"
+      "scraped_at": "2026-09-13T19:58:20.851616+00:00"
     },
     "2026-09-05": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:12.689303+00:00"
+      "scraped_at": "2026-09-13T19:58:23.628897+00:00"
     },
     "2026-09-06": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:15.508164+00:00"
+      "scraped_at": "2026-09-13T19:58:26.405421+00:00"
     },
     "2026-09-07": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:18.321217+00:00"
+      "scraped_at": "2026-09-13T19:58:29.238205+00:00"
     },
     "2026-08-04": {
       "status": "ok",
@@ -452,7 +452,7 @@
     },
     "2026-09-08": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:21.130819+00:00"
+      "scraped_at": "2026-09-13T19:58:32.026764+00:00"
     },
     "2026-05-20": {
       "status": "ok",
@@ -676,7 +676,7 @@
     },
     "2026-09-09": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:23.947506+00:00"
+      "scraped_at": "2026-09-13T19:58:34.843209+00:00"
     },
     "2026-03-25": {
       "status": "ok",
@@ -900,7 +900,7 @@
     },
     "2026-09-10": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:26.753693+00:00"
+      "scraped_at": "2026-09-13T19:58:37.622179+00:00"
     },
     "2026-01-28": {
       "status": "ok",
@@ -1252,7 +1252,7 @@
     },
     "2026-09-11": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:29.570865+00:00"
+      "scraped_at": "2026-09-13T19:58:40.409157+00:00"
     },
     "2025-10-20": {
       "status": "no_sitting",
@@ -1512,7 +1512,7 @@
     },
     "2026-09-12": {
       "status": "no_sitting",
-      "scraped_at": "2026-09-12T19:49:32.391207+00:00"
+      "scraped_at": "2026-09-13T19:58:43.188840+00:00"
     },
     "2025-08-12": {
       "status": "ok",
@@ -1777,7 +1777,271 @@
       "scraped_at": "2026-09-12T19:53:20.814900+00:00",
       "path": "data/days/2025-06-03.json",
       "raw_text_length": 331699
+    },
+    "2026-09-13": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:45.971322+00:00"
+    },
+    "2025-06-02": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:48.751309+00:00"
+    },
+    "2025-05-30": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:51.527576+00:00"
+    },
+    "2025-05-29": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:54.302292+00:00"
+    },
+    "2025-05-28": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:57.084397+00:00"
+    },
+    "2025-05-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:58:59.861243+00:00"
+    },
+    "2025-05-26": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:59:02.639417+00:00"
+    },
+    "2025-05-23": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:59:05.454279+00:00"
+    },
+    "2025-05-22": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-22/2025-05-22-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T19:59:14.949401+00:00",
+      "path": "data/days/2025-05-22.json",
+      "raw_text_length": 332981
+    },
+    "2025-05-21": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-21/2025-05-21-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T19:59:24.243058+00:00",
+      "path": "data/days/2025-05-21.json",
+      "raw_text_length": 346674
+    },
+    "2025-05-20": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-20/2025-05-20-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T19:59:32.669935+00:00",
+      "path": "data/days/2025-05-20.json",
+      "raw_text_length": 342772
+    },
+    "2025-05-19": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:59:35.472975+00:00"
+    },
+    "2025-05-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T19:59:38.259411+00:00"
+    },
+    "2025-05-15": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-15/2025-05-15-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2024",
+      "scraped_at": "2026-09-13T19:59:45.603609+00:00",
+      "path": "data/days/2025-05-15.json",
+      "raw_text_length": 214473
+    },
+    "2025-05-14": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-14/2025-05-14-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T19:59:53.597631+00:00",
+      "path": "data/days/2025-05-14.json",
+      "raw_text_length": 319943
+    },
+    "2025-05-13": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-13/2025-05-13-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:00:03.073316+00:00",
+      "path": "data/days/2025-05-13.json",
+      "raw_text_length": 339511
+    },
+    "2025-05-12": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:05.893460+00:00"
+    },
+    "2025-05-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:08.667927+00:00"
+    },
+    "2025-05-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:11.443402+00:00"
+    },
+    "2025-05-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:14.217439+00:00"
+    },
+    "2025-05-06": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-05-06/2025-05-06-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:00:23.310121+00:00",
+      "path": "data/days/2025-05-06.json",
+      "raw_text_length": 340889
+    },
+    "2025-05-05": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:26.144714+00:00"
+    },
+    "2025-05-02": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:28.938105+00:00"
+    },
+    "2025-05-01": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:31.754296+00:00"
+    },
+    "2025-04-30": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:34.529368+00:00"
+    },
+    "2025-04-29": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:38.414942+00:00"
+    },
+    "2025-04-28": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:41.192145+00:00"
+    },
+    "2025-04-25": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:43.967540+00:00"
+    },
+    "2025-04-24": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:46.742873+00:00"
+    },
+    "2025-04-23": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:49.519040+00:00"
+    },
+    "2025-04-22": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:52.294828+00:00"
+    },
+    "2025-04-21": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:55.077814+00:00"
+    },
+    "2025-04-18": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:00:57.854842+00:00"
+    },
+    "2025-04-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:00.631996+00:00"
+    },
+    "2025-04-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:03.409282+00:00"
+    },
+    "2025-04-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:06.187857+00:00"
+    },
+    "2025-04-14": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:08.965394+00:00"
+    },
+    "2025-04-11": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:11.740923+00:00"
+    },
+    "2025-04-10": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-10/2025-04-10-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:01:19.124777+00:00",
+      "path": "data/days/2025-04-10.json",
+      "raw_text_length": 216009
+    },
+    "2025-04-09": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-09/2025-04-09-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:01:27.831322+00:00",
+      "path": "data/days/2025-04-09.json",
+      "raw_text_length": 305343
+    },
+    "2025-04-08": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-08/2025-04-08-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:01:37.493017+00:00",
+      "path": "data/days/2025-04-08.json",
+      "raw_text_length": 376720
+    },
+    "2025-04-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:40.293998+00:00"
+    },
+    "2025-04-04": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:01:43.085242+00:00"
+    },
+    "2025-04-03": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-03/2025-04-03-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:01:50.147218+00:00",
+      "path": "data/days/2025-04-03.json",
+      "raw_text_length": 212217
+    },
+    "2025-04-02": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-02/2025-04-02-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:01:59.214603+00:00",
+      "path": "data/days/2025-04-02.json",
+      "raw_text_length": 340792
+    },
+    "2025-04-01": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-04-01/2025-04-01-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:02:08.491181+00:00",
+      "path": "data/days/2025-04-01.json",
+      "raw_text_length": 344199
+    },
+    "2025-03-31": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:02:11.289775+00:00"
+    },
+    "2025-03-28": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:02:14.062453+00:00"
+    },
+    "2025-03-27": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-03-27/2025-03-27-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2025",
+      "scraped_at": "2026-09-13T20:02:21.135996+00:00",
+      "path": "data/days/2025-03-27.json",
+      "raw_text_length": 216113
+    },
+    "2025-03-26": {
+      "status": "no_sitting",
+      "scraped_at": "2026-09-13T20:02:23.954688+00:00"
+    },
+    "2025-03-25": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2025-03-25/2025-03-25-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2024",
+      "scraped_at": "2026-09-13T20:02:33.198001+00:00",
+      "path": "data/days/2025-03-25.json",
+      "raw_text_length": 346798
     }
   },
-  "backfill_cursor": "2025-06-03"
+  "backfill_cursor": "2025-03-25"
 }
