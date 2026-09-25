@@ -1,0 +1,2256 @@
+{
+  "date": "2022-08-24",
+  "url": "https://hansard.parliament.nz/api/resources/daily/related/2022-08-24/2022-08-24-daily.pdf",
+  "source": "daily-pdf",
+  "scraped_at": "2026-09-25T20:52:56.324434+00:00",
+  "title": "Published under the authority of the House of Representatives—2024",
+  "sections": [
+    {
+      "heading": "Body",
+      "items": [
+        {
+          "type": "text",
+          "text": "Fifty-third Parliament"
+        },
+        {
+          "type": "text",
+          "text": "Parliamentary Debates"
+        },
+        {
+          "type": "text",
+          "text": "(HANSARD)"
+        }
+      ]
+    },
+    {
+      "heading": "Final Daily",
+      "items": [
+        {
+          "type": "text",
+          "text": "Wednesday, 24 August 2022"
+        },
+        {
+          "type": "text",
+          "text": "(for inclusion in Volume 762)"
+        }
+      ]
+    },
+    {
+      "heading": "Wellington, New Zealand",
+      "items": [
+        {
+          "type": "text",
+          "text": "Published under the authority of the House of Representatives—2024"
+        },
+        {
+          "type": "text",
+          "text": "WEDNESDAY, 24 AUGUST 2022"
+        }
+      ]
+    },
+    {
+      "heading": "Table Of Contents",
+      "items": [
+        {
+          "type": "text",
+          "text": "OFFICE OF SPEAKER........................................................................................ 11777"
+        },
+        {
+          "type": "text",
+          "text": "MESSAGE FROM GOVERNOR-GENERAL .................................................... 11777"
+        },
+        {
+          "type": "text",
+          "text": "ELECTION OF SPEAKER .................................................................................. 11777"
+        },
+        {
+          "type": "text",
+          "text": "WEDNESDAY, 24 AUGUST 2022"
+        },
+        {
+          "type": "text",
+          "text": "The House met at 2 p.m."
+        }
+      ]
+    },
+    {
+      "heading": "Office Of Speaker",
+      "items": [
+        {
+          "type": "text",
+          "text": "Vacancy"
+        },
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "",
+          "time": "",
+          "text": "Honourable members, I wish to advise the House that the office of Speaker"
+        },
+        {
+          "type": "text",
+          "text": "is vacant."
+        }
+      ]
+    },
+    {
+      "heading": "Message From Governor-General",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "Leader of the House",
+          "time": "",
+          "text": "Mr Clerk, I am requested by Her"
+        },
+        {
+          "type": "text",
+          "text": "Excellency the Governor-General to inform the House that it is Her Excellency’s desire"
+        },
+        {
+          "type": "text",
+          "text": "that the House should proceed to choose one of its members as its Speaker and, in"
+        },
+        {
+          "type": "text",
+          "text": "accordance with section 12 of the Constitution Act of 1986, present that person at"
+        },
+        {
+          "type": "text",
+          "text": "Government House at 4 p.m. today for Her Excellency’s confirmation."
+        }
+      ]
+    },
+    {
+      "heading": "Election Of Speaker",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "",
+          "time": "",
+          "text": "Honourable members, the House must now proceed to choose a Speaker. I"
+        },
+        {
+          "type": "text",
+          "text": "remind members they are to participate remotely and proxy votes may not be cast. If"
+        },
+        {
+          "type": "text",
+          "text": "members participating remotely want to make a nomination, please type “call” into the"
+        },
+        {
+          "type": "text",
+          "text": "chat. Are there any nominations?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr DUNCAN WEBB",
+          "role": "Chief Whip —Labour",
+          "time": "",
+          "text": "I nominate Adrian Rurawhe for the"
+        },
+        {
+          "type": "text",
+          "text": "office of Speaker."
+        },
+        {
+          "type": "speech",
+          "speaker": "BARBARA EDMONDS",
+          "role": "Junior Whip —Labour",
+          "time": "",
+          "text": "I second the nomination of"
+        },
+        {
+          "type": "text",
+          "text": "Adrian Rurawhe for the office of Speaker."
+        },
+        {
+          "type": "speech",
+          "speaker": "CLERK",
+          "role": "",
+          "time": "",
+          "text": "Are there any other nominations? There being no other nominations, I"
+        },
+        {
+          "type": "text",
+          "text": "declare Adrian Rurawhe elected Speaker."
+        },
+        {
+          "type": "text",
+          "text": "Waiata"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "Kia whai korōria hōnore hareruia ki a Ihoā o ngā mano tūāuriuri whāioio."
+        },
+        {
+          "type": "text",
+          "text": "Kī tonu te rangi me te whenua i te nui o Tōna korōria. Nō reira,"
+        },
+        {
+          "type": "text",
+          "text": "Tihei Mauri ora."
+        },
+        {
+          "type": "text",
+          "text": "Kei te mihi atu au ki Kīngi Tūheitia Pōtatau Te Wherowhero te Tuawhitu me te kāhui"
+        },
+        {
+          "type": "text",
+          "text": "ariki, tēnā koutou, rire, rire, hau Pai Mārire."
+        },
+        {
+          "type": "text",
+          "text": "Ki a koutou, aku hapū, aku iwi tae atu ki taku whānau whānui, tēnei ahau e tuku mihi"
+        },
+        {
+          "type": "text",
+          "text": "atu ki a koutou, tēnā koutou, nau mai, haramai whakatau mai rā."
+        },
+        {
+          "type": "text",
+          "text": "Ki a koutou ngā mema hōnore o Te Whare o ngā Māngai, tēnei ahau e tuku mihi atu"
+        },
+        {
+          "type": "text",
+          "text": "ki a koutou mō ō koutou tautoko i ahau kia tū hei Mana Whakawā o Te Whare o ngā"
+        },
+        {
+          "type": "text",
+          "text": "Māngai."
+        },
+        {
+          "type": "text",
+          "text": "Tēnei te mihi ake ki a koutou katoa, tēnā koutou, tēnā koutou, kāti rā kia ora mai tātou"
+        },
+        {
+          "type": "text",
+          "text": "katoa."
+        },
+        {
+          "type": "text",
+          "text": "[Glory, honour, and hallelujah to the Lord God of the countless multitudes."
+        },
+        {
+          "type": "text",
+          "text": "Heaven and earth are filled with God’s glory."
+        },
+        {
+          "type": "text",
+          "text": "’tis the breath of life."
+        },
+        {
+          "type": "text",
+          "text": "I acknowledge King Tūheitia Pōtatau Te Wherowhero VII and the royal family,"
+        },
+        {
+          "type": "text",
+          "text": "greetings, rire, rire, hau Pai Mārire."
+        },
+        {
+          "type": "text",
+          "text": "To you of my subtribes, tribes, and including my wider family, I greet you: greetings,"
+        },
+        {
+          "type": "text",
+          "text": "greetings, welcome."
+        },
+        {
+          "type": "text",
+          "text": "To you, the honourable members of the House of Representatives, I acknowledge you"
+        },
+        {
+          "type": "text",
+          "text": "for your supporting my election as Speaker of the House of Representatives."
+        },
+        {
+          "type": "text",
+          "text": "I acknowledge all of you, thank you and be well, one and all.]"
+        },
+        {
+          "type": "text",
+          "text": "11778 Election of Speaker 24 Aug 2022"
+        },
+        {
+          "type": "text",
+          "text": "Honourable members—I’ll put my speech aside, I think—you do me a huge honour in"
+        },
+        {
+          "type": "text",
+          "text": "electing me as the Speaker of this House. I want to thank every single one of you for the"
+        },
+        {
+          "type": "text",
+          "text": "support that you have given me today, but also acknowledge the huge number of you who"
+        },
+        {
+          "type": "text",
+          "text": "have encouraged me to take up this role. To you, the Prime Minister, thank you for the"
+        },
+        {
+          "type": "text",
+          "text": "opportunity to take on this role, and to other members, as well, across the House who"
+        },
+        {
+          "type": "text",
+          "text": "have given me that encouragement."
+        },
+        {
+          "type": "text",
+          "text": "I think it’s really important that I state here today that I will carry on the long tradition"
+        },
+        {
+          "type": "text",
+          "text": "of upholding the rights and privileges of this House. I think it’s important that all of those"
+        },
+        {
+          "type": "text",
+          "text": "rights are upheld and acknowledged—rights and privileges like freedom of speech. You"
+        },
+        {
+          "type": "text",
+          "text": "are all the voices of all of the people that you represent, and it’s important that their voices"
+        },
+        {
+          "type": "text",
+          "text": "are heard. We may disa gree with each other on both sides of the House, but it’s really"
+        },
+        {
+          "type": "text",
+          "text": "important that those voices are heard."
+        },
+        {
+          "type": "text",
+          "text": "I can say to the House that it’s my expectation that the House will hold the Government"
+        },
+        {
+          "type": "text",
+          "text": "to account. I say to the Leader of the Opposition and party leaders that I will do everything"
+        },
+        {
+          "type": "text",
+          "text": "to ensure that you have the opportunity to hold the Government to account. To the"
+        },
+        {
+          "type": "text",
+          "text": "Government, I say to you, my expectation is that you will be accountable. There are a"
+        },
+        {
+          "type": "text",
+          "text": "number of mechanisms by which that can happen."
+        },
+        {
+          "type": "text",
+          "text": "I’ve had the huge honour since the end of last year of presiding over question time on"
+        },
+        {
+          "type": "text",
+          "text": "Thursdays, probably something that has led me to this very day without me necessarily"
+        },
+        {
+          "type": "text",
+          "text": "knowing about it. I have noticed a few things about question time that I think could be"
+        },
+        {
+          "type": "text",
+          "text": "improved, and, unfortunately, they are numerous! However, some small things could"
+        },
+        {
+          "type": "text",
+          "text": "happen—for example, the Government holding itself to account by asking itself"
+        },
+        {
+          "type": "text",
+          "text": "questions; some of the answers to those supplementary questions need to be a bit shorter"
+        },
+        {
+          "type": "text",
+          "text": "and more succinct. I think I would encourage Ministers—and it’s quite interesting and a"
+        },
+        {
+          "type": "text",
+          "text": "little bit puzzling, actually, that the Government sometimes end question times with a"
+        },
+        {
+          "type": "text",
+          "text": "significant number of unused supplementaries. I think some of those supplementaries"
+        },
+        {
+          "type": "text",
+          "text": "should be used in this way: some of those answers should be cut down and be less speech-"
+        },
+        {
+          "type": "text",
+          "text": "like and more succinct. You could achieve that by asking more supplementaries; failure"
+        },
+        {
+          "type": "text",
+          "text": "to do so will see the Opposition receive more supplementaries to do it. That is one thing"
+        },
+        {
+          "type": "text",
+          "text": "I can do; there are others as well."
+        },
+        {
+          "type": "text",
+          "text": "I’m probably going to leave it there, I think—"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Member",
+          "role": "",
+          "time": "",
+          "text": "Keep going, keep going."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "In a way, I probably should go on, because this is probably"
+        },
+        {
+          "type": "text",
+          "text": "going to be the last time I have the opportunity to speak! I cannot proclaim to be an expert"
+        },
+        {
+          "type": "text",
+          "text": "on all the rules of this House. However, I believe that being fair is probably paramount."
+        },
+        {
+          "type": "text",
+          "text": "For me, if it feels like it’s out of order, it probably is, and if it feels as if it’s OK, it probably"
+        },
+        {
+          "type": "text",
+          "text": "is. I hope that as a House, we can collectively come to those understandings. I think there"
+        },
+        {
+          "type": "text",
+          "text": "is an opportunity for more robust debate, and that’s OK, but it has to be done by fairness."
+        },
+        {
+          "type": "text",
+          "text": "So that will be my role."
+        },
+        {
+          "type": "text",
+          "text": "It would be remiss of me not to mention my immediate predecessor, friend, colleague,"
+        },
+        {
+          "type": "text",
+          "text": "and mentor to me. I want to  tuku atu te reo mihi ki a Trevor Mallard. [ I want to express"
+        },
+        {
+          "type": "text",
+          "text": "my thanks to Trevor Mallard. ] I undertake to carry on his work, his mahi, to make this"
+        },
+        {
+          "type": "text",
+          "text": "place a much better, family-friendly environment."
+        },
+        {
+          "type": "text",
+          "text": "Nō reira, e tika ana kia tuku atu te reo mihi anō, nō reira tēnā rā koutou. Ināianei ka"
+        },
+        {
+          "type": "text",
+          "text": "tuku ki a koutou te whānau, tuku mai tētahi waiata pai."
+        },
+        {
+          "type": "text",
+          "text": "[Therefore, it is appropriate that I express my gratitude once more, and so, thank you"
+        },
+        {
+          "type": "text",
+          "text": "all. Now I will leave it to you, my family to give us a good song.]"
+        },
+        {
+          "type": "text",
+          "text": "Waiata"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "Prime Minister",
+          "time": "",
+          "text": "Mr Speaker-Elect, mā te Māngai o"
+        },
+        {
+          "type": "text",
+          "text": "Ihoā te Māngai o te Whare e tautoko."
+        },
+        {
+          "type": "text",
+          "text": "[The Mouthpiece of God will support the Speaker of the House.]"
+        },
+        {
+          "type": "text",
+          "text": "24 Aug 2022 Office of Speaker 11779"
+        },
+        {
+          "type": "text",
+          "text": "I begin with a phrase that will be close to home to you, Mr Speaker-Elect. Translated,"
+        },
+        {
+          "type": "text",
+          "text": "it means: may the mouthpiece of Ihoā, the temple of Rāta na, support and guide the"
+        },
+        {
+          "type": "text",
+          "text": "mouthpiece of the House. I can’t think of a better way to sum up the proud history and"
+        },
+        {
+          "type": "text",
+          "text": "mana that you bring with you into this role, something we are all now privileged to be the"
+        },
+        {
+          "type": "text",
+          "text": "benefactors of."
+        },
+        {
+          "type": "text",
+          "text": "It was a few years ago now, that I remember having a conversation with our Speaker-"
+        },
+        {
+          "type": "text",
+          "text": "Elect about the possibility of taking on a role in the offices of the House. It was fair to"
+        },
+        {
+          "type": "text",
+          "text": "say there was some hesitancy. In my mind, this was the first sign that you were perfect"
+        },
+        {
+          "type": "text",
+          "text": "for the role. Since that time, the House has had the pleasure of seeing the many skills that"
+        },
+        {
+          "type": "text",
+          "text": "you bring to this position, and I want to acknowledge the outgoing Speaker for the fact"
+        },
+        {
+          "type": "text",
+          "text": "that he saw fit to ensure that you had the ability to sit in this House and preside over it"
+        },
+        {
+          "type": "text",
+          "text": "and transition into the role that you now have. There will be an opportunity to pay tribute"
+        },
+        {
+          "type": "text",
+          "text": "to the outgoing Speaker on another occasion."
+        },
+        {
+          "type": "text",
+          "text": "While all of the skills that you displayed in this place during that time are valuable, I"
+        },
+        {
+          "type": "text",
+          "text": "place great priority on your ability to perfectly balance a light touch and a firm hand. But"
+        },
+        {
+          "type": "text",
+          "text": "perhaps the most prized asset of all in a Speaker is integrity, and that is the word that"
+        },
+        {
+          "type": "text",
+          "text": "those closest to you would use to describe you as a person, and now as a Speaker. Perhaps"
+        },
+        {
+          "type": "text",
+          "text": "one of your colleagues —Minister Sio—said it best when he described you as a gentle"
+        },
+        {
+          "type": "text",
+          "text": "giant but also that you shouldn’t be mistaken for anything else but firm, fair, and very"
+        },
+        {
+          "type": "text",
+          "text": "considered. Everyone across this House knows, or will soon know, that there is an honesty"
+        },
+        {
+          "type": "text",
+          "text": "and conviction of belief that the Speaker -Elect applies to everything he does. I believe"
+        },
+        {
+          "type": "text",
+          "text": "this House can be assured that there will be a fairness in the application of the Standing"
+        },
+        {
+          "type": "text",
+          "text": "Orders and consideration of procedures that enables all parties and their views to be"
+        },
+        {
+          "type": "text",
+          "text": "considered with openness, transparency, integrity, and —according to you —brevity, it"
+        },
+        {
+          "type": "text",
+          "text": "sounds."
+        },
+        {
+          "type": "text",
+          "text": "The Speaker -Elect also takes on this role having already demonstrated that he is a"
+        },
+        {
+          "type": "text",
+          "text": "strong voice in Parliament for the people of Te Tai Hauāuru , for Māori, and for New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand, and, of course, it is historic that in taking on this position, he becomes only the"
+        },
+        {
+          "type": "text",
+          "text": "second Māori Speaker. I know your grandparents Matiu and Iriaka Rātana and great -"
+        },
+        {
+          "type": "text",
+          "text": "grandfather T W Rātana would be proud, just as your Labou r whānau are proud. I can"
+        },
+        {
+          "type": "text",
+          "text": "assure you we will remain proud, no matter how many occasions we may be reprimanded"
+        },
+        {
+          "type": "text",
+          "text": "by you. Congratulations, and we wish you well, Mr Speaker -Elect. Kia kaha e te Mana"
+        },
+        {
+          "type": "text",
+          "text": "Whakawā o te Whare."
+        },
+        {
+          "type": "speech",
+          "speaker": "CHRISTOPHER LUXON",
+          "role": "Leader of the Opposition",
+          "time": "",
+          "text": "Thank you, Mr Speaker -"
+        },
+        {
+          "type": "text",
+          "text": "Elect. On behalf of the National Party, I would like to also offer you our warmest"
+        },
+        {
+          "type": "text",
+          "text": "congratulations on your election to the Speakership."
+        },
+        {
+          "type": "text",
+          "text": "We wish you all the very best for a role that we know will be challenging at times, but"
+        },
+        {
+          "type": "text",
+          "text": "you have gained the experience to stand you in very good stead. You’ve been a member"
+        },
+        {
+          "type": "text",
+          "text": "of this House for eight years and you’ve served faithfully as one of its presiding officers"
+        },
+        {
+          "type": "text",
+          "text": "since the end of 2017, first as an Assistant Speaker through the last Parliament and then"
+        },
+        {
+          "type": "text",
+          "text": "as Deputy Speaker. And now you’ll take up the mantle of becoming the 31 st Speaker of"
+        },
+        {
+          "type": "text",
+          "text": "this House and its second Māori Speaker."
+        },
+        {
+          "type": "text",
+          "text": "Adrian, it’s not surprising you have been elected to this office, having come from your"
+        },
+        {
+          "type": "text",
+          "text": "legacy of respected leadership across Māoridom, the Rātana church, and here in"
+        },
+        {
+          "type": "text",
+          "text": "Parliament. And while this is only my first term, I have observed you closely in this House"
+        },
+        {
+          "type": "text",
+          "text": "and I’m looking forward to seeing how you bring your combination of personal humility"
+        },
+        {
+          "type": "text",
+          "text": "but also massive professional determination to ensure that this House and our democracy"
+        },
+        {
+          "type": "text",
+          "text": "functions well."
+        },
+        {
+          "type": "text",
+          "text": "Despite being the modest person that I kno w you are, I do genuinely hope you allow"
+        },
+        {
+          "type": "text",
+          "text": "yourself a moment to reflect on all that you have achieved and contributed thus far, and I"
+        },
+        {
+          "type": "text",
+          "text": "11780 Election of Speaker 24 Aug 2022"
+        },
+        {
+          "type": "text",
+          "text": "hope that you will properly celebrate this significant milestone with all your whānau and"
+        },
+        {
+          "type": "text",
+          "text": "all your friends that are here as well, and really enjoy today. It’s really important."
+        },
+        {
+          "type": "text",
+          "text": "We know that you will bring integrity, you’ll bring balance and mana to the office of"
+        },
+        {
+          "type": "text",
+          "text": "the Speaker, and we look forward to working constructively with you in the interests of"
+        },
+        {
+          "type": "text",
+          "text": "fairness and upholding the dignity of this Parliament. And that is why we have never seen"
+        },
+        {
+          "type": "text",
+          "text": "a need to propose an alternative candidate."
+        },
+        {
+          "type": "text",
+          "text": "Can I also acknowledge the Rt Hon Trevor Mallard and his contribution to Parliament"
+        },
+        {
+          "type": "text",
+          "text": "over three decades as both a member and a Minister. I think it’s sa fe to say that he and I"
+        },
+        {
+          "type": "text",
+          "text": "are fairly different. I’m the newcomer from outside this place and he’s the inveterate"
+        },
+        {
+          "type": "text",
+          "text": "parliamentary scrapper. On the one hand, I think you’ve made this place much more"
+        },
+        {
+          "type": "text",
+          "text": "family-friendly, and personally I have to say I found you very generous with your time,"
+        },
+        {
+          "type": "text",
+          "text": "explaining the protocols of this place to all of us as new MPs in the class of 2020 and"
+        },
+        {
+          "type": "text",
+          "text": "myself personally."
+        },
+        {
+          "type": "text",
+          "text": "But it is also well known that National has disagreed strongly with you on many of"
+        },
+        {
+          "type": "text",
+          "text": "your actions and statements over your tim e as Speaker, and that you have lost the"
+        },
+        {
+          "type": "text",
+          "text": "Opposition’s confidence. But we would like to still acknowledge your service and we are"
+        },
+        {
+          "type": "text",
+          "text": "looking forward to seeing you put your renowned tact and deft diplomatic skills to good"
+        },
+        {
+          "type": "text",
+          "text": "use in your new role, and we wish both you and the Irish nation very good luck."
+        },
+        {
+          "type": "text",
+          "text": "Mr Speaker-Elect, congratulations to you once again. We wish you all the very, very"
+        },
+        {
+          "type": "text",
+          "text": "best, and we are looking forward to working with you."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MARAMA DAVIDSON",
+          "role": "Co-Leader—Green",
+          "time": "",
+          "text": "Mr Speaker-Elect, thank you."
+        },
+        {
+          "type": "text",
+          "text": "I first want to turn and farewell a man who has held down one of the hardest jobs in"
+        },
+        {
+          "type": "text",
+          "text": "Parliament. As Speaker of the House, Trev or has demanded better for us all here in"
+        },
+        {
+          "type": "text",
+          "text": "Parliament, not just in the Chamber today but fighting for the living wage for cleaning"
+        },
+        {
+          "type": "text",
+          "text": "and catering staff, valuing their mahi and their right to live better lives; making this place"
+        },
+        {
+          "type": "text",
+          "text": "much more family -friendly; and for dogs—hear, hear—[Applause]—thank you, Prime"
+        },
+        {
+          "type": "text",
+          "text": "Minister. But also he’s not been afraid to hold us to account, playing a key role in the"
+        },
+        {
+          "type": "text",
+          "text": "Francis Review, the interventions which were absolutely necessary to ensure that this"
+        },
+        {
+          "type": "text",
+          "text": "would become a safer place to work for us all. He has called the Government out on late"
+        },
+        {
+          "type": "text",
+          "text": "parliamentary written questions and he’s pushed hard for the accountability of"
+        },
+        {
+          "type": "text",
+          "text": "Government at select committees. He’s steered the precinct through the challenges of the"
+        },
+        {
+          "type": "text",
+          "text": "COVID pandemic, setting up a v irtual Parliament —hooray!—and operating with just"
+        },
+        {
+          "type": "text",
+          "text": "skeleton staff here onsite."
+        },
+        {
+          "type": "text",
+          "text": "I’d like to recall one of my favourite memories of Mr Trevor Mallard. Here in the"
+        },
+        {
+          "type": "text",
+          "text": "House, when I was a new MP, he graciously slipped me a note from the Clerk’s staff after"
+        },
+        {
+          "type": "text",
+          "text": "I’d bee n here for a small wee while, saying, “Marama, Marama, you’re a strong"
+        },
+        {
+          "type": "text",
+          "text": "speaker”—chur for that, by the way —“but you don’t need to read from your notes. It"
+        },
+        {
+          "type": "text",
+          "text": "would be really good if you could allow more freedom of speech in your debate in the"
+        },
+        {
+          "type": "text",
+          "text": "House.” In your honour, Mr Trevor Mallard, I’ve made sure that I would read every word"
+        },
+        {
+          "type": "text",
+          "text": "of my speech, in your part, today. By the way, Mr Mallard, I had been in the House for"
+        },
+        {
+          "type": "text",
+          "text": "two days when I got that note from you."
+        },
+        {
+          "type": "text",
+          "text": "Mr Mallard, farewell and good luck, and thank you for your incredible work."
+        },
+        {
+          "type": "text",
+          "text": "I turn to you now, e te Speaker-Elect. Ki a koe, Adrian Rurawhe. What a day for you;"
+        },
+        {
+          "type": "text",
+          "text": "what a day for Te Ao Māori. It was really beautiful and special to catch up with you, Mr"
+        },
+        {
+          "type": "text",
+          "text": "Speaker-Elect, in Tokoroa on Friday to talk about the honour it w as for your people, for"
+        },
+        {
+          "type": "text",
+          "text": "Taranaki, for your whānau, for Rātana Pā, for the ones you love the most; as were the"
+        },
+        {
+          "type": "text",
+          "text": "words that you put in your powhiri this morning."
+        },
+        {
+          "type": "text",
+          "text": "I note that there are, I don’t know, 400 and something rules that you already have"
+        },
+        {
+          "type": "text",
+          "text": "confessed not to know individually and expertly, but, my goodness, Mr Speaker -Elect,"
+        },
+        {
+          "type": "text",
+          "text": "those rules are nothing compared to the challenge that was laid to you at the pōwhiri today"
+        },
+        {
+          "type": "text",
+          "text": "for upholding kaupapa Māori tikanga in this House. I wish you the best of luck in trying"
+        },
+        {
+          "type": "text",
+          "text": "24 Aug 2022 Office of Speaker 11781"
+        },
+        {
+          "type": "text",
+          "text": "to align that accountability, that only a speaker of Māori would understand in that job. I"
+        },
+        {
+          "type": "text",
+          "text": "know and I can say with every confidence that having that lens of kaupapa Māori tikanga"
+        },
+        {
+          "type": "text",
+          "text": "in this place would be better for all of us. So I welcome the expertise that you bring into"
+        },
+        {
+          "type": "text",
+          "text": "this area."
+        },
+        {
+          "type": "text",
+          "text": "I did want to acknowledge the history and the legacy that your whakapapa brings, not"
+        },
+        {
+          "type": "text",
+          "text": "the least your grand -uncle Haami Tokouru Rātana, grandfather Matiu Rātana, and so"
+        },
+        {
+          "type": "text",
+          "text": "many more. Mr Speaker-Elect, it is with aroha and pride that the Gr een Party welcomes"
+        },
+        {
+          "type": "text",
+          "text": "you. Kia ora."
+        },
+        {
+          "type": "speech",
+          "speaker": "DAVID SEYMOUR",
+          "role": "Leader—ACT",
+          "time": "",
+          "text": "Kia ora, Mr Speaker-Elect, he mihi nui mō te"
+        },
+        {
+          "type": "text",
+          "text": "pōtitanga o te wā."
+        },
+        {
+          "type": "text",
+          "text": "[Mr Speaker-Elect, I congratulate you on your election.]"
+        },
+        {
+          "type": "text",
+          "text": "I congratulate you on your election. The role of the Speaker of the House of"
+        },
+        {
+          "type": "text",
+          "text": "Representatives is an extremely important one, even at the best of times, and, sadly, these"
+        },
+        {
+          "type": "text",
+          "text": "are not the best of times. As we’re reminded, from the early 1970s to about 15 years ago,"
+        },
+        {
+          "type": "text",
+          "text": "the world flocked to democracy. And yet, over the last 15 years, we’ve had a democratic"
+        },
+        {
+          "type": "text",
+          "text": "recession—countries move away from it —and that’s a dangerous backdrop for New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand. Our only chance of influencin g the world is by setting a good example."
+        },
+        {
+          "type": "text",
+          "text": "Depending on how we act in this House, we can be a beacon of democratic light at the"
+        },
+        {
+          "type": "text",
+          "text": "bottom of the world, or we can instead be just another example of why democracy is in"
+        },
+        {
+          "type": "text",
+          "text": "recession around the world. Your new role as the leader of this Parliament gives you more"
+        },
+        {
+          "type": "text",
+          "text": "opportunity to influence the development of our democracy than any other single New"
+        },
+        {
+          "type": "text",
+          "text": "Zealander. It’s not for you, but for the institution. As Speaker’s ruling 16/1 says, “It is the"
+        },
+        {
+          "type": "text",
+          "text": "duty of the Speaker to uphold  the authority of the Chair, and that authority is not the"
+        },
+        {
+          "type": "text",
+          "text": "authority of the individual who happens to occupy it, but of the House itself.”"
+        },
+        {
+          "type": "text",
+          "text": "You have the opportunity to ensure that every New Zealander’s vote counts. You can"
+        },
+        {
+          "type": "text",
+          "text": "ensure that the representatives they elect into this House can use their privileges to hold"
+        },
+        {
+          "type": "text",
+          "text": "the Government accountable through the mechanisms of this Parliament. I’m very"
+        },
+        {
+          "type": "text",
+          "text": "encouraged by what you’ve already said, Mr Speaker. But, unfortunately, it has to be said,"
+        },
+        {
+          "type": "text",
+          "text": "you are starting from a low base through no fault of your own. I think it’s fair to say that"
+        },
+        {
+          "type": "text",
+          "text": "we’ve had our own democratic recession over the last five years, and you’ve already"
+        },
+        {
+          "type": "text",
+          "text": "alluded to some of that. I think we can get some useful tips about what not to do from the"
+        },
+        {
+          "type": "text",
+          "text": "last five years,  and I share these out of a sincere effort on behalf of the ACT Party to"
+        },
+        {
+          "type": "text",
+          "text": "support you in doing your role, rebuilding the mana of your Chair and this House."
+        },
+        {
+          "type": "text",
+          "text": "We think that you should allow more discussion on the rules of Parliament. For reasons"
+        },
+        {
+          "type": "text",
+          "text": "I don’t understand, but best known to him—perhaps under-confidence about the rules, or"
+        },
+        {
+          "type": "text",
+          "text": "a lack of humility —your predecessor would not allow discussion of the rules in this"
+        },
+        {
+          "type": "text",
+          "text": "Chamber, instead asking that they happen behind closed doors in his office. That’s a great"
+        },
+        {
+          "type": "text",
+          "text": "shame, because it meant that instead of having tutorials for new members, instead of"
+        },
+        {
+          "type": "text",
+          "text": "having a forum to ventilate frustrations, and growing the sophistication of our rules over"
+        },
+        {
+          "type": "text",
+          "text": "time, we weren’t able to engage with you about the Standing Orders and how they are"
+        },
+        {
+          "type": "text",
+          "text": "interpreted. I hope that you will reverse that change."
+        },
+        {
+          "type": "text",
+          "text": "As you’ve already alluded to, I think it’s important to have some equality between"
+        },
+        {
+          "type": "text",
+          "text": "Standing Orders 390, that’s the content of questions, and Standing Orders 396, that’s the"
+        },
+        {
+          "type": "text",
+          "text": "content of replies. Because if  you read those two Standing Orders, they’re nearly"
+        },
+        {
+          "type": "text",
+          "text": "identical. They are mirror images of each other. But we simply have not seen that in the"
+        },
+        {
+          "type": "text",
+          "text": "tolerance of questions and the tolerance of replies over the past five years. I really hope"
+        },
+        {
+          "type": "text",
+          "text": "that you will look at those two Standing Orders and uphold them equally."
+        },
+        {
+          "type": "text",
+          "text": "We should allow more urgent debates. An urgent debate takes 90 minutes of the"
+        },
+        {
+          "type": "text",
+          "text": "House’s time. For the last three sitting blocks, the Government has taken up to four hours"
+        },
+        {
+          "type": "text",
+          "text": "in extended sitting. So we’re able to have an extra four hours a week, but we don’t have"
+        },
+        {
+          "type": "text",
+          "text": "11782 Election of Speaker 24 Aug 2022"
+        },
+        {
+          "type": "text",
+          "text": "90 minutes to discuss important events, because so often it’s ruled not to demand the"
+        },
+        {
+          "type": "text",
+          "text": "urgent attention of the House. Well, I think, for example, $2.1 billion spent by the"
+        },
+        {
+          "type": "text",
+          "text": "taxpayer buying a bank that 6 pe rcent of people have their mortgages with is something"
+        },
+        {
+          "type": "text",
+          "text": "we could find 90 minutes for, and I hope that you’ll start a new tradition of publishing"
+        },
+        {
+          "type": "text",
+          "text": "not only your rulings on whether we have an urgent debate but also the letter that came"
+        },
+        {
+          "type": "text",
+          "text": "along."
+        },
+        {
+          "type": "text",
+          "text": "I think it’s important—and I’m sure you will do this, and I have great and sincere hope"
+        },
+        {
+          "type": "text",
+          "text": "for you, your personality, and mana —that you’ll rise above partisan politics and treat"
+        },
+        {
+          "type": "text",
+          "text": "members with grace and respect. You know, when I was a sole and relatively junior MP,"
+        },
+        {
+          "type": "text",
+          "text": "I was treated so badly by your predecessor that often senior members of his party came"
+        },
+        {
+          "type": "text",
+          "text": "up to me and apologised for him. You’ll face a similar dilemma with Gaurav Sharma,"
+        },
+        {
+          "type": "text",
+          "text": "someone who you may have voted to expel from the Labour Party on Monday. You’ll be"
+        },
+        {
+          "type": "text",
+          "text": "responsible for upholding his rights tomorrow. And that is a very important distinction"
+        },
+        {
+          "type": "text",
+          "text": "that brings into sharp relief the difference between being a partisan politician and the"
+        },
+        {
+          "type": "text",
+          "text": "Speaker. I have great confidence that you will do that well, on behalf of the people of"
+        },
+        {
+          "type": "text",
+          "text": "New Zealand."
+        },
+        {
+          "type": "text",
+          "text": "In difficult times, breathe. People look to this Parliament for leadership, for a calm"
+        },
+        {
+          "type": "text",
+          "text": "hand on the tiller. When crises strike, we’re here to support you. Don’t jump the gun. We"
+        },
+        {
+          "type": "text",
+          "text": "want to see this Parliament’s mana enhanced. All together, you have an  important job at"
+        },
+        {
+          "type": "text",
+          "text": "an important time with much damage, sadly, to undo. ACT members are committed"
+        },
+        {
+          "type": "text",
+          "text": "parliamentarians. We have often been deeply saddened by the way this important"
+        },
+        {
+          "type": "text",
+          "text": "institution has been run down over the last five years. None the less, we view to day as a"
+        },
+        {
+          "type": "text",
+          "text": "new day, and we stand ready to give you every assistance and support in your leadership"
+        },
+        {
+          "type": "text",
+          "text": "of this great House. Thank you, Mr Speaker."
+        },
+        {
+          "type": "speech",
+          "speaker": "DEBBIE NGAREWA -PACKER",
+          "role": "Co -Leader—Te Paati Māori",
+          "time": "",
+          "text": "Tēnā koe, ki"
+        },
+        {
+          "type": "text",
+          "text": "tētēkura ki tētēkura. Kei te tū ahau ki te mihi ki te whakanui i tō tū hou, ki te whakatika i"
+        },
+        {
+          "type": "text",
+          "text": "te kōrero i mua i a tātou."
+        },
+        {
+          "type": "text",
+          "text": "[Greetings. From one fern frond, an other one develops. I stand to acknowledge and"
+        },
+        {
+          "type": "text",
+          "text": "celebrate your new role, that of maintaining standards of debate for all.]"
+        },
+        {
+          "type": "text",
+          "text": "It’s a huge honour to be here and to rise on behalf of Te Paati Māori, to rise on behalf"
+        },
+        {
+          "type": "text",
+          "text": "of the people, the whānau of Te Tai Hauāuru, to congratulate you, e te tungāne, and to"
+        },
+        {
+          "type": "text",
+          "text": "congratulate your whānau, your iwi, your hapū on your election as Speaker of the House"
+        },
+        {
+          "type": "text",
+          "text": "of Representatives."
+        },
+        {
+          "type": "text",
+          "text": "Before anything else, I mihi to you as a whanaunga, who sat there patiently and humbly"
+        },
+        {
+          "type": "text",
+          "text": "listening to kōrero that wasn’t about you. This moment is about you. We’ve waited a very"
+        },
+        {
+          "type": "text",
+          "text": "long time to be here, so I acknowledge you. I acknowledge our whakapapa. I acknowledge"
+        },
+        {
+          "type": "text",
+          "text": "our whanaungatanga. I acknowledge your whānau, who have fought, who have"
+        },
+        {
+          "type": "text",
+          "text": "committed, who have sacrificed for you to be here today. I acknowledge the deep, strong"
+        },
+        {
+          "type": "text",
+          "text": "connection and immense pride of te iwi Morehu here today. Your mahi has consistently"
+        },
+        {
+          "type": "text",
+          "text": "demonstrated why you have been elected as Speaker. I remember when you were CEO"
+        },
+        {
+          "type": "text",
+          "text": "of Ngāti Apa and you humbly showed that you can indeed, despite all concerns, cross the"
+        },
+        {
+          "type": "text",
+          "text": "spheres of rangatiratanga and kāwanatanga to advance kaupapa as tangata whenua."
+        },
+        {
+          "type": "text",
+          "text": "We have always appreciated your grace, your mana, with which you operate as a"
+        },
+        {
+          "type": "text",
+          "text": "leader. You prove that political progre ss, career promotion —in fact, elections —don’t"
+        },
+        {
+          "type": "text",
+          "text": "have to be about aggression, being ugly. Instead, you act with humility and dignity, just"
+        },
+        {
+          "type": "text",
+          "text": "as your tūpuna did. This is a huge day for Te Ao Māori. Your elevation to this role is only"
+        },
+        {
+          "type": "text",
+          "text": "the second time, as our Pirī mia said earlier, that one of our own people has been in this"
+        },
+        {
+          "type": "text",
+          "text": "position, one of the highest democratic roles in the country, and I recognise everything"
+        },
+        {
+          "type": "text",
+          "text": "that it has taken to get you here. We tautoko your nomination, your selection, your"
+        },
+        {
+          "type": "text",
+          "text": "election."
+        },
+        {
+          "type": "text",
+          "text": "24 Aug 2022 Office of Speaker 11783"
+        },
+        {
+          "type": "text",
+          "text": "This historical significance of today should not be understated. Nā Tītokowaru me ngā"
+        },
+        {
+          "type": "text",
+          "text": "Poropiti te ara ki te Rere a Kāpuni."
+        },
+        {
+          "type": "text",
+          "text": "[Tītokowaru and the prophets led the way to the sacred waterfall of Rere a Kāpuni.]"
+        },
+        {
+          "type": "text",
+          "text": "There is a path that was predetermined before your arrival,  that is predetermined for"
+        },
+        {
+          "type": "text",
+          "text": "all of us, and the significance of our mokopuna as Māngai, being elected as Speaker of"
+        },
+        {
+          "type": "text",
+          "text": "the House, aligns with the tohu we are seeing. We are positive, we are optimistic, we are"
+        },
+        {
+          "type": "text",
+          "text": "seeing a revival of our reo, our tikanga. We’re seei ng a recognition of Matariki. We’re"
+        },
+        {
+          "type": "text",
+          "text": "seeing a drive for constitutional transformation that points to the birth of an Aotearoa hau."
+        },
+        {
+          "type": "text",
+          "text": "We are seeing the kotahitanga of tangata whenua and tangata Tiriti that truly lives up to"
+        },
+        {
+          "type": "text",
+          "text": "the vision of Te Tiriti, a Treaty -based nation in the South Pacific. I don’t want to take"
+        },
+        {
+          "type": "text",
+          "text": "away from what it is that you will have to do in deed in Te Tiriti and tikanga. I look"
+        },
+        {
+          "type": "text",
+          "text": "forward to seeing what it is that you will bring into the House."
+        },
+        {
+          "type": "text",
+          "text": "Finally, as the member least to be kicked out in t his party, I want to apologise to you"
+        },
+        {
+          "type": "text",
+          "text": "for other things that may happen that I have no control over —you can’t see me, eh,"
+        },
+        {
+          "type": "text",
+          "text": "Rawiri. But I also want to take the moment to remind us that we all have big mahi here,"
+        },
+        {
+          "type": "text",
+          "text": "as those too in a party that has some of the la rgest Māori electorates to get around —as"
+        },
+        {
+          "type": "text",
+          "text": "you too know—and we will do our darnedest to serve our people outside and inside of"
+        },
+        {
+          "type": "text",
+          "text": "the House, and that’s open for critique from those who don’t know what it’s like to"
+        },
+        {
+          "type": "text",
+          "text": "whakawhanaunga, to turn up at kaupapa, to turn up to tangi, and to get judged whether"
+        },
+        {
+          "type": "text",
+          "text": "we’re in the House or out of the House."
+        },
+        {
+          "type": "text",
+          "text": "For you, e te tungāne, e te Māngai, we commit that we will serve and we will work to"
+        },
+        {
+          "type": "text",
+          "text": "the best of our ability and control to bring the dignity and decorum that you require in this"
+        },
+        {
+          "type": "text",
+          "text": "House, and we will always be available for the moments that perhaps we need to be picked"
+        },
+        {
+          "type": "text",
+          "text": "up on as well."
+        },
+        {
+          "type": "text",
+          "text": "Nō reira, e te āhuatanga o tā tātou tūpuna ngā mihi aroha kei a koutou, kei a koe. Kia"
+        },
+        {
+          "type": "text",
+          "text": "ora koutou katoa."
+        },
+        {
+          "type": "text",
+          "text": "[Therefore, I acknowledge the characterist ics of our ancestors that you express. Be"
+        },
+        {
+          "type": "text",
+          "text": "well, one and all.]"
+        },
+        {
+          "type": "speech",
+          "speaker": "RAWIRI WAITITI",
+          "role": "Co -Leader—Te Paati Māori",
+          "time": "",
+          "text": "Pere atu taku  pere ki te"
+        },
+        {
+          "type": "text",
+          "text": "Hauāuru, ko Ua Haumēne ko Mere Rikiriki, ko Tohu Kākahi, Te Whiti o Rongomai."
+        },
+        {
+          "type": "text",
+          "text": "Ko Mere Rikiriki, ko Wiremu Rātana."
+        },
+        {
+          "type": "text",
+          "text": "Tōia mai, Te Hauāuru, ki runga Pōneke, Te Kooti Rikirangi. He hōnore, he korōria, he"
+        },
+        {
+          "type": "text",
+          "text": "maungārongo ki te whenua, he whakaaro pai ki ngā tāngata katoa, āmene."
+        },
+        {
+          "type": "text",
+          "text": "E Ihoā e te Karaiti me te Wairua Tapu kia tau anō hoki ō manaakitanga ki runga i tētahi"
+        },
+        {
+          "type": "text",
+          "text": "o tātou Māngai i tēnei rā."
+        },
+        {
+          "type": "text",
+          "text": "Inā anō hoki te whetū mārama ka ara anō ki te uru e Ihoā e tō mātou Atua."
+        },
+        {
+          "type": "text",
+          "text": "Nō reira kia tau anō hoki ō manaakitanga ki runga i a ia, ki runga i a tātou i tēnei rā"
+        },
+        {
+          "type": "text",
+          "text": "kia tāria anō hoki ai te whakatutuki i ngā mahi kei mua i a ia."
+        },
+        {
+          "type": "text",
+          "text": "Tēnei anō hoki e inoi ki tō mātou Atua te hunga kei roto i tēnei Whare, te hunga kei"
+        },
+        {
+          "type": "text",
+          "text": "waho e whakamoemiti atu kia whakataiapangia tēnei o tātou i tāu mana whakaora hei ārai"
+        },
+        {
+          "type": "text",
+          "text": "atu ngā whakawainga o te ao a te kikokiko, a te Rēwera, a te upoko ariki, a te kiriweti me"
+        },
+        {
+          "type": "text",
+          "text": "te porohae, a te whiu a te tangata i runga i tō mātou Atua ki runga i a ia kia noho ko koe"
+        },
+        {
+          "type": "text",
+          "text": "te Atua kei mua, kei muri, kei tētahi taha, kei tētahi taha o a ia i ngā wā katoa."
+        },
+        {
+          "type": "text",
+          "text": "Tēnei anō hoki mātou te inoi atu ki a koe, i runga i te ingoa o tāu tama Ihu Karaiti ko"
+        },
+        {
+          "type": "text",
+          "text": "tō mātou kaiwhakaora."
+        },
+        {
+          "type": "text",
+          "text": "Ko koe te Atua e ora ana e mana ana i ngā tau mutunga kore, korōria ki tō ingoa tapu,"
+        },
+        {
+          "type": "text",
+          "text": "āmene."
+        },
+        {
+          "type": "text",
+          "text": "[My bell rings in the West where Ua Haumēne, Mere Rikiriki, Tohu Kākahi and Te"
+        },
+        {
+          "type": "text",
+          "text": "Whiti o Rongomai reside."
+        },
+        {
+          "type": "text",
+          "text": "There is Mere Rikiriki and Wiremu Rātana."
+        },
+        {
+          "type": "text",
+          "text": "11784 Election of Speaker 24 Aug 2022"
+        },
+        {
+          "type": "text",
+          "text": "To those from the West, welcome, to Wellington, here is Te Kooti Rikirangi. Honour"
+        },
+        {
+          "type": "text",
+          "text": "and glory to God, peace on earth, goodwill to all people, amen."
+        },
+        {
+          "type": "text",
+          "text": "May the blessings of the Lord God, Jesus Christ, and the Holy Spirit also be upon this"
+        },
+        {
+          "type": "text",
+          "text": "Speaker of ours today."
+        },
+        {
+          "type": "text",
+          "text": "The bright star has risen again in the west, oh Jehovah, our God."
+        },
+        {
+          "type": "text",
+          "text": "May your blessings be upon him and upon us  all so that the tasks set out in front of"
+        },
+        {
+          "type": "text",
+          "text": "him can also be completed."
+        },
+        {
+          "type": "text",
+          "text": "Thus, we inside this House as well as those outside pray that he may be protected by"
+        },
+        {
+          "type": "text",
+          "text": "your healing powers, to ward off worldly temptations and the devil, against self -"
+        },
+        {
+          "type": "text",
+          "text": "importance, impatience and jealousy, and those who chastise our Lord, so that you, Lord,"
+        },
+        {
+          "type": "text",
+          "text": "may surround him on all sides at all times."
+        },
+        {
+          "type": "text",
+          "text": "And we pray to you, in the name of your son Jesus Christ our saviour."
+        },
+        {
+          "type": "text",
+          "text": "You are the God who lives and rules for eternity, may your name be glorified, amen.]"
+        },
+        {
+          "type": "text",
+          "text": "He Korōria hareruia"
+        },
+        {
+          "type": "text",
+          "text": "Ki a Ihoā o ngā mano"
+        },
+        {
+          "type": "text",
+          "text": "Ki te kāhui ariki wairua"
+        },
+        {
+          "type": "text",
+          "text": "Ko te Māngai e tautoko mai"
+        },
+        {
+          "type": "text",
+          "text": "Te Ārepa"
+        },
+        {
+          "type": "text",
+          "text": "Te Ōmeka"
+        },
+        {
+          "type": "text",
+          "text": "Tautokotia mai te rōpū nei"
+        },
+        {
+          "type": "text",
+          "text": "Piri Wiri Tua"
+        },
+        {
+          "type": "text",
+          "text": "Hāmuera"
+        },
+        {
+          "type": "text",
+          "text": "Ka puta ka ora e"
+        },
+        {
+          "type": "text",
+          "text": "[Glory hallelujah"
+        },
+        {
+          "type": "text",
+          "text": "To Jehovah our God"
+        },
+        {
+          "type": "text",
+          "text": "To our spiritual guardians"
+        },
+        {
+          "type": "text",
+          "text": "With the Mouthpiece in support"
+        },
+        {
+          "type": "text",
+          "text": "The Alpha"
+        },
+        {
+          "type": "text",
+          "text": "The Omega"
+        },
+        {
+          "type": "text",
+          "text": "Please support this group"
+        },
+        {
+          "type": "text",
+          "text": "The Campaigner"
+        },
+        {
+          "type": "text",
+          "text": "Samuel"
+        },
+        {
+          "type": "text",
+          "text": "By them we shall survive]"
+        },
+        {
+          "type": "text",
+          "text": "E te Atua whakatuwheratia mai ngā kūaha o te tika ki a mātou ō pononga i tēnei rā mā"
+        },
+        {
+          "type": "text",
+          "text": "mātou anō hoki koe e whakamoemiti, e whakakōroria ki tō ingoa tapu, āmene."
+        },
+        {
+          "type": "text",
+          "text": "[Dear Lord, open the doors of righteousness to us, your disciples, on this day so we"
+        },
+        {
+          "type": "text",
+          "text": "may praise you, glory to your sacred name.]"
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr GAURAV SHARMA",
+          "role": "Hamilton West",
+          "time": "",
+          "text": "Tēnā koe, Mr Speaker. Tēnā koutou e te"
+        },
+        {
+          "type": "text",
+          "text": "Whare. I just want to join everybody, first of all, in congratulating you as the new"
+        },
+        {
+          "type": "text",
+          "text": "Speaker-Elect and, hopefully, the Speaker. When you gave  your speech, it was really"
+        },
+        {
+          "type": "text",
+          "text": "refreshing to hear about fairness, to hear about bringing value to the House, and changing"
+        },
+        {
+          "type": "text",
+          "text": "some of the issues that are present in the House. It almost seems like you should be an"
+        },
+        {
+          "type": "text",
+          "text": "independent, rather than aligned with any side!"
+        },
+        {
+          "type": "text",
+          "text": "In the last 1½ years, there have been quite a few changes. I was sitting on that side,"
+        },
+        {
+          "type": "text",
+          "text": "and the gentleman sitting next to me was in the Speaker’s Chair, the former member of"
+        },
+        {
+          "type": "text",
+          "text": "Parliament for Hamilton West. I just want to acknowledge Mr Trevor Mallard, who is"
+        },
+        {
+          "type": "text",
+          "text": "now leaving as the outgoing Speaker of the House."
+        },
+        {
+          "type": "text",
+          "text": "Some of the people today mentioned integrity and transparency in their speeches. I just"
+        },
+        {
+          "type": "text",
+          "text": "want to say that two weeks ago, I contacted the former Speaker, and I went to talk to him"
+        },
+        {
+          "type": "text",
+          "text": "about some of the issues I wa s having and whether I could get legal support in my case."
+        },
+        {
+          "type": "text",
+          "text": "But the Speaker said, “Well, you know, if you raise anything about a Labour colleague—"
+        },
+        {
+          "type": "text",
+          "text": "24 Aug 2022 Office of Speaker 11785"
+        },
+        {
+          "type": "text",
+          "text": "any challenges—it would be the end of your career.” And then the Speaker ended up"
+        },
+        {
+          "type": "text",
+          "text": "going to the Labour whip’s of fice right after that to tell them that I had actually laid a"
+        },
+        {
+          "type": "text",
+          "text": "complaint against the party and the whips. I just want to—"
+        },
+        {
+          "type": "speech",
+          "speaker": "Debbie Ngarewa-Packer",
+          "role": "",
+          "time": "",
+          "text": "Point of order."
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr GAURAV SHARMA",
+          "role": "",
+          "time": "",
+          "text": "I’m just stopping there."
+        },
+        {
+          "type": "text",
+          "text": "I just want to say, Mr Speaker, I hope—"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "No, no. I stand; you sit. Kia ora. That is not the purpose of this"
+        },
+        {
+          "type": "text",
+          "text": "debate. You’re raising issues that this House is not dealing with at this moment. If you"
+        },
+        {
+          "type": "text",
+          "text": "have nothing further to add to what you’ve already said —if you indicate to me —have"
+        },
+        {
+          "type": "text",
+          "text": "you finished?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr GAURAV SHARMA",
+          "role": "",
+          "time": "",
+          "text": "No, but I won’t touch that point. I just want to say—"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "No, no. So you’re not finished?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr GAURAV SHARMA",
+          "role": "",
+          "time": "",
+          "text": "I’m not finished."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "Yeah, well, sit down, then. I will interrupt the member again if"
+        },
+        {
+          "type": "text",
+          "text": "he goes off track. This is about the newly elected Speaker."
+        },
+        {
+          "type": "speech",
+          "speaker": "Dr GAURAV SHARMA",
+          "role": "",
+          "time": "",
+          "text": "Thank you, Mr Speaker. I just want to say that I hope that"
+        },
+        {
+          "type": "text",
+          "text": "you would be a neutral person as the Speaker of the House and would show the fairness"
+        },
+        {
+          "type": "text",
+          "text": "that you’ve talked about and will listen to all members from across all sides. That’s all I"
+        },
+        {
+          "type": "text",
+          "text": "hope for and wish for. Once again, I just want to congratulate you on your new role as the"
+        },
+        {
+          "type": "text",
+          "text": "Speaker-Elect. Thank you."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "Tēnā anō tātou katoa. Thank you very much for your kind and"
+        },
+        {
+          "type": "text",
+          "text": "generous words. I will try to live up  to everyone’s expectations, which is probably a"
+        },
+        {
+          "type": "text",
+          "text": "dangerous thing to say out loud, given that there’s probably 119 expectations quite"
+        },
+        {
+          "type": "text",
+          "text": "contrary to each other. However, I do stand and greet you all. Thank you very much for"
+        },
+        {
+          "type": "text",
+          "text": "having the confidence in me to be the Speaker of this House. Nō reira, we’ve already had"
+        },
+        {
+          "type": "text",
+          "text": "one waiata—let’s have a waiata to finish things off properly."
+        },
+        {
+          "type": "text",
+          "text": "Waiata"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER-ELECT",
+          "role": "",
+          "time": "",
+          "text": "The House stands adjourned until 2 p.m. tomorrow."
+        },
+        {
+          "type": "text",
+          "text": "The House adjourned at 2.41 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Index to"
+        },
+        {
+          "type": "text",
+          "text": "Wednesday, 24 August 2022"
+        }
+      ]
+    },
+    {
+      "heading": "Explanation Of Abbreviations",
+      "items": [
+        {
+          "type": "text",
+          "text": "1R—First Reading"
+        },
+        {
+          "type": "text",
+          "text": "2R—Second Reading"
+        },
+        {
+          "type": "text",
+          "text": "3R—Third Reading"
+        },
+        {
+          "type": "text",
+          "text": "CWH—Committee of the whole House"
+        },
+        {
+          "type": "text",
+          "text": "LS—Legislative Statement"
+        },
+        {
+          "type": "text",
+          "text": "BILLS"
+        },
+        {
+          "type": "text",
+          "text": "Legislation is listed under BILLS. The name of an originating bill that has been divided into separate"
+        },
+        {
+          "type": "text",
+          "text": "bills is shown in italics after the names of the new bills."
+        }
+      ]
+    },
+    {
+      "heading": "Oral Questions",
+      "items": [
+        {
+          "type": "text",
+          "text": "Questions are listed under ORAL QUESTIONS by ministerial portfolio."
+        },
+        {
+          "type": "text",
+          "text": "______________________________________"
+        },
+        {
+          "type": "text",
+          "text": "ARDERN, Rt Hon JACINDA—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11778"
+        },
+        {
+          "type": "text",
+          "text": "Te Reo Māori, 11778"
+        },
+        {
+          "type": "text",
+          "text": "DAVIDSON, Hon MARAMA—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11780"
+        },
+        {
+          "type": "text",
+          "text": "EDMONDS, BARBARA—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11777"
+        },
+        {
+          "type": "text",
+          "text": "HIPKINS, Hon CHRIS—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11777"
+        },
+        {
+          "type": "text",
+          "text": "LUXON, CHRISTOPHER—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11779"
+        },
+        {
+          "type": "text",
+          "text": "MĀORI LANGUAGE—"
+        },
+        {
+          "type": "text",
+          "text": "see TE REO MĀORI"
+        },
+        {
+          "type": "text",
+          "text": "NGAREWA-PACKER, DEBBIE—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11782"
+        },
+        {
+          "type": "text",
+          "text": "Te Reo Māori, 11782"
+        },
+        {
+          "type": "text",
+          "text": "RURAWHE, Rt Hon ADRIAN—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker, 11777"
+        },
+        {
+          "type": "text",
+          "text": "Te Reo Māori, 11777"
+        },
+        {
+          "type": "text",
+          "text": "SEYMOUR, DAVID—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11781"
+        },
+        {
+          "type": "text",
+          "text": "Te Reo Māori, 11781"
+        },
+        {
+          "type": "text",
+          "text": "SHARMA, Dr GAURAV—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11784"
+        }
+      ]
+    },
+    {
+      "heading": "Speakers And Presiding",
+      "items": [
+        {
+          "type": "text",
+          "text": "OFFICERS—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11777"
+        },
+        {
+          "type": "text",
+          "text": "WEDNESDAY, 24 AUGUST 2022"
+        },
+        {
+          "type": "text",
+          "text": "ii"
+        },
+        {
+          "type": "text",
+          "text": "TE REO MĀORI—"
+        },
+        {
+          "type": "text",
+          "text": "Ardern, Rt Hon Jacinda, 11778"
+        },
+        {
+          "type": "text",
+          "text": "Ngarewa-Packer, Debbie, 11782"
+        },
+        {
+          "type": "text",
+          "text": "Rurawhe, Rt Hon Adrian, 11777"
+        },
+        {
+          "type": "text",
+          "text": "Seymour, David, 11781"
+        },
+        {
+          "type": "text",
+          "text": "Waititi, Rawiri, 11783"
+        },
+        {
+          "type": "text",
+          "text": "WAITITI, RAWIRI—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11783"
+        },
+        {
+          "type": "text",
+          "text": "Te Reo Māori, 11783"
+        },
+        {
+          "type": "text",
+          "text": "WEBB, Dr DUNCAN—"
+        },
+        {
+          "type": "text",
+          "text": "Speakers and Presiding Officers—"
+        },
+        {
+          "type": "text",
+          "text": "Election—"
+        },
+        {
+          "type": "text",
+          "text": "Speaker (Rurawhe, Rt Hon Adrian),"
+        },
+        {
+          "type": "text",
+          "text": "11777"
+        }
+      ]
+    }
+  ],
+  "plain_text": " \n \n \n \nFifty-third Parliament \n \n \n \n \nParliamentary Debates \n(HANSARD) \n \n \n \n \nFINAL DAILY \n \n \n \n \nWednesday, 24 August 2022 \n(for inclusion in Volume 762) \n \n \nWELLINGTON, NEW ZEALAND \nPublished under the authority of the House of Representatives—2024 \n \n \n \n\n\n \nWEDNESDAY, 24 AUGUST 2022 \n  \nTABLE OF CONTENTS \n \nOFFICE OF SPEAKER........................................................................................ 11777 \n \nMESSAGE FROM GOVERNOR-GENERAL .................................................... 11777 \nELECTION OF SPEAKER .................................................................................. 11777 \n \n  \n \n \n \nWEDNESDAY, 24 AUGUST 2022 \nThe House met at 2 p.m. \nOFFICE OF SPEAKER \nVacancy \nCLERK: Honourable members, I wish to advise the House that the office of Speaker \nis vacant. \nMESSAGE FROM GOVERNOR-GENERAL \nHon CHRIS HIPKINS (Leader of the House) : Mr Clerk, I am requested by Her \nExcellency the Governor-General to inform the House that it is Her Excellency’s desire \nthat the House should proceed to choose one of its members as its Speaker and, in \naccordance with section 12 of the Constitution Act of 1986, present that person at \nGovernment House at 4 p.m. today for Her Excellency’s confirmation. \nELECTION OF SPEAKER \nCLERK: Honourable members, the House must now proceed to choose a Speaker. I \nremind members they are to participate remotely and proxy votes may not be cast. If \nmembers participating remotely want to make a nomination, please type “call” into the \nchat. Are there any nominations? \nDr DUNCAN WEBB (Chief Whip —Labour): I nominate Adrian Rurawhe for the \noffice of Speaker. \nBARBARA EDMONDS (Junior Whip —Labour): I second the nomination of \nAdrian Rurawhe for the office of Speaker. \nCLERK: Are there any other nominations? There being no other nominations, I \ndeclare Adrian Rurawhe elected Speaker. \nWaiata \nSPEAKER-ELECT:  \nKia whai korōria hōnore hareruia ki a Ihoā o ngā mano tūāuriuri whāioio. \nKī tonu te rangi me te whenua i te nui o Tōna korōria. Nō reira, \nTihei Mauri ora. \nKei te mihi atu au ki Kīngi Tūheitia Pōtatau Te Wherowhero te Tuawhitu me te kāhui \nariki, tēnā koutou, rire, rire, hau Pai Mārire. \nKi a koutou, aku hapū, aku iwi tae atu ki taku whānau whānui, tēnei ahau e tuku mihi \natu ki a koutou, tēnā koutou, nau mai, haramai whakatau mai rā. \nKi a koutou ngā mema hōnore o Te Whare o ngā Māngai, tēnei ahau e tuku mihi atu \nki a koutou mō ō koutou tautoko i ahau kia tū hei Mana Whakawā o Te Whare o ngā \nMāngai. \nTēnei te mihi ake ki a koutou katoa, tēnā koutou, tēnā koutou, kāti rā kia ora mai tātou \nkatoa. \n[Glory, honour, and hallelujah to the Lord God of the countless multitudes. \nHeaven and earth are filled with God’s glory. \n’tis the breath of life. \nI acknowledge King Tūheitia Pōtatau Te Wherowhero VII and the royal family, \ngreetings, rire, rire, hau Pai Mārire. \nTo you of my subtribes, tribes, and including my wider family, I greet you: greetings, \ngreetings, welcome. \nTo you, the honourable members of the House of Representatives, I acknowledge you \nfor your supporting my election as Speaker of the House of Representatives. \nI acknowledge all of you, thank you and be well, one and all.] \n11778 Election of Speaker 24 Aug 2022 \n \nHonourable members—I’ll put my speech aside, I think—you do me a huge honour in \nelecting me as the Speaker of this House. I want to thank every single one of you for the \nsupport that you have given me today, but also acknowledge the huge number of you who \nhave encouraged me to take up this role. To you, the Prime Minister, thank you for the \nopportunity to take on this role, and to other members, as well, across the House who \nhave given me that encouragement. \nI think it’s really important that I state here today that I will carry on the long tradition \nof upholding the rights and privileges of this House. I think it’s important that all of those \nrights are upheld and acknowledged—rights and privileges like freedom of speech. You \nare all the voices of all of the people that you represent, and it’s important that their voices \nare heard. We may disa gree with each other on both sides of the House, but it’s really \nimportant that those voices are heard. \nI can say to the House that it’s my expectation that the House will hold the Government \nto account. I say to the Leader of the Opposition and party leaders that I will do everything \nto ensure that you have the opportunity to hold the Government to account. To the \nGovernment, I say to you, my expectation is that you will be accountable. There are a \nnumber of mechanisms by which that can happen. \nI’ve had the huge honour since the end of last year of presiding over question time on \nThursdays, probably something that has led me to this very day without me necessarily \nknowing about it. I have noticed a few things about question time that I think could be \nimproved, and, unfortunately, they are numerous! However, some small things could \nhappen—for example, the Government holding itself to account by asking itself \nquestions; some of the answers to those supplementary questions need to be a bit shorter \nand more succinct. I think I would encourage Ministers—and it’s quite interesting and a \nlittle bit puzzling, actually, that the Government sometimes end question times with a \nsignificant number of unused supplementaries. I think some of those supplementaries \nshould be used in this way: some of those answers should be cut down and be less speech-\nlike and more succinct. You could achieve that by asking more supplementaries; failure \nto do so will see the Opposition receive more supplementaries to do it. That is one thing \nI can do; there are others as well.  \nI’m probably going to leave it there, I think— \nHon Member: Keep going, keep going. \nSPEAKER-ELECT: In a way, I probably should go on, because this is probably \ngoing to be the last time I have the opportunity to speak! I cannot proclaim to be an expert \non all the rules of this House. However, I believe that being fair is probably paramount. \nFor me, if it feels like it’s out of order, it probably is, and if it feels as if it’s OK, it probably \nis. I hope that as a House, we can collectively come to those understandings. I think there \nis an opportunity for more robust debate, and that’s OK, but it has to be done by fairness. \nSo that will be my role. \nIt would be remiss of me not to mention my immediate predecessor, friend, colleague, \nand mentor to me. I want to  tuku atu te reo mihi ki a Trevor Mallard. [ I want to express \nmy thanks to Trevor Mallard. ] I undertake to carry on his work, his mahi, to make this \nplace a much better, family-friendly environment. \nNō reira, e tika ana kia tuku atu te reo mihi anō, nō reira tēnā rā koutou. Ināianei ka \ntuku ki a koutou te whānau, tuku mai tētahi waiata pai. \n[Therefore, it is appropriate that I express my gratitude once more, and so, thank you \nall. Now I will leave it to you, my family to give us a good song.] \nWaiata \nRt Hon JACINDA ARDERN (Prime Minister): Mr Speaker-Elect, mā te Māngai o \nIhoā te Māngai o te Whare e tautoko.  \n[The Mouthpiece of God will support the Speaker of the House.] \n24 Aug 2022 Office of Speaker 11779 \n \nI begin with a phrase that will be close to home to you, Mr Speaker-Elect. Translated, \nit means: may the mouthpiece of Ihoā, the temple of Rāta na, support and guide the \nmouthpiece of the House. I can’t think of a better way to sum up the proud history and \nmana that you bring with you into this role, something we are all now privileged to be the \nbenefactors of. \nIt was a few years ago now, that I remember having a conversation with our Speaker-\nElect about the possibility of taking on a role in the offices of the House. It was fair to \nsay there was some hesitancy. In my mind, this was the first sign that you were perfect \nfor the role. Since that time, the House has had the pleasure of seeing the many skills that \nyou bring to this position, and I want to acknowledge the outgoing Speaker for the fact \nthat he saw fit to ensure that you had the ability to sit in this House and preside over it \nand transition into the role that you now have. There will be an opportunity to pay tribute \nto the outgoing Speaker on another occasion. \nWhile all of the skills that you displayed in this place during that time are valuable, I \nplace great priority on your ability to perfectly balance a light touch and a firm hand. But \nperhaps the most prized asset of all in a Speaker is integrity, and that is the word that \nthose closest to you would use to describe you as a person, and now as a Speaker. Perhaps \none of your colleagues —Minister Sio—said it best when he described you as a gentle \ngiant but also that you shouldn’t be mistaken for anything else but firm, fair, and very \nconsidered. Everyone across this House knows, or will soon know, that there is an honesty \nand conviction of belief that the Speaker -Elect applies to everything he does. I believe \nthis House can be assured that there will be a fairness in the application of the Standing \nOrders and consideration of procedures that enables all parties and their views to be \nconsidered with openness, transparency, integrity, and —according to you —brevity, it \nsounds. \nThe Speaker -Elect also takes on this role having already demonstrated that he is a \nstrong voice in Parliament for the people of Te Tai Hauāuru , for Māori, and for New \nZealand, and, of course, it is historic that in taking on this position, he becomes only the \nsecond Māori Speaker. I know your grandparents Matiu and Iriaka Rātana and great -\ngrandfather T W Rātana would be proud, just as your Labou r whānau are proud. I can \nassure you we will remain proud, no matter how many occasions we may be reprimanded \nby you. Congratulations, and we wish you well, Mr Speaker -Elect. Kia kaha e te Mana \nWhakawā o te Whare.  \nCHRISTOPHER LUXON (Leader of the Opposition) : Thank you, Mr Speaker -\nElect. On behalf of the National Party, I would like to also offer you our warmest \ncongratulations on your election to the Speakership.  \nWe wish you all the very best for a role that we know will be challenging at times, but \nyou have gained the experience to stand you in very good stead. You’ve been a member \nof this House for eight years and you’ve served faithfully as one of its presiding officers \nsince the end of 2017, first as an Assistant Speaker through the last Parliament and then \nas Deputy Speaker. And now you’ll take up the mantle of becoming the 31 st Speaker of \nthis House and its second Māori Speaker. \nAdrian, it’s not surprising you have been elected to this office, having come from your \nlegacy of respected leadership across Māoridom, the Rātana church, and here in \nParliament. And while this is only my first term, I have observed you closely in this House \nand I’m looking forward to seeing how you bring your combination of personal humility \nbut also massive professional determination to ensure that this House and our democracy \nfunctions well. \nDespite being the modest person that I kno w you are, I do genuinely hope you allow \nyourself a moment to reflect on all that you have achieved and contributed thus far, and I \n11780 Election of Speaker 24 Aug 2022 \n \nhope that you will properly celebrate this significant milestone with all your whānau and \nall your friends that are here as well, and really enjoy today. It’s really important. \nWe know that you will bring integrity, you’ll bring balance and mana to the office of \nthe Speaker, and we look forward to working constructively with you in the interests of \nfairness and upholding the dignity of this Parliament. And that is why we have never seen \na need to propose an alternative candidate. \nCan I also acknowledge the Rt Hon Trevor Mallard and his contribution to Parliament \nover three decades as both a member and a Minister. I think it’s sa fe to say that he and I \nare fairly different. I’m the newcomer from outside this place and he’s the inveterate \nparliamentary scrapper. On the one hand, I think you’ve made this place much more \nfamily-friendly, and personally I have to say I found you very generous with your time, \nexplaining the protocols of this place to all of us as new MPs in the class of 2020 and \nmyself personally. \nBut it is also well known that National has disagreed strongly with you on many of \nyour actions and statements over your tim e as Speaker, and that you have lost the \nOpposition’s confidence. But we would like to still acknowledge your service and we are \nlooking forward to seeing you put your renowned tact and deft diplomatic skills to good \nuse in your new role, and we wish both you and the Irish nation very good luck. \nMr Speaker-Elect, congratulations to you once again. We wish you all the very, very \nbest, and we are looking forward to working with you. \nHon MARAMA DAVIDSON (Co-Leader—Green): Mr Speaker-Elect, thank you. \nI first want to turn and farewell a man who has held down one of the hardest jobs in \nParliament. As Speaker of the House, Trev or has demanded better for us all here in \nParliament, not just in the Chamber today but fighting for the living wage for cleaning \nand catering staff, valuing their mahi and their right to live better lives; making this place \nmuch more family -friendly; and for dogs—hear, hear—[Applause]—thank you, Prime \nMinister. But also he’s not been afraid to hold us to account, playing a key role in the \nFrancis Review, the interventions which were absolutely necessary to ensure that this \nwould become a safer place to work for us all. He has called the Government out on late \nparliamentary written questions and he’s pushed hard for the accountability of \nGovernment at select committees. He’s steered the precinct through the challenges of the \nCOVID pandemic, setting up a v irtual Parliament —hooray!—and operating with just \nskeleton staff here onsite. \nI’d like to recall one of my favourite memories of Mr Trevor Mallard. Here in the \nHouse, when I was a new MP, he graciously slipped me a note from the Clerk’s staff after \nI’d bee n here for a small wee while, saying, “Marama, Marama, you’re a strong \nspeaker”—chur for that, by the way —“but you don’t need to read from your notes. It \nwould be really good if you could allow more freedom of speech in your debate in the \nHouse.” In your honour, Mr Trevor Mallard, I’ve made sure that I would read every word \nof my speech, in your part, today. By the way, Mr Mallard, I had been in the House for \ntwo days when I got that note from you. \nMr Mallard, farewell and good luck, and thank you for your incredible work. \nI turn to you now, e te Speaker-Elect. Ki a koe, Adrian Rurawhe. What a day for you; \nwhat a day for Te Ao Māori. It was really beautiful and special to catch up with you, Mr \nSpeaker-Elect, in Tokoroa on Friday to talk about the honour it w as for your people, for \nTaranaki, for your whānau, for Rātana Pā, for the ones you love the most; as were the \nwords that you put in your powhiri this morning. \nI note that there are, I don’t know, 400 and something rules that you already have \nconfessed not to know individually and expertly, but, my goodness, Mr Speaker -Elect, \nthose rules are nothing compared to the challenge that was laid to you at the pōwhiri today \nfor upholding kaupapa Māori tikanga in this House. I wish you the best of luck in trying \n24 Aug 2022 Office of Speaker 11781 \n \nto align that accountability, that only a speaker of Māori would understand in that job. I \nknow and I can say with every confidence that having that lens of kaupapa Māori tikanga \nin this place would be better for all of us. So I welcome the expertise that you bring into \nthis area. \nI did want to acknowledge the history and the legacy that your whakapapa brings, not \nthe least your grand -uncle Haami Tokouru Rātana, grandfather Matiu Rātana, and so \nmany more. Mr Speaker-Elect, it is with aroha and pride that the Gr een Party welcomes \nyou. Kia ora. \nDAVID SEYMOUR (Leader—ACT): Kia ora, Mr Speaker-Elect, he mihi nui mō te \npōtitanga o te wā.  \n[Mr Speaker-Elect, I congratulate you on your election.] \nI congratulate you on your election. The role of the Speaker of the House of \nRepresentatives is an extremely important one, even at the best of times, and, sadly, these \nare not the best of times. As we’re reminded, from the early 1970s to about 15 years ago, \nthe world flocked to democracy. And yet, over the last 15 years, we’ve had a democratic \nrecession—countries move away from it —and that’s a dangerous backdrop for New \nZealand. Our only chance of influencin g the world is by setting a good example. \nDepending on how we act in this House, we can be a beacon of democratic light at the \nbottom of the world, or we can instead be just another example of why democracy is in \nrecession around the world. Your new role as the leader of this Parliament gives you more \nopportunity to influence the development of our democracy than any other single New \nZealander. It’s not for you, but for the institution. As Speaker’s ruling 16/1 says, “It is the \nduty of the Speaker to uphold  the authority of the Chair, and that authority is not the \nauthority of the individual who happens to occupy it, but of the House itself.” \nYou have the opportunity to ensure that every New Zealander’s vote counts. You can \nensure that the representatives they elect into this House can use their privileges to hold \nthe Government accountable through the mechanisms of this Parliament. I’m very \nencouraged by what you’ve already said, Mr Speaker. But, unfortunately, it has to be said, \nyou are starting from a low base through no fault of your own. I think it’s fair to say that \nwe’ve had our own democratic recession over the last five years, and you’ve already \nalluded to some of that. I think we can get some useful tips about what not to do from the \nlast five years,  and I share these out of a sincere effort on behalf of the ACT Party to \nsupport you in doing your role, rebuilding the mana of your Chair and this House.  \nWe think that you should allow more discussion on the rules of Parliament. For reasons \nI don’t understand, but best known to him—perhaps under-confidence about the rules, or \na lack of humility —your predecessor would not allow discussion of the rules in this \nChamber, instead asking that they happen behind closed doors in his office. That’s a great \nshame, because it meant that instead of having tutorials for new members, instead of \nhaving a forum to ventilate frustrations, and growing the sophistication of our rules over \ntime, we weren’t able to engage with you about the Standing Orders and how they are \ninterpreted. I hope that you will reverse that change.  \nAs you’ve already alluded to, I think it’s important to have some equality between \nStanding Orders 390, that’s the content of questions, and Standing Orders 396, that’s the \ncontent of replies. Because if  you read those two Standing Orders, they’re nearly \nidentical. They are mirror images of each other. But we simply have not seen that in the \ntolerance of questions and the tolerance of replies over the past five years. I really hope \nthat you will look at those two Standing Orders and uphold them equally.  \nWe should allow more urgent debates. An urgent debate takes 90 minutes of the \nHouse’s time. For the last three sitting blocks, the Government has taken up to four hours \nin extended sitting. So we’re able to have an extra four hours a week, but we don’t have \n11782 Election of Speaker 24 Aug 2022 \n \n90 minutes to discuss important events, because so often it’s ruled not to demand the \nurgent attention of the House. Well, I think, for example, $2.1 billion spent by the \ntaxpayer buying a bank that 6 pe rcent of people have their mortgages with is something \nwe could find 90 minutes for, and I hope that you’ll start a new tradition of publishing \nnot only your rulings on whether we have an urgent debate but also the letter that came \nalong.  \nI think it’s important—and I’m sure you will do this, and I have great and sincere hope \nfor you, your personality, and mana —that you’ll rise above partisan politics and treat \nmembers with grace and respect. You know, when I was a sole and relatively junior MP, \nI was treated so badly by your predecessor that often senior members of his party came \nup to me and apologised for him. You’ll face a similar dilemma with Gaurav Sharma, \nsomeone who you may have voted to expel from the Labour Party on Monday. You’ll be \nresponsible for upholding his rights tomorrow. And that is a very important distinction \nthat brings into sharp relief the difference between being a partisan politician and the \nSpeaker. I have great confidence that you will do that well, on behalf of the people of \nNew Zealand.  \nIn difficult times, breathe. People look to this Parliament for leadership, for a calm \nhand on the tiller. When crises strike, we’re here to support you. Don’t jump the gun. We \nwant to see this Parliament’s mana enhanced. All together, you have an  important job at \nan important time with much damage, sadly, to undo. ACT members are committed \nparliamentarians. We have often been deeply saddened by the way this important \ninstitution has been run down over the last five years. None the less, we view to day as a \nnew day, and we stand ready to give you every assistance and support in your leadership \nof this great House. Thank you, Mr Speaker. \nDEBBIE NGAREWA -PACKER (Co -Leader—Te Paati Māori) : Tēnā koe, ki \ntētēkura ki tētēkura. Kei te tū ahau ki te mihi ki te whakanui i tō tū hou, ki te whakatika i \nte kōrero i mua i a tātou. \n[Greetings. From one fern frond, an other one develops. I stand to acknowledge and \ncelebrate your new role, that of maintaining standards of debate for all.] \nIt’s a huge honour to be here and to rise on behalf of Te Paati Māori, to rise on behalf \nof the people, the whānau of Te Tai Hauāuru, to congratulate you, e te tungāne, and to \ncongratulate your whānau, your iwi, your hapū on your election as Speaker of the House \nof Representatives.  \nBefore anything else, I mihi to you as a whanaunga, who sat there patiently and humbly \nlistening to kōrero that wasn’t about you. This moment is about you. We’ve waited a very \nlong time to be here, so I acknowledge you. I acknowledge our whakapapa. I acknowledge \nour whanaungatanga. I acknowledge your whānau, who have fought, who have \ncommitted, who have sacrificed for you to be here today. I acknowledge the deep, strong \nconnection and immense pride of te iwi Morehu here today. Your mahi has consistently \ndemonstrated why you have been elected as Speaker. I remember when you were CEO \nof Ngāti Apa and you humbly showed that you can indeed, despite all concerns, cross the \nspheres of rangatiratanga and kāwanatanga to advance kaupapa as tangata whenua. \nWe have always appreciated your grace, your mana, with which you operate as a \nleader. You prove that political progre ss, career promotion —in fact, elections —don’t \nhave to be about aggression, being ugly. Instead, you act with humility and dignity, just \nas your tūpuna did. This is a huge day for Te Ao Māori. Your elevation to this role is only \nthe second time, as our Pirī mia said earlier, that one of our own people has been in this \nposition, one of the highest democratic roles in the country, and I recognise everything \nthat it has taken to get you here. We tautoko your nomination, your selection, your \nelection.  \n24 Aug 2022 Office of Speaker 11783 \n \nThis historical significance of today should not be understated. Nā Tītokowaru me ngā \nPoropiti te ara ki te Rere a Kāpuni. \n[Tītokowaru and the prophets led the way to the sacred waterfall of Rere a Kāpuni.] \nThere is a path that was predetermined before your arrival,  that is predetermined for \nall of us, and the significance of our mokopuna as Māngai, being elected as Speaker of \nthe House, aligns with the tohu we are seeing. We are positive, we are optimistic, we are \nseeing a revival of our reo, our tikanga. We’re seei ng a recognition of Matariki. We’re \nseeing a drive for constitutional transformation that points to the birth of an Aotearoa hau. \nWe are seeing the kotahitanga of tangata whenua and tangata Tiriti that truly lives up to \nthe vision of Te Tiriti, a Treaty -based nation in the South Pacific. I don’t want to take \naway from what it is that you will have to do in deed in Te Tiriti and tikanga. I look \nforward to seeing what it is that you will bring into the House. \nFinally, as the member least to be kicked out in t his party, I want to apologise to you \nfor other things that may happen that I have no control over —you can’t see me, eh, \nRawiri. But I also want to take the moment to remind us that we all have big mahi here, \nas those too in a party that has some of the la rgest Māori electorates to get around —as \nyou too know—and we will do our darnedest to serve our people outside and inside of \nthe House, and that’s open for critique from those who don’t know what it’s like to \nwhakawhanaunga, to turn up at kaupapa, to turn up to tangi, and to get judged whether \nwe’re in the House or out of the House.  \nFor you, e te tungāne, e te Māngai, we commit that we will serve and we will work to \nthe best of our ability and control to bring the dignity and decorum that you require in this \nHouse, and we will always be available for the moments that perhaps we need to be picked \nup on as well.  \nNō reira, e te āhuatanga o tā tātou tūpuna ngā mihi aroha kei a koutou, kei a koe. Kia \nora koutou katoa.  \n[Therefore, I acknowledge the characterist ics of our ancestors that you express. Be \nwell, one and all.] \nRAWIRI WAITITI (Co -Leader—Te Paati Māori) : Pere atu taku  pere ki te \nHauāuru, ko Ua Haumēne ko Mere Rikiriki, ko Tohu Kākahi, Te Whiti o Rongomai. \nKo Mere Rikiriki, ko Wiremu Rātana. \nTōia mai, Te Hauāuru, ki runga Pōneke, Te Kooti Rikirangi. He hōnore, he korōria, he \nmaungārongo ki te whenua, he whakaaro pai ki ngā tāngata katoa, āmene. \nE Ihoā e te Karaiti me te Wairua Tapu kia tau anō hoki ō manaakitanga ki runga i tētahi \no tātou Māngai i tēnei rā. \nInā anō hoki te whetū mārama ka ara anō ki te uru e Ihoā e tō mātou Atua. \nNō reira kia tau anō hoki ō manaakitanga ki runga i a ia, ki runga i a tātou i tēnei rā \nkia tāria anō hoki ai te whakatutuki i ngā mahi kei mua i a ia. \nTēnei anō hoki e inoi ki tō mātou Atua te hunga kei roto i tēnei Whare, te hunga kei \nwaho e whakamoemiti atu kia whakataiapangia tēnei o tātou i tāu mana whakaora hei ārai \natu ngā whakawainga o te ao a te kikokiko, a te Rēwera, a te upoko ariki, a te kiriweti me \nte porohae, a te whiu a te tangata i runga i tō mātou Atua ki runga i a ia kia noho ko koe \nte Atua kei mua, kei muri, kei tētahi taha, kei tētahi taha o a ia i ngā wā katoa. \nTēnei anō hoki mātou te inoi atu ki a koe, i runga i te ingoa o tāu tama Ihu Karaiti ko \ntō mātou kaiwhakaora. \nKo koe te Atua e ora ana e mana ana i ngā tau mutunga kore, korōria ki tō ingoa tapu, \nāmene. \n[My bell rings in the West where Ua Haumēne, Mere Rikiriki, Tohu Kākahi and Te \nWhiti o Rongomai reside. \nThere is Mere Rikiriki and Wiremu Rātana. \n11784 Election of Speaker 24 Aug 2022 \n \nTo those from the West, welcome, to Wellington, here is Te Kooti Rikirangi. Honour \nand glory to God, peace on earth, goodwill to all people, amen. \nMay the blessings of the Lord God, Jesus Christ, and the Holy Spirit also be upon this \nSpeaker of ours today.  \nThe bright star has risen again in the west, oh Jehovah, our God. \nMay your blessings be upon him and upon us  all so that the tasks set out in front of \nhim can also be completed. \nThus, we inside this House as well as those outside pray that he may be protected by \nyour healing powers, to ward off worldly temptations and the devil, against self -\nimportance, impatience and jealousy, and those who chastise our Lord, so that you, Lord, \nmay surround him on all sides at all times. \nAnd we pray to you, in the name of your son Jesus Christ our saviour. \nYou are the God who lives and rules for eternity, may your name be glorified, amen.] \nHe Korōria hareruia \nKi a Ihoā o ngā mano \nKi te kāhui ariki wairua \nKo te Māngai e tautoko mai \nTe Ārepa \nTe Ōmeka \nTautokotia mai te rōpū nei \nPiri Wiri Tua \nHāmuera \nKa puta ka ora e \n [Glory hallelujah \nTo Jehovah our God \nTo our spiritual guardians \nWith the Mouthpiece in support \nThe Alpha \nThe Omega \nPlease support this group \nThe Campaigner \nSamuel \nBy them we shall survive] \nE te Atua whakatuwheratia mai ngā kūaha o te tika ki a mātou ō pononga i tēnei rā mā \nmātou anō hoki koe e whakamoemiti, e whakakōroria ki tō ingoa tapu, āmene. \n[Dear Lord, open the doors of righteousness to us, your disciples, on this day so we \nmay praise you, glory to your sacred name.] \nDr GAURAV SHARMA (Hamilton West): Tēnā koe, Mr Speaker. Tēnā koutou e te \nWhare. I just want to join everybody, first of all, in congratulating you as the new \nSpeaker-Elect and, hopefully, the Speaker. When you gave  your speech, it was really \nrefreshing to hear about fairness, to hear about bringing value to the House, and changing \nsome of the issues that are present in the House. It almost seems like you should be an \nindependent, rather than aligned with any side! \nIn the last 1½ years, there have been quite a few changes. I was sitting on that side, \nand the gentleman sitting next to me was in the Speaker’s Chair, the former member of \nParliament for Hamilton West. I just want to acknowledge Mr Trevor Mallard, who is \nnow leaving as the outgoing Speaker of the House. \nSome of the people today mentioned integrity and transparency in their speeches. I just \nwant to say that two weeks ago, I contacted the former Speaker, and I went to talk to him \nabout some of the issues I wa s having and whether I could get legal support in my case. \nBut the Speaker said, “Well, you know, if you raise anything about a Labour colleague—\n24 Aug 2022 Office of Speaker 11785 \n \nany challenges—it would be the end of your career.” And then the Speaker ended up \ngoing to the Labour whip’s of fice right after that to tell them that I had actually laid a \ncomplaint against the party and the whips. I just want to— \nDebbie Ngarewa-Packer: Point of order. \nDr GAURAV SHARMA: I’m just stopping there. \nI just want to say, Mr Speaker, I hope— \nSPEAKER-ELECT: No, no. I stand; you sit. Kia ora. That is not the purpose of this \ndebate. You’re raising issues that this House is not dealing with at this moment. If you \nhave nothing further to add to what you’ve already said —if you indicate to me —have \nyou finished? \nDr GAURAV SHARMA: No, but I won’t touch that point. I just want to say— \nSPEAKER-ELECT: No, no. So you’re not finished? \nDr GAURAV SHARMA: I’m not finished. \nSPEAKER-ELECT: Yeah, well, sit down, then. I will interrupt the member again if \nhe goes off track. This is about the newly elected Speaker. \nDr GAURAV SHARMA: Thank you, Mr Speaker. I just want to say that I hope that \nyou would be a neutral person as the Speaker of the House and would show the fairness \nthat you’ve talked about and will listen to all members from across all sides. That’s all I \nhope for and wish for. Once again, I just want to congratulate you on your new role as the \nSpeaker-Elect. Thank you. \nSPEAKER-ELECT: Tēnā anō tātou katoa. Thank you very much for your kind and \ngenerous words. I will try to live up  to everyone’s expectations, which is probably a \ndangerous thing to say out loud, given that there’s probably 119 expectations quite \ncontrary to each other. However, I do stand and greet you all. Thank you very much for \nhaving the confidence in me to be the Speaker of this House. Nō reira, we’ve already had \none waiata—let’s have a waiata to finish things off properly. \nWaiata \nSPEAKER-ELECT: The House stands adjourned until 2 p.m. tomorrow. \nThe House adjourned at 2.41 p.m. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\nIndex to \n \nWednesday, 24 August 2022 \n \nEXPLANATION OF ABBREVIATIONS \n \n1R—First Reading  \n2R—Second Reading  \n3R—Third Reading  \nCWH—Committee of the whole House \nLS—Legislative Statement \n \nBILLS \n \nLegislation is listed under BILLS. The name of an originating bill that has been divided into separate \nbills is shown in italics after the names of the new bills.  \n \nORAL QUESTIONS \n \nQuestions are listed under ORAL QUESTIONS by ministerial portfolio. \n \n______________________________________ \n \n \nARDERN, Rt Hon JACINDA— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11778 \nTe Reo Māori, 11778 \nDAVIDSON, Hon MARAMA— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11780 \nEDMONDS, BARBARA— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11777 \nHIPKINS, Hon CHRIS— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11777 \nLUXON, CHRISTOPHER— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11779 \nMĀORI LANGUAGE— \nsee TE REO MĀORI \nNGAREWA-PACKER, DEBBIE— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11782 \nTe Reo Māori, 11782 \nRURAWHE, Rt Hon ADRIAN— \nSpeakers and Presiding Officers— \nElection— \nSpeaker, 11777 \nTe Reo Māori, 11777 \nSEYMOUR, DAVID— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11781 \nTe Reo Māori, 11781 \nSHARMA, Dr GAURAV— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11784 \nSPEAKERS AND PRESIDING \nOFFICERS— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11777 \nWEDNESDAY, 24 AUGUST 2022 \n \nii \nTE REO MĀORI— \nArdern, Rt Hon Jacinda, 11778 \nNgarewa-Packer, Debbie, 11782 \nRurawhe, Rt Hon Adrian, 11777 \nSeymour, David, 11781 \nWaititi, Rawiri, 11783 \nWAITITI, RAWIRI— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11783 \nTe Reo Māori, 11783 \nWEBB, Dr DUNCAN— \nSpeakers and Presiding Officers— \nElection— \nSpeaker (Rurawhe, Rt Hon Adrian), \n11777 ",
+  "raw_text_length": 34097,
+  "parser": "scrape_hansard.py/v1.2-pdf"
+}
