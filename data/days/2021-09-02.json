@@ -1,0 +1,2887 @@
+{
+  "date": "2021-09-02",
+  "url": "https://hansard.parliament.nz/api/resources/daily/related/2021-09-02/2021-09-02-daily.pdf",
+  "source": "daily-pdf",
+  "scraped_at": "2026-10-01T22:07:40.753918+00:00",
+  "title": "Published under the authority of the House of Representatives—2024",
+  "sections": [
+    {
+      "heading": "Body",
+      "items": [
+        {
+          "type": "text",
+          "text": "Fifty-third Parliament"
+        },
+        {
+          "type": "text",
+          "text": "Parliamentary Debates"
+        },
+        {
+          "type": "text",
+          "text": "(HANSARD)"
+        }
+      ]
+    },
+    {
+      "heading": "Final Daily",
+      "items": [
+        {
+          "type": "text",
+          "text": "Thursday, 2 September 2021"
+        },
+        {
+          "type": "text",
+          "text": "(for inclusion in Volume 754)"
+        }
+      ]
+    },
+    {
+      "heading": "Wellington, New Zealand",
+      "items": [
+        {
+          "type": "text",
+          "text": "Published under the authority of the House of Representatives—2024"
+        },
+        {
+          "type": "text",
+          "text": "THURSDAY, 2 SEPTEMBER 2021"
+        }
+      ]
+    },
+    {
+      "heading": "Table Of Contents",
+      "items": [
+        {
+          "type": "text",
+          "text": "KARAKIA/PRAYERS ........................................................................................... 4649"
+        },
+        {
+          "type": "text",
+          "text": "BUSINESS STATEMENT..................................................................................... 4649"
+        },
+        {
+          "type": "text",
+          "text": "APPROPRIATION (2021/22 ESTIMATES) BILL—"
+        },
+        {
+          "type": "text",
+          "text": "Estimates Debate—Presiding Officer ................................................................ 4649"
+        },
+        {
+          "type": "text",
+          "text": "BUSINESS STATEMENT..................................................................................... 4649"
+        }
+      ]
+    },
+    {
+      "heading": "Petitions, Papers, Select Committee Reports, And",
+      "items": [
+        {
+          "type": "text",
+          "text": "INTRODUCTION OF BILLS ................................................................................ 4650"
+        },
+        {
+          "type": "text",
+          "text": "ORAL QUESTIONS—"
+        },
+        {
+          "type": "text",
+          "text": "Questions to Ministers—"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 1—Prime Minister .................................................................. 4650"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 2—Prime Minister .................................................................. 4651"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 3—Finance .............................................................................. 4653"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 4—Finance .............................................................................. 4654"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 5—Finance .............................................................................. 4655"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 6—COVID-19 Response ........................................................ 4656"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 7—Health ................................................................................ 4657"
+        },
+        {
+          "type": "text",
+          "text": "Urgent Questions—"
+        },
+        {
+          "type": "text",
+          "text": "Urgent Question to Minister—Declined ....................................................... 4659"
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Karakia/Prayers 4649"
+        },
+        {
+          "type": "text",
+          "text": "THURSDAY, 2 SEPTEMBER 2021"
+        },
+        {
+          "type": "text",
+          "text": "The Speaker took the Chair at 2 p.m."
+        }
+      ]
+    },
+    {
+      "heading": "Karakia/Prayers",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Almighty God, we give thanks for the blessings which have been"
+        },
+        {
+          "type": "text",
+          "text": "bestowed on us. Laying aside all personal interests, we acknowledge the Queen and pray"
+        },
+        {
+          "type": "text",
+          "text": "for guidance in our deliberations that we may conduct the affairs of this House with"
+        },
+        {
+          "type": "text",
+          "text": "wisdom, justice, mercy, and humility for the welfare and peace of New Zealand. Amen."
+        }
+      ]
+    },
+    {
+      "heading": "Business Statement",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "Leader of the House",
+          "time": "",
+          "text": "Thank you, Mr Speaker. Next week,"
+        },
+        {
+          "type": "text",
+          "text": "the House will continue to meet in a manner that’s appropriate to the alert levels we are"
+        },
+        {
+          "type": "text",
+          "text": "in at the time. On Thursday, 7 September, the Estimates debate will resume. Ministers to"
+        },
+        {
+          "type": "text",
+          "text": "appear have yet to be finalised, but are likely to include the Ministers of Finance, COVID-"
+        },
+        {
+          "type": "text",
+          "text": "19 Response, and Immigration. Further discussion is taking place over whether any other"
+        },
+        {
+          "type": "text",
+          "text": "Ministers should appear. As agreed by the Business Committee, the Appropriation"
+        },
+        {
+          "type": "text",
+          "text": "(2021/22 Estimates) Bill will then be set down for third reading. As happens every year,"
+        },
+        {
+          "type": "text",
+          "text": "the third reading will be taken with the second Imprest Supply Bill of the current financial"
+        },
+        {
+          "type": "text",
+          "text": "year. There will be oral questions each day and a general debate on Wednesday."
+        },
+        {
+          "type": "text",
+          "text": "Of course, in these rapidly evolving times, if there are any further changes to that in"
+        },
+        {
+          "type": "text",
+          "text": "the coming days, I will be sure to inform the other parties."
+        },
+        {
+          "type": "text",
+          "text": "APPROPRIATION (2021/22 ESTIMATES) BILL"
+        },
+        {
+          "type": "text",
+          "text": "Estimates Debate—Presiding Officer"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon MICHAEL WOODHOUSE",
+          "role": "National",
+          "time": "",
+          "text": "I thank the Leader of the House for"
+        },
+        {
+          "type": "text",
+          "text": "that update and also for the constructive discussions that are going on about the"
+        },
+        {
+          "type": "text",
+          "text": "programme for next week. A couple of matters: firstly, recognising that there has been"
+        },
+        {
+          "type": "text",
+          "text": "quite a bit of lost time, can I encourage him, as I’m sure he will, to signal early to the"
+        },
+        {
+          "type": "text",
+          "text": "Business Committee if it will be necessary for the House to take urgency or extended"
+        },
+        {
+          "type": "text",
+          "text": "hours in the fourth quarter of this year."
+        },
+        {
+          "type": "text",
+          "text": "Secondly, Mr Speaker, I seek a point of order. I seek leave for the Speaker to chair the"
+        },
+        {
+          "type": "text",
+          "text": "committee of the whole House on the Appropriation (2021/22 Estimates) Bill and that"
+        },
+        {
+          "type": "text",
+          "text": "while the Speaker chairs the committee, no motion to report to obtain the Speaker’s ruling"
+        },
+        {
+          "type": "text",
+          "text": "on a matter of procedure can be accepted, despite Standing Orders 173 and 179."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Is there any objection to that course of action? There appears to be none."
+        }
+      ]
+    },
+    {
+      "heading": "Business Statement",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "Leader of the House",
+          "time": "",
+          "text": "In answer to the member’s question"
+        },
+        {
+          "type": "text",
+          "text": "regarding extended sitting and urgency, certainly I think it would be wise to expect that"
+        },
+        {
+          "type": "text",
+          "text": "there’ll be at least some extended sittings in the latter part of the year, depending on where"
+        },
+        {
+          "type": "text",
+          "text": "we’re at with various alert levels and when we can get back to a point where Parliament"
+        },
+        {
+          "type": "text",
+          "text": "can transact business more normally. I think we will absolutely be looking to make up for"
+        },
+        {
+          "type": "text",
+          "text": "lost time, given that there’ll be quite a lot of business being built up over this period. I"
+        },
+        {
+          "type": "text",
+          "text": "will endeavour to provide as much notice of that as we possibly can. I’d also note that it’s"
+        },
+        {
+          "type": "text",
+          "text": "not just Government business that will have been accumulating during that time; we won’t"
+        },
+        {
+          "type": "text",
+          "text": "have had members’ days —we’ve already lost one and potentially could lose more."
+        },
+        {
+          "type": "text",
+          "text": "Therefore, I look forward to some constructive discussions about how all of the business"
+        },
+        {
+          "type": "text",
+          "text": "before the House that needs to be given attention to before Christmas can be progressed."
+        },
+        {
+          "type": "text",
+          "text": "4650 Petitions, Papers, SC Reports, and Introduction of Bills 2 Sep 2021"
+        }
+      ]
+    },
+    {
+      "heading": "Petitions, Papers, Select Committee Reports, And",
+      "items": []
+    },
+    {
+      "heading": "Introduction Of Bills",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "No petitions, papers, or select committee reports have been presented. No"
+        },
+        {
+          "type": "text",
+          "text": "bills have been introduced."
+        }
+      ]
+    },
+    {
+      "heading": "Oral Questions",
+      "items": []
+    },
+    {
+      "heading": "Questions To Ministers",
+      "items": [
+        {
+          "type": "text",
+          "text": "Question No. 1—Prime Minister"
+        },
+        {
+          "type": "text",
+          "text": "1. DAVID SEYMOUR (Leader —ACT) to the Prime Minister: Does she stand by"
+        },
+        {
+          "type": "text",
+          "text": "her statement, “A small handful are not due their day 12 test —but I would caution the"
+        },
+        {
+          "type": "text",
+          "text": "member that those are the contacts we know about”; if so, how many contacts are still"
+        },
+        {
+          "type": "text",
+          "text": "awaiting a test result now?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "Prime Minister",
+          "time": "",
+          "text": "As at 9 a.m. this morning, we have"
+        },
+        {
+          "type": "text",
+          "text": "515 known contacts in the South Island. Of that, 15 are overdue their day 12 test and are"
+        },
+        {
+          "type": "text",
+          "text": "being actively followed up by public health units. Seven are not yet due their day 12 test."
+        },
+        {
+          "type": "text",
+          "text": "I would remind the member that the restrictions that are in place at the moment across"
+        },
+        {
+          "type": "text",
+          "text": "New Zealand in some areas are there as a matter of caution, given that we are dealing"
+        },
+        {
+          "type": "text",
+          "text": "with a Delta outbreak. We cannot be 100 percent certain that we know ever y single"
+        },
+        {
+          "type": "text",
+          "text": "contact that was had in this outbreak, or how many of them may be in the South Island."
+        },
+        {
+          "type": "text",
+          "text": "It is better that we get this right and ensure that we do not find a positive case in the South"
+        },
+        {
+          "type": "text",
+          "text": "while we’re at lower alert levels, which could have devastating consequences."
+        },
+        {
+          "type": "speech",
+          "speaker": "David Seymour",
+          "role": "",
+          "time": "",
+          "text": "Why wouldn’t the Government simply isolate those remaining 22"
+        },
+        {
+          "type": "text",
+          "text": "people so the other million South Islanders can address other aspects of their wellbeing—"
+        },
+        {
+          "type": "text",
+          "text": "such as the survival of their businesses, their children’s education, and their healthcare—"
+        },
+        {
+          "type": "text",
+          "text": "at lower alert levels?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "All contacts are required to isolate. They are in"
+        },
+        {
+          "type": "text",
+          "text": "isolation. They in some cases have not yet had their final day 12 tests, or in other cases"
+        },
+        {
+          "type": "text",
+          "text": "they’re not yet overdue them. Yesterday, if I recall correctly, amongst the numbers that"
+        },
+        {
+          "type": "text",
+          "text": "we reported, of those contacts that we had, roughly 40 percent of them returned positive"
+        },
+        {
+          "type": "text",
+          "text": "results on their day 12 test, so it does demonstrate that they’re important. You then need"
+        },
+        {
+          "type": "text",
+          "text": "to contact trace around those individuals and ensure that if they have exposure events,"
+        },
+        {
+          "type": "text",
+          "text": "there aren’t knock-on cases. So even though they’re isolated, caution would still suggest"
+        },
+        {
+          "type": "text",
+          "text": "keeping the alert levels where they are, not only till we get through that peri od but also"
+        },
+        {
+          "type": "text",
+          "text": "because we cannot be 100 percent certain we have every known contact."
+        },
+        {
+          "type": "speech",
+          "speaker": "David Seymour",
+          "role": "",
+          "time": "",
+          "text": "Did the Prime Minister understand it would take three weeks to be"
+        },
+        {
+          "type": "text",
+          "text": "sure there were no cases in the South Island when she first announced a shor t, sharp"
+        },
+        {
+          "type": "text",
+          "text": "lockdown, and if she did, why didn’t she say so at the time?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "When we discovered case A, we did not know at what"
+        },
+        {
+          "type": "text",
+          "text": "point that person was infected or, indeed, if they were at the beginning of the chain. We’ve"
+        },
+        {
+          "type": "text",
+          "text": "since discovered that Delta was, effectively, in our community for more than a week."
+        },
+        {
+          "type": "text",
+          "text": "Unlike the August outbreak, where we saw potentially an outbreak that had been in the"
+        },
+        {
+          "type": "text",
+          "text": "community for possibly three weeks, Delta got a head start that had a far more devastating"
+        },
+        {
+          "type": "text",
+          "text": "effect. We’ve since modelled that we could have had this week upwards of 500 cases a"
+        },
+        {
+          "type": "text",
+          "text": "day, had we not locked down. So we went short and sharp while we identified"
+        },
+        {
+          "type": "text",
+          "text": "information, and since then identified information that Delta did have a big head start on"
+        },
+        {
+          "type": "text",
+          "text": "us and that we needed to be careful."
+        },
+        {
+          "type": "speech",
+          "speaker": "David Seymour",
+          "role": "",
+          "time": "",
+          "text": "How long does the Prime Minister believe it is sustainable to"
+        },
+        {
+          "type": "text",
+          "text": "maintain its current strategy if a single initial case can lead to lockdowns that take weeks"
+        },
+        {
+          "type": "text",
+          "text": "and weeks and weeks before the Government has any confidence about lifting them?"
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Oral Questions 4651"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "I’m going to start by correcting the member. That"
+        },
+        {
+          "type": "text",
+          "text": "single initial case had hundreds of cases around it. It’s simply not correct to assume that"
+        },
+        {
+          "type": "text",
+          "text": "we had one case here and that everything that’s been done was because of one case. We"
+        },
+        {
+          "type": "text",
+          "text": "literally had hundreds. You can see in the outbreak now we’re working very hard to"
+        },
+        {
+          "type": "text",
+          "text": "ensure that that doesn’t have a negative effect on people in the South Island. I would"
+        },
+        {
+          "type": "text",
+          "text": "actually just finish by reflecting on the comments made by a business owner in the South"
+        },
+        {
+          "type": "text",
+          "text": "Island who says, “There’s a whole [lot of] risk involved [with] us as well under level 2."
+        },
+        {
+          "type": "text",
+          "text": "We’ve got people coming in our doors so you know the risk of us getting a case on site"
+        },
+        {
+          "type": "text",
+          "text": "and getting shut down for a prolonged period of time is quite significant [to] us. … I think"
+        },
+        {
+          "type": "text",
+          "text": "Delta changes things a little bit, and [I’m] definitely supportive of a more cautious"
+        },
+        {
+          "type": "text",
+          "text": "approach”."
+        },
+        {
+          "type": "text",
+          "text": "Question No. 2—Prime Minister"
+        },
+        {
+          "type": "text",
+          "text": "2. Hon JUDITH COLLINS (Leader of the Opposition)  to the Prime Minister :"
+        },
+        {
+          "type": "text",
+          "text": "What did she mean yesterday when she said, “When the outbreak started, we saw, of"
+        },
+        {
+          "type": "text",
+          "text": "course, as you may expect, some demand lift”, and does she accept that prior to the current"
+        },
+        {
+          "type": "text",
+          "text": "outbreak, eligible people wanted to get vaccines but were not able to secure"
+        },
+        {
+          "type": "text",
+          "text": "appointments?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "Prime Minister",
+          "time": "",
+          "text": "Yes, I stand by what I said and, no,"
+        },
+        {
+          "type": "text",
+          "text": "I do not accept the member’s assertion."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "Why did it take an outbreak to try and speed up vaccine orders"
+        },
+        {
+          "type": "text",
+          "text": "when, in July, Stuff  reported that over 37,000 group 3 eligible people called a vaccine"
+        },
+        {
+          "type": "text",
+          "text": "hotline due to being unable to secure a booking for a COVID-19 vaccine?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "The biggest constraint, in fact the only constraint, we"
+        },
+        {
+          "type": "text",
+          "text": "have faced is supply, is the delivery of the contracted doses we have with Pfizer —those"
+        },
+        {
+          "type": "text",
+          "text": "doses being delivered into New Zealand. So whilst we get, basically, a four-weekly heads-"
+        },
+        {
+          "type": "text",
+          "text": "up on what we can expect —we’re told across a quarter of what we can expect —the"
+        },
+        {
+          "type": "text",
+          "text": "constraint has been delivery by the pharmaceutical company whom we contracted and"
+        },
+        {
+          "type": "text",
+          "text": "began negotiations with before they even finished their clinical trials."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "Well, if Pfizer is the excuse, can she explain how Canada, Israel,"
+        },
+        {
+          "type": "text",
+          "text": "and Germany can all run a Pfizer -focused strategy and achieve double the vaccination"
+        },
+        {
+          "type": "text",
+          "text": "rates that we have?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "The first thing I’d say is that, actually, per capita, we"
+        },
+        {
+          "type": "text",
+          "text": "are beating them on peak doses at the moment by quit e some margin with the delivery"
+        },
+        {
+          "type": "text",
+          "text": "that we are going through. The second point I would make is that they still have"
+        },
+        {
+          "type": "text",
+          "text": "restrictions in place, because they still have outbreaks despite having started their vaccine"
+        },
+        {
+          "type": "text",
+          "text": "roll-out sooner. I would also point out we have lower case rates, lower death rates, lower"
+        },
+        {
+          "type": "text",
+          "text": "levels of restrictions. All of that, for me, is a measure of success, a measure of success in"
+        },
+        {
+          "type": "text",
+          "text": "whether or not your relative strategy for COVID, of which there is no costless response—"
+        },
+        {
+          "type": "text",
+          "text": "whether or not you’ve adopted th e right strategy for your country. On vaccination"
+        },
+        {
+          "type": "text",
+          "text": "programmes, so those countries, of course, they all have multiple vaccines. We decided"
+        },
+        {
+          "type": "text",
+          "text": "to deliver Pfizer, and in some cases they used emergency approvals rather than going"
+        },
+        {
+          "type": "text",
+          "text": "through a full approval process, as we did."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "Did New Zealand have sufficient vaccine supply in June when"
+        },
+        {
+          "type": "text",
+          "text": "the Kāpiti coast man in his 80s told Radio New Zealand he was eligible and wants to get"
+        },
+        {
+          "type": "text",
+          "text": "a vaccine, but was told by his DHB a vaccine appointment was not then available?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "What I can tell you is that the date that we were"
+        },
+        {
+          "type": "text",
+          "text": "releasing cohort invitations—for instance, for the 60- to 64-year-olds—76,000 bookings"
+        },
+        {
+          "type": "text",
+          "text": "were made at that time. For the next cohort, ano ther 70,000; that’s on day one. For the"
+        },
+        {
+          "type": "text",
+          "text": "50- to 55-year-olds, 86,000 bookings were made on day one. For the 40- to 49-year-olds,"
+        },
+        {
+          "type": "text",
+          "text": "137,000 bookings on day one. In fact, for 1 September we had 196,000 bookings made on"
+        },
+        {
+          "type": "text",
+          "text": "4652 Oral Questions 2 Sep 2021"
+        },
+        {
+          "type": "text",
+          "text": "day one. So those bookings have been avail able, not necessarily on the precise day"
+        },
+        {
+          "type": "text",
+          "text": "someone has wanted, but they have been available. What we’ve also done is increase the"
+        },
+        {
+          "type": "text",
+          "text": "providers that are available as we’ve rolled out as well. So in the beginning we had a"
+        },
+        {
+          "type": "text",
+          "text": "booking system that didn’t necessarily consolidate all of those providers. So that’s where"
+        },
+        {
+          "type": "text",
+          "text": "you did see some examples of people who may not have been able to access a local"
+        },
+        {
+          "type": "text",
+          "text": "booking in a timely way, because they didn’t necessarily have access to all of the capacity"
+        },
+        {
+          "type": "text",
+          "text": "across the area, but we’ve now co nsolidated that. We’ve got a single place where you"
+        },
+        {
+          "type": "text",
+          "text": "book and we’ve brought on new providers. So we have now GPs, pharmacies. That’s all"
+        },
+        {
+          "type": "text",
+          "text": "grown over time."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Chris Hipkins",
+          "role": "",
+          "time": "",
+          "text": "Did the Prime Minister and her Ministers indicate at the"
+        },
+        {
+          "type": "text",
+          "text": "beginning of the year, when the Government opted for a Pfizer -only campaign, that that"
+        },
+        {
+          "type": "text",
+          "text": "would mean that we would have to wait until the second half of the year to get the bulk"
+        },
+        {
+          "type": "text",
+          "text": "of the doses delivered into New Zealand, and did discussions start almost immediately at"
+        },
+        {
+          "type": "text",
+          "text": "that point to see whether we could speed up those deliveries?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "Yes, that’s absolutely correct, and the member will be"
+        },
+        {
+          "type": "text",
+          "text": "familiar, because he’s been part of those discussions with Pfizer around bringing forward"
+        },
+        {
+          "type": "text",
+          "text": "those orders as much as possible. Whilst we’ve always acknowledged that there are"
+        },
+        {
+          "type": "text",
+          "text": "constraints on the pharmaceutical companies who have enormous demands on supply"
+        },
+        {
+          "type": "text",
+          "text": "across the globe, we have managed to get the completion of our order through the month"
+        },
+        {
+          "type": "text",
+          "text": "of October, whereas you will have heard us initially in the campaign saying that those"
+        },
+        {
+          "type": "text",
+          "text": "deliveries would occur across the fourth quarter."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "So is the Prime Minister seriously telling the House that the"
+        },
+        {
+          "type": "text",
+          "text": "37,000 people who, according to Stuff in July, had called a vaccine hotline due to being"
+        },
+        {
+          "type": "text",
+          "text": "unable to secure a booking for a COVID-19 vaccine were simply wrong—37,000 people?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "Actually, all I can do is refer to the numbers that we"
+        },
+        {
+          "type": "text",
+          "text": "have now. I guess the proof will be in whether or not those individuals are indeed"
+        },
+        {
+          "type": "text",
+          "text": "vaccinated. So 91 percent of people aged 65 -plus are either booked or have been"
+        },
+        {
+          "type": "text",
+          "text": "vaccinated with at least one dose—91 percent of people aged 65-plus are booked or have"
+        },
+        {
+          "type": "text",
+          "text": "been vaccinated with at least one dose. My challenge, then, would be to every other age"
+        },
+        {
+          "type": "text",
+          "text": "cohort to see if they can rival the incredibly high take -up rate of our 65 -pluses. In the"
+        },
+        {
+          "type": "text",
+          "text": "hunt, are our 40 -pluses—they’re at 83 percent booked or with at least one dose. If we"
+        },
+        {
+          "type": "text",
+          "text": "drop down to the 30-plus, 79 percent are booked or have at least one dose. And then really"
+        },
+        {
+          "type": "text",
+          "text": "heartening, given we only opened up on 1 September, 70 percent of people aged 12-plus"
+        },
+        {
+          "type": "text",
+          "text": "are booked or have been vaccinated with at least one dose. Those are really he artening"
+        },
+        {
+          "type": "text",
+          "text": "numbers; we just need to keep going."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "Does she agree that New Zealand will achieve 90 percent"
+        },
+        {
+          "type": "text",
+          "text": "vaccination by the end of the year, as her economic and regional development Minister"
+        },
+        {
+          "type": "text",
+          "text": "said yesterday?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "Actually, I think what you’ll find there is the Minister"
+        },
+        {
+          "type": "text",
+          "text": "was suggesting that he feels very positive about the likelihood of a high percentage of"
+        },
+        {
+          "type": "text",
+          "text": "New Zealanders taking up the opportunity to be vaccinated, because it is tr ue to say that"
+        },
+        {
+          "type": "text",
+          "text": "every single person in New Zealand over the age of 12 will have access to a vaccine. So"
+        },
+        {
+          "type": "text",
+          "text": "it’s up to us to make it as available and as accessible as possible, but when we even take"
+        },
+        {
+          "type": "text",
+          "text": "out the bookings, 86 percent of people aged 65-plus have been vaccinated with one dose"
+        },
+        {
+          "type": "text",
+          "text": "already. So he’s obviously basing that on what he’s seeing with people anticipating going"
+        },
+        {
+          "type": "text",
+          "text": "to get vaccinated, and he’s trying to encourage everyone to continue with those bookings."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Judith Collins",
+          "role": "",
+          "time": "",
+          "text": "Point of order. I seek leave of this House to propose a motion"
+        },
+        {
+          "type": "text",
+          "text": "without debate that this House adopts a COVID -19 vaccination target of 90 percent by"
+        },
+        {
+          "type": "text",
+          "text": "the end of the year."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Is there any objection to that course of action. There is objection."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Chris Hipkins",
+          "role": "",
+          "time": "",
+          "text": "Which does the Prime Minister think would be the more"
+        },
+        {
+          "type": "text",
+          "text": "responsible course of action: encouraging every eligible New Zealander to take up the"
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Oral Questions 4653"
+        },
+        {
+          "type": "text",
+          "text": "vaccine or setting a target, as was proposed only a few days ago, that would suggest that"
+        },
+        {
+          "type": "text",
+          "text": "up to 30 percent of New Zealanders could be encouraged not to?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "",
+          "time": "",
+          "text": "That is absolutely the issue that public health experts"
+        },
+        {
+          "type": "text",
+          "text": "have pointed to. Of course, the targets only talk about those who are eligible to be"
+        },
+        {
+          "type": "text",
+          "text": "vaccinated, and we know, at the moment, unfortunately, children are not in that group"
+        },
+        {
+          "type": "text",
+          "text": "right now, and so that means we want as many people as possible, and that means not"
+        },
+        {
+          "type": "text",
+          "text": "creating space for someone to believe that they should be part of the 10 or the 30 percent."
+        },
+        {
+          "type": "text",
+          "text": "Question No. 3—Finance"
+        },
+        {
+          "type": "text",
+          "text": "3. Hon LOUISE UPSTON (National —Taupō) to the Minister of Finance : How"
+        },
+        {
+          "type": "text",
+          "text": "does the new requirement to reap ply for the COVID -19 Wage Subsidy every fortnight"
+        },
+        {
+          "type": "text",
+          "text": "help businesses and employees?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "Minister of Finance",
+          "time": "",
+          "text": "As we announced in December,"
+        },
+        {
+          "type": "text",
+          "text": "our move to a two-weekly cycle, this is designed to ensure as part of the new way that the"
+        },
+        {
+          "type": "text",
+          "text": "wage subsidy scheme is delivered, to give certainty that when we are at alert levels 3 or"
+        },
+        {
+          "type": "text",
+          "text": "4, the wage subsidy scheme will be available.  It will help businesses by ensuring that"
+        },
+        {
+          "type": "text",
+          "text": "there is a sustainable scheme, and one that has integrity."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Louise Upston",
+          "role": "",
+          "time": "",
+          "text": "Have new requirements, like having to reapply every fortnight,"
+        },
+        {
+          "type": "text",
+          "text": "been imposed because the Government only set aside $5 00 million to cover a wage"
+        },
+        {
+          "type": "text",
+          "text": "subsidy reactivation scheme in the current imprest supply, and, if not, what is the reason?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "In answer to the first part of the question, absolutely"
+        },
+        {
+          "type": "text",
+          "text": "not, and the member completely misunde rstands what the imprest supply bill is. The"
+        },
+        {
+          "type": "text",
+          "text": "reason the change has been made is to ensure that we have a sustainable scheme and,"
+        },
+        {
+          "type": "text",
+          "text": "indeed, the member might like to recall the words of her current leader, who said in the"
+        },
+        {
+          "type": "text",
+          "text": "first round of the wage subsidy scheme  that it needed to be more carefully put in place."
+        },
+        {
+          "type": "text",
+          "text": "The Government has made changes to ensure that’s happening."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Louise Upston",
+          "role": "",
+          "time": "",
+          "text": "How do these new requirements help those experiencing delays"
+        },
+        {
+          "type": "text",
+          "text": "receiving the first subsidy payment, such as one business owner who said, “Eleven days"
+        },
+        {
+          "type": "text",
+          "text": "and waiting to receive my business subsidy for my 20 -plus staff. Three phone calls to"
+        },
+        {
+          "type": "text",
+          "text": "MSD and told each time ‘it’s in processing’. Not very helpful.”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "The experience of th e vast bulk of people who have"
+        },
+        {
+          "type": "text",
+          "text": "applied for the wage subsidy scheme has been one where they have been mightily"
+        },
+        {
+          "type": "text",
+          "text": "impressed by the speed in which applications have been processed. And on that note, I"
+        },
+        {
+          "type": "text",
+          "text": "thank the member’s colleague Chris Bishop, who went out of h is way on his Facebook"
+        },
+        {
+          "type": "text",
+          "text": "page to seek people who were having problems and was inundated with comments from"
+        },
+        {
+          "type": "text",
+          "text": "people who said, “No issues at all, always been fast for us”, “Applied for Wage Subsidy"
+        },
+        {
+          "type": "text",
+          "text": "at 2.20 last Wednesday, received”—"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Order! Order! The member’s being repetitive."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Louise Upston",
+          "role": "",
+          "time": "",
+          "text": "How many employees will miss out on wages for this level 4"
+        },
+        {
+          "type": "text",
+          "text": "lockdown because businesses missed the application deadline for the first fortnightly"
+        },
+        {
+          "type": "text",
+          "text": "period?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "Businesses are aware of the application deadline; there"
+        },
+        {
+          "type": "text",
+          "text": "is no way of quantifying what the member is putting forward. What I do know is that the"
+        },
+        {
+          "type": "text",
+          "text": "scheme is supporting, once again, hundreds of thousands of New Zealanders to stay"
+        },
+        {
+          "type": "text",
+          "text": "attached to thei r job. It has been a very successful scheme that has contributed well to"
+        },
+        {
+          "type": "text",
+          "text": "making sure not only that New Zealanders stay in work but that the economy recovers."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Louise Upston",
+          "role": "",
+          "time": "",
+          "text": "Does he accept new wage subsidy requirements that hurt"
+        },
+        {
+          "type": "text",
+          "text": "businesses increase the risk that more New Zealanders will lose their jobs?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "No, because I simply don’t accept the premise of the"
+        },
+        {
+          "type": "text",
+          "text": "member’s question."
+        },
+        {
+          "type": "text",
+          "text": "4654 Oral Questions 2 Sep 2021"
+        },
+        {
+          "type": "text",
+          "text": "Question No. 4—Finance"
+        },
+        {
+          "type": "text",
+          "text": "4. Hon JAMES SHAW (Co-Leader—Green) to the Minister of Finance: Does he"
+        },
+        {
+          "type": "text",
+          "text": "stand by his statement regarding people in hardship that “what we want to do is ensure"
+        },
+        {
+          "type": "text",
+          "text": "that the current forms of support we have are adequate”; if so, will the Government take"
+        },
+        {
+          "type": "text",
+          "text": "action in response to the Salvation Army’s observation that despite actions taken so far,"
+        },
+        {
+          "type": "text",
+          "text": "“critical food insecurity issues for people and whānau persist”?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "Minister of Finance",
+          "time": "",
+          "text": "As the member will appreciate,"
+        },
+        {
+          "type": "text",
+          "text": "responding to an outbreak of this sort is an ongoing challenge which means that we are"
+        },
+        {
+          "type": "text",
+          "text": "constantly monitoring the impact of COVID-19 on different groups in society. This does"
+        },
+        {
+          "type": "text",
+          "text": "include reassessing the adequacy of support that is available and, where we need to, to"
+        },
+        {
+          "type": "text",
+          "text": "take further action. A good example of this just today was the announcement by Ministers"
+        },
+        {
+          "type": "text",
+          "text": "Henare and Sio of $23 million addit ional support through the Whānau Ora programme,"
+        },
+        {
+          "type": "text",
+          "text": "comprising $8.8 million of direct support for hard-to-reach whānau with complex needs,"
+        },
+        {
+          "type": "text",
+          "text": "and a further $14.2 million available to be distributed in response to additional needs"
+        },
+        {
+          "type": "text",
+          "text": "amongst communities more affected by the changes. In addition to that, the Government"
+        },
+        {
+          "type": "text",
+          "text": "has announced $26 million today to support Pasifika health and disability services in"
+        },
+        {
+          "type": "text",
+          "text": "recognition of the impact the recent outbreak has had on those communities. We will"
+        },
+        {
+          "type": "text",
+          "text": "continue to reassess the situation and provide support as we can."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Does he agree with the Salvation Army that “food hardship is"
+        },
+        {
+          "type": "text",
+          "text": "always a symptom of other issues facing that person or whānau.”, and, if so, what new"
+        },
+        {
+          "type": "text",
+          "text": "actions will the Government take to address housing costs, power bills, and other strains"
+        },
+        {
+          "type": "text",
+          "text": "on household budgets during the lockdown?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "In answer to the first part of the question, yes, I would"
+        },
+        {
+          "type": "text",
+          "text": "accept that that is often the case. That is why we have a range of  supports available to"
+        },
+        {
+          "type": "text",
+          "text": "people to be able to work on issues like rent or power bills. And I do note that the number"
+        },
+        {
+          "type": "text",
+          "text": "of calls the Ministry of Social Development (MSD) is getting is higher than normal, and"
+        },
+        {
+          "type": "text",
+          "text": "it is about responding to those needs both through em ergency grants and other forms of"
+        },
+        {
+          "type": "text",
+          "text": "support."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Will he consider using the COVID Response and Recovery Fund"
+        },
+        {
+          "type": "text",
+          "text": "to provide more income support so that people can shop and buy their own food and take"
+        },
+        {
+          "type": "text",
+          "text": "pressure off food parcel providers who are, obviously, experiencing huge demand?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "As we discussed yesterday, obviously, we have"
+        },
+        {
+          "type": "text",
+          "text": "increased our main benefit significantly and there is more to come in that regard on"
+        },
+        {
+          "type": "text",
+          "text": "1 April with the announcement we made in the Budget. The nature of a situation like this,"
+        },
+        {
+          "type": "text",
+          "text": "where it is a crisis situation, is that it is important to get the food and the support out"
+        },
+        {
+          "type": "text",
+          "text": "quickly. That’s why we use the agencies and the approaches that we do. Longer term, we"
+        },
+        {
+          "type": "text",
+          "text": "continue to look for ways that we can support our low-income New Zealanders."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "If—just in reference to —what he’s just said about the speed at"
+        },
+        {
+          "type": "text",
+          "text": "which support is to be deployed is correct, can he confirm that last year during lockdown"
+        },
+        {
+          "type": "text",
+          "text": "there were only seven days between when the Cabinet made the decision to provide the"
+        },
+        {
+          "type": "text",
+          "text": "wage subsidy and when the first cheques were, essentially, being written to businesses?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "I believe it may have even been quicker, actually, in"
+        },
+        {
+          "type": "text",
+          "text": "terms of, perhaps, about five days. The problem—and not that I’m suggesting necessarily"
+        },
+        {
+          "type": "text",
+          "text": "this is what the Government is doing here —with making changes to main benefit rates,"
+        },
+        {
+          "type": "text",
+          "text": "for instance, is they do have a significantly longer lead time."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Why is that?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "That is a very, very good question, and I don’t have"
+        },
+        {
+          "type": "text",
+          "text": "the answer for it today, but it does relate to the way in which the Ministry of Social"
+        },
+        {
+          "type": "text",
+          "text": "Development’s systems work. There is a very, very large number of people involved, and"
+        },
+        {
+          "type": "text",
+          "text": "when we are changing supports, that, in turn, triggers other changes to other assistance"
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Oral Questions 4655"
+        },
+        {
+          "type": "text",
+          "text": "that they might be getting as well. So it’s complex but it has been one of the issues that,"
+        },
+        {
+          "type": "text",
+          "text": "over my time as a Minister, I have  sought answers on because I do believe that when"
+        },
+        {
+          "type": "text",
+          "text": "Governments make policy changes, we should be able to implement them as soon as"
+        },
+        {
+          "type": "text",
+          "text": "possible."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Will he consider using the COVID Response and Recovery Fund"
+        },
+        {
+          "type": "text",
+          "text": "to support people with phone or internet credit so that they can actually contact MSD and"
+        },
+        {
+          "type": "text",
+          "text": "access the support that is available?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "If there are people in the situation where they simply"
+        },
+        {
+          "type": "text",
+          "text": "are unable to contact MSD, we would want to know about that and ensure that we can"
+        },
+        {
+          "type": "text",
+          "text": "support them in their immediate situation. In terms of more broad support on paying bills"
+        },
+        {
+          "type": "text",
+          "text": "like that, that is indeed what emergency assistance through MSD can be used for."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Will the Governmen t increase the thresholds for housing -related"
+        },
+        {
+          "type": "text",
+          "text": "special needs grants, as it did last year, and, if not, why not?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "At this stage, the Government does not have a plan to"
+        },
+        {
+          "type": "text",
+          "text": "do that, but, as I said in my primary answer, we  continue to monitor the impact of this"
+        },
+        {
+          "type": "text",
+          "text": "outbreak on our low-income households and we will respond accordingly."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "In light of that answer, what further evidence of hardship during"
+        },
+        {
+          "type": "text",
+          "text": "the lockdown is the Government looking for before it decides that it’s going to take new"
+        },
+        {
+          "type": "text",
+          "text": "actions to support those people who are really doing it tough right now?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "Well, as I say, we are in a continuous process of that."
+        },
+        {
+          "type": "text",
+          "text": "You will have seen, as I referenced in my primary answer, that we have responded where"
+        },
+        {
+          "type": "text",
+          "text": "we have the relationships where we know we’ve got the systems in place. It’s not a matter"
+        },
+        {
+          "type": "text",
+          "text": "of a particular threshold or anything like that; it’s simply responding to what we see in"
+        },
+        {
+          "type": "text",
+          "text": "the community."
+        },
+        {
+          "type": "text",
+          "text": "Question No. 5—Finance"
+        },
+        {
+          "type": "text",
+          "text": "5. Hon TODD McCLAY (National—Rotorua) to the Minister of Finance: Does he"
+        },
+        {
+          "type": "text",
+          "text": "believe that the current COVID -related financial s upport for struggling businesses is"
+        },
+        {
+          "type": "text",
+          "text": "adequate, and how many businesses, if any, does he expect to close permanently as a"
+        },
+        {
+          "type": "text",
+          "text": "result of level 3 and level 4 lockdown restrictions?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "Minister of Finance",
+          "time": "",
+          "text": "Generally speaking, yes, but as"
+        },
+        {
+          "type": "text",
+          "text": "we have done throughout the pandemic, we monitor and modify the support provided to"
+        },
+        {
+          "type": "text",
+          "text": "our businesses, our workers, and low-income New Zealanders as circumstances change."
+        },
+        {
+          "type": "text",
+          "text": "In answer to the second part of the member’s question, I cannot predict the future, but"
+        },
+        {
+          "type": "text",
+          "text": "what I can say is that last lockdown company liquidations actually decreased compared"
+        },
+        {
+          "type": "text",
+          "text": "to the previous year, and liquidations over this last year have tracked very similarly to"
+        },
+        {
+          "type": "text",
+          "text": "previous years. I recognise that many businesse s are doing it tough at the moment, and"
+        },
+        {
+          "type": "text",
+          "text": "we will continue to support them."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Todd McClay",
+          "role": "",
+          "time": "",
+          "text": "Will he extend the resurgence support payment, the small -"
+        },
+        {
+          "type": "text",
+          "text": "business cash flow, and the debt hibernation schemes to the 35,000 businesses started in"
+        },
+        {
+          "type": "text",
+          "text": "the last six months that are currently excluded and facing significant financial hardship"
+        },
+        {
+          "type": "text",
+          "text": "as a result?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "I thank the member for his letter on that matter that he"
+        },
+        {
+          "type": "text",
+          "text": "sent me yesterday, and I repeat the answer that I gave  to the primary question: we"
+        },
+        {
+          "type": "text",
+          "text": "continually look to see how we can provide the support to businesses as they need it."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Todd McClay",
+          "role": "",
+          "time": "",
+          "text": "What additional support will he give to Auckland businesses who"
+        },
+        {
+          "type": "text",
+          "text": "may face another four or five weeks of lockdown restrictions, in light of reports that more"
+        },
+        {
+          "type": "text",
+          "text": "than 80 percent of hospitality businesses are saying they are unsustainable after just four"
+        },
+        {
+          "type": "text",
+          "text": "weeks of restrictions and could face closure?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "I refer the member to my answers to earlier"
+        },
+        {
+          "type": "text",
+          "text": "questions—that we will continue to look to see what support we can give to businesses."
+        },
+        {
+          "type": "text",
+          "text": "4656 Oral Questions 2 Sep 2021"
+        },
+        {
+          "type": "text",
+          "text": "One point I would note around the question of targeting to a particular region is that one"
+        },
+        {
+          "type": "text",
+          "text": "of the things we learnt in the last outbreak is that when there are restrictions in Auckland,"
+        },
+        {
+          "type": "text",
+          "text": "that has an impact all over New Zealand, and so, therefore, we have tended to make sure"
+        },
+        {
+          "type": "text",
+          "text": "that supports are available universally, but, as I said, we will continue to see what else we"
+        },
+        {
+          "type": "text",
+          "text": "can do to support our businesses."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Todd McClay",
+          "role": "",
+          "time": "",
+          "text": "Has he asked the tourism Minister why he re-announced a scheme"
+        },
+        {
+          "type": "text",
+          "text": "this week for four South Island regions to provide money to consultants to tell tourism"
+        },
+        {
+          "type": "text",
+          "text": "businesses they don’t have any tourists and how to close, and wouldn’t a re prioritisation"
+        },
+        {
+          "type": "text",
+          "text": "of existing funds to actually help these businesses get through be better?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "I do not accept the member’s characterisation of either"
+        },
+        {
+          "type": "text",
+          "text": "the announcement or the scheme."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon Todd McClay",
+          "role": "",
+          "time": "",
+          "text": "What financial support will he give to small businesses and"
+        },
+        {
+          "type": "text",
+          "text": "landlords, many of whom are small businesses themselves, to specifically help with rent"
+        },
+        {
+          "type": "text",
+          "text": "during level 4 and level 3 restrictions, and will he work with us on a proposal to provide"
+        },
+        {
+          "type": "text",
+          "text": "urgently needed assistance for their mounting rent bills?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "The resurgence support payment, which we brought in"
+        },
+        {
+          "type": "text",
+          "text": "last year that is now being paid out through this lockdown, was designed to address in"
+        },
+        {
+          "type": "text",
+          "text": "part the issue of fixed costs, wh ich include rent, and that payment has been paid out to"
+        },
+        {
+          "type": "text",
+          "text": "the tune, I think, of around $428 million, and along with the wage subsidy scheme means"
+        },
+        {
+          "type": "text",
+          "text": "that a grand total of $1.37 billion has been paid out to businesses in New Zealand over"
+        },
+        {
+          "type": "text",
+          "text": "the last couple of weeks. That is an important contribution. I recognise, as I said earlier,"
+        },
+        {
+          "type": "text",
+          "text": "businesses are doing it tough at this time, but it is important that we continue to monitor"
+        },
+        {
+          "type": "text",
+          "text": "the schemes and see what we can do to change. I’ve noted the member’s proposal that he"
+        },
+        {
+          "type": "text",
+          "text": "put forward. It will be one of a number of things that we consider over coming days."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "Can he confirm that last year the Government did considerable"
+        },
+        {
+          "type": "text",
+          "text": "work on options for commercial rent relief for small businesses until those solutions were"
+        },
+        {
+          "type": "text",
+          "text": "blocked by a party no longer represented in this House, and, if so, will he renew that work"
+        },
+        {
+          "type": "text",
+          "text": "now?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon GRANT ROBERTSON",
+          "role": "",
+          "time": "",
+          "text": "I’ll answer the latter part of the member’s question by"
+        },
+        {
+          "type": "text",
+          "text": "saying that I am aware that Ministry of Justice officials who are responsible for the piece"
+        },
+        {
+          "type": "text",
+          "text": "of legislation concerned continue to do work in that area, and in terms of the first part of"
+        },
+        {
+          "type": "text",
+          "text": "the member’s question, history is remembered by people in different ways and can be"
+        },
+        {
+          "type": "text",
+          "text": "written up in the future."
+        },
+        {
+          "type": "text",
+          "text": "Question No. 6—COVID-19 Response"
+        },
+        {
+          "type": "text",
+          "text": "6. CHRIS BISHOP (National) to the Minister for COVID-19 Response: How many"
+        },
+        {
+          "type": "text",
+          "text": "COVID-positive people are awaiting transfer to quarantine facilities, if any, and is he"
+        },
+        {
+          "type": "text",
+          "text": "satisfied that the Government’s MIQ facilities were appropriately prepared for the Delta"
+        },
+        {
+          "type": "text",
+          "text": "variant arriving in New Zealand?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "Minister for COVID -19 Response",
+          "time": "",
+          "text": "In answer to the first"
+        },
+        {
+          "type": "text",
+          "text": "part of the question, I am advised by managed isolation and quarantine (MIQ) that they"
+        },
+        {
+          "type": "text",
+          "text": "are collecting all cases within 24 hours of them being referred to them by Auckland"
+        },
+        {
+          "type": "text",
+          "text": "Regional Public Health Service and transferring them to MIQ. As at 1 p.m. today there"
+        },
+        {
+          "type": "text",
+          "text": "are 78 people who have tested positive in the community who are not yet in quarantine."
+        },
+        {
+          "type": "text",
+          "text": "That is in the context of 736 cases overall. Some of those cases will have only been recent,"
+        },
+        {
+          "type": "text",
+          "text": "bearing in mind that there were 49 cases that have just been reported this morning that"
+        },
+        {
+          "type": "text",
+          "text": "have come in in the last 24 hours. In answer to the second part of the question, yes, overall"
+        },
+        {
+          "type": "text",
+          "text": "I am satisfied with our MIQ facilities and the preparations that th ey have put in place to"
+        },
+        {
+          "type": "text",
+          "text": "deal with new variants of the virus. Regular infection and prevention and control audits"
+        },
+        {
+          "type": "text",
+          "text": "are done of all of our facilities, which does take into account the most recent scientific"
+        },
+        {
+          "type": "text",
+          "text": "information that we know about the virus."
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Oral Questions 4657"
+        },
+        {
+          "type": "speech",
+          "speaker": "Chris Bishop",
+          "role": "",
+          "time": "",
+          "text": "Thank you for the answer. Does he have any knowledge as to the"
+        },
+        {
+          "type": "text",
+          "text": "maximum length of time that any one person has waited to be transferred to a quarantine"
+        },
+        {
+          "type": "text",
+          "text": "facility after testing COVID positive, and, if so, what is it?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "",
+          "time": "",
+          "text": "I don’t have that historical information, although, when I say"
+        },
+        {
+          "type": "text",
+          "text": "“historical”—beyond the last 24 hours or so. I am now confident, based on the advice that"
+        },
+        {
+          "type": "text",
+          "text": "I’ve got, that any backlog has been cleared and that they are now picking people up within"
+        },
+        {
+          "type": "text",
+          "text": "24 hours. When the surge in the case numbers first started coming through, it is fair to"
+        },
+        {
+          "type": "text",
+          "text": "say that there was a backlog, and some people were waiting between referral and being"
+        },
+        {
+          "type": "text",
+          "text": "picked up. Not all of that, though, was sitting with MIQ. A lot of that was sitting with"
+        },
+        {
+          "type": "text",
+          "text": "Auckland Regional Public Health Service, in the sense that they weren’t necessarily"
+        },
+        {
+          "type": "text",
+          "text": "referring cases to MIQ and giving them the information to go and collect people in as"
+        },
+        {
+          "type": "text",
+          "text": "timely a manner as we would like them to. I understand that that blockage has now been"
+        },
+        {
+          "type": "text",
+          "text": "resolved and that they are now —once the case investigation part, the interview part, is"
+        },
+        {
+          "type": "text",
+          "text": "complete—referring those cases to MIQ and MIQ are collecting them within 24 hours."
+        },
+        {
+          "type": "speech",
+          "speaker": "Chris Bishop",
+          "role": "",
+          "time": "",
+          "text": "How can it possibly be the case that no is sues were raised in infection"
+        },
+        {
+          "type": "text",
+          "text": "control audits about both the public walkway next to the exercise area and the public"
+        },
+        {
+          "type": "text",
+          "text": "atrium at the Crowne Plaza, and if both those issues pass muster, why have both situations"
+        },
+        {
+          "type": "text",
+          "text": "been ameliorated as a matter of urgency in recent days?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "",
+          "time": "",
+          "text": "In terms of the walkway beside the Crowne Plaza, it’s"
+        },
+        {
+          "type": "text",
+          "text": "important to note that there is a high, solid wall between the area where people could have"
+        },
+        {
+          "type": "text",
+          "text": "been exercising and anyone walking through the walkway. If we we re to determine that"
+        },
+        {
+          "type": "text",
+          "text": "a solid wall is insufficient protection, that would mean almost all of our MIQ facilities"
+        },
+        {
+          "type": "text",
+          "text": "would have to stop being used. The issue is whether there was potential for airflow"
+        },
+        {
+          "type": "text",
+          "text": "between the exercise area and the walkway, and the overall co nclusion of previous"
+        },
+        {
+          "type": "text",
+          "text": "infection and prevention and control audits was that there wasn’t. In terms of the atrium,"
+        },
+        {
+          "type": "text",
+          "text": "where the perspex screen did not go all the way to the ceiling, that was not picked up by"
+        },
+        {
+          "type": "text",
+          "text": "previous infection and prevention and control audits. It is something that they’ll look"
+        },
+        {
+          "type": "text",
+          "text": "closely at as to whether or not it should have been picked up. It has now been remediated."
+        },
+        {
+          "type": "speech",
+          "speaker": "Chris Bishop",
+          "role": "",
+          "time": "",
+          "text": "Why are COVID -positive people allowed to exercise in the"
+        },
+        {
+          "type": "text",
+          "text": "underground car park at the Grand Mercure in Wellington, when the Prime Minister just"
+        },
+        {
+          "type": "text",
+          "text": "told the 1 p.m. press conference that COVID -positive people were confined to their"
+        },
+        {
+          "type": "text",
+          "text": "rooms?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "",
+          "time": "",
+          "text": "The overall issue of exercise of people in MIQ is a topic of"
+        },
+        {
+          "type": "text",
+          "text": "conversation with the Omb udsman, who has some very strong views on this particular"
+        },
+        {
+          "type": "text",
+          "text": "case, including Mandela rights, which suggest that people in incarceration should still be"
+        },
+        {
+          "type": "text",
+          "text": "able to get outside at least once a day to see the sky. In terms of the Grand Mercure facility"
+        },
+        {
+          "type": "text",
+          "text": "in Wellington, people who are in that facility can exercise in, effectively, an enclosed car"
+        },
+        {
+          "type": "text",
+          "text": "park—although the sides of the car park are open, but they are well distanced from"
+        },
+        {
+          "type": "text",
+          "text": "anybody else. The Grand Mercure in Wellington is used as a combined quarantine and"
+        },
+        {
+          "type": "text",
+          "text": "isolation facility. Those who are in quarantine have much more stringent requirements"
+        },
+        {
+          "type": "text",
+          "text": "around them than those who are in isolation."
+        },
+        {
+          "type": "speech",
+          "speaker": "Chris Bishop",
+          "role": "",
+          "time": "",
+          "text": "How many rooms at the Novotel in Ellerslie, the Ibis in Auckland, and"
+        },
+        {
+          "type": "text",
+          "text": "the Holiday Inn Auckland have air filtration systems installed in the rooms?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "",
+          "time": "",
+          "text": "I don’t have that particular number to hand."
+        },
+        {
+          "type": "text",
+          "text": "Question No. 7—Health"
+        },
+        {
+          "type": "text",
+          "text": "7. MATT DOOCEY (National —Waimakariri) to the Minister of Health : How"
+        },
+        {
+          "type": "text",
+          "text": "does he reconcile Dr Susanna Every -Palmer’s research that one year after the first"
+        },
+        {
+          "type": "text",
+          "text": "lockdown, levels of psychological distress remained elevated, even though there were no"
+        },
+        {
+          "type": "text",
+          "text": "lockdown restrictions in place, with his comment that “Wellbeing dipped slightly during"
+        },
+        {
+          "type": "text",
+          "text": "March-April 2020’s Alert Level 4, but quickly recovered as alert levels decreased”, and"
+        },
+        {
+          "type": "text",
+          "text": "4658 Oral Questions 2 Sep 2021"
+        },
+        {
+          "type": "text",
+          "text": "does he now recognise that higher levels of mental distress have continued to be fe lt in"
+        },
+        {
+          "type": "text",
+          "text": "the community as a result of COVID-19?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "Minister of Health",
+          "time": "",
+          "text": "The member is referring to two"
+        },
+        {
+          "type": "text",
+          "text": "different conclusions drawn from two different studies with comp letely different"
+        },
+        {
+          "type": "text",
+          "text": "methodologies. I’m advised that Dr Susanna Every -Palmer’s conclusions were drawn"
+        },
+        {
+          "type": "text",
+          "text": "from a survey of roughly 2,000 people in April 2021 as a follow -up to a survey she"
+        },
+        {
+          "type": "text",
+          "text": "conducted in April last year. My comments related to the Ministry of Health New Zealand"
+        },
+        {
+          "type": "text",
+          "text": "health pulse survey of 29,000 New Zealanders conducted last year from April to"
+        },
+        {
+          "type": "text",
+          "text": "September. In response to the second part of the question, it is a statement of the bleeding"
+        },
+        {
+          "type": "text",
+          "text": "obvious that the disruption caused by and the health risk created by th e COVID -19"
+        },
+        {
+          "type": "text",
+          "text": "pandemic has had an effect on the mental wellbeing of New Zealanders. We know there"
+        },
+        {
+          "type": "text",
+          "text": "are elevated levels of anxiety in the community, and that is why we have invested in a"
+        },
+        {
+          "type": "text",
+          "text": "number of initiatives to provide additional support to people during lockdown."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "In response to the Minister’s answer “bleeding obvious”, what actions"
+        },
+        {
+          "type": "text",
+          "text": "has the Minister taken to ensure mental health support for the 35 percent of tourism"
+        },
+        {
+          "type": "text",
+          "text": "operators where mental health concerns have been identified as a result of the impacts of"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "Earlier this year, my colleague the Hon Stuart Nash made"
+        },
+        {
+          "type": "text",
+          "text": "a specific announcement and launched a specific package of mental health support for"
+        },
+        {
+          "type": "text",
+          "text": "tourism operators."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "What actions has the Minister taken to ensure mental health support for"
+        },
+        {
+          "type": "text",
+          "text": "the 50 percent of small -business owners where mental health concerns have been"
+        },
+        {
+          "type": "text",
+          "text": "identified as a result of the impacts of COVID-19?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "By way of contrast to the neglect shown to the mental"
+        },
+        {
+          "type": "text",
+          "text": "health sector by the previous Government over nine years, this Government has invested"
+        },
+        {
+          "type": "text",
+          "text": "heavily in the mental health support and services in this country. So the additional 560"
+        },
+        {
+          "type": "text",
+          "text": "fulltime-equivalent people who now stand at the front line in GP clinics and comparable"
+        },
+        {
+          "type": "text",
+          "text": "clinics are available to support people, whether small-business owners or otherwise, with"
+        },
+        {
+          "type": "text",
+          "text": "their mild to moderate mental health issues, both through lockdowns such as this and at"
+        },
+        {
+          "type": "text",
+          "text": "any other time during the year."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "In response to the Minister’s answers about the front-line mental health"
+        },
+        {
+          "type": "text",
+          "text": "services, what does he say to the tourism operators and small-business owners who might"
+        },
+        {
+          "type": "text",
+          "text": "be registered at the over 70 percent of GP practices who still don’t deliver that front-line"
+        },
+        {
+          "type": "text",
+          "text": "mental health service two years after it was announced?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "I say to those people that in addition to that particular"
+        },
+        {
+          "type": "text",
+          "text": "programme of work, which is a four- to five-year programme of work that we are roughly"
+        },
+        {
+          "type": "text",
+          "text": "halfway through, we have provided online help as well: telehealth services, including"
+        },
+        {
+          "type": "text",
+          "text": "1737, and expanded and boosted that service; and for younger people we have, in fact,"
+        },
+        {
+          "type": "text",
+          "text": "even just recently, provided additional funding to services such as Y outhline, OutLine,"
+        },
+        {
+          "type": "text",
+          "text": "and we’ve recently called for quick bids for others providing mental health support to"
+        },
+        {
+          "type": "text",
+          "text": "young people, particularly to Māori and Pacific populations."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "Why was funding stopped for the successful It’s All Right camp aign,"
+        },
+        {
+          "type": "text",
+          "text": "which provided COVID -19 - related mental health promotion and awareness resources"
+        },
+        {
+          "type": "text",
+          "text": "last year in the lockdown?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "This Government has continued a range of psychosocial"
+        },
+        {
+          "type": "text",
+          "text": "support services that were started during lockdown 2020 and continue now. These include"
+        },
+        {
+          "type": "text",
+          "text": "digital wellbeing services and they include Whakatau Mai wellbeing sessions, Staying on"
+        },
+        {
+          "type": "text",
+          "text": "Track, Small Steps, and Getting Through Together. There is a range of online and"
+        },
+        {
+          "type": "text",
+          "text": "telehealth services available to New Zealanders."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "Point of order, Mr Speaker. I specifically asked why was funding"
+        },
+        {
+          "type": "text",
+          "text": "stopped for a specific programme."
+        },
+        {
+          "type": "text",
+          "text": "2 Sep 2021 Oral Questions 4659"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Yes, and if the member’s original question had referred to that specific"
+        },
+        {
+          "type": "text",
+          "text": "programme, then the member could expect a specific answer. There are a series of very"
+        },
+        {
+          "type": "text",
+          "text": "good rulings, including that from my predecessor —who I know the member knows"
+        },
+        {
+          "type": "text",
+          "text": "well—which indicate that to get a specific answer, you’ve got to ask a specific question."
+        },
+        {
+          "type": "speech",
+          "speaker": "Matt Doocey",
+          "role": "",
+          "time": "",
+          "text": "Thank you very much for that ruling, Mr Speaker. My supplementary:"
+        },
+        {
+          "type": "text",
+          "text": "with younger people reporting higher rates of COVID -19 - related mental distress, what"
+        },
+        {
+          "type": "text",
+          "text": "actions has he taken since last year’s lockdown to address the doubling of the number of"
+        },
+        {
+          "type": "text",
+          "text": "children who are waiting more than eight weeks for treatment?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "I refer to the measures that I have already referred to in"
+        },
+        {
+          "type": "text",
+          "text": "this session that the Government has taken in terms of online and telehealth services. The"
+        },
+        {
+          "type": "text",
+          "text": "Ministry of Health continues to work with those DHBs who are experiencing elevated"
+        },
+        {
+          "type": "text",
+          "text": "levels of demand for acute services, and that is a piece of ongoing work."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon James Shaw",
+          "role": "",
+          "time": "",
+          "text": "What extra support is the Government making available to front -"
+        },
+        {
+          "type": "text",
+          "text": "line youth mental health services in Auckland during the lockdown?"
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANDREW LITTLE",
+          "role": "",
+          "time": "",
+          "text": "In about the first week of this lockdown, this Government,"
+        },
+        {
+          "type": "text",
+          "text": "because of the extraordinary level of demand that was being experienced by Youthline"
+        },
+        {
+          "type": "text",
+          "text": "and OutLine to telehealth services that are available to young people, we provided"
+        },
+        {
+          "type": "text",
+          "text": "additional support—$275,000—to Youthline, additional funding to OutLine, and we have"
+        },
+        {
+          "type": "text",
+          "text": "recently called for bids in a very quick format for other services that are providing support"
+        },
+        {
+          "type": "text",
+          "text": "to, particularly, rangitahi and young Pacific people."
+        }
+      ]
+    },
+    {
+      "heading": "Urgent Questions",
+      "items": [
+        {
+          "type": "text",
+          "text": "Urgent Question to Minister—Declined"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Members, I have received from Chris Bishop an application for an urgent"
+        },
+        {
+          "type": "text",
+          "text": "question and, because of our unusual circumstances, I haven’t been able to communicate"
+        },
+        {
+          "type": "text",
+          "text": "in the way that I normally would as to whether it is accepted or not."
+        },
+        {
+          "type": "text",
+          "text": "I have decided to decline the question, and I’m giving reasons, notwithstanding the"
+        },
+        {
+          "type": "text",
+          "text": "rulings that generally Speakers shouldn’t, because I haven’t been able to do that in the"
+        },
+        {
+          "type": "text",
+          "text": "current circumstances. I will refer the member to Spe akers’ rulings 197/5 -6 and 198/1,"
+        },
+        {
+          "type": "text",
+          "text": "which essentially indicate that an urgent question is important if something is ongoing"
+        },
+        {
+          "type": "text",
+          "text": "and needs the immediate attention of the House. In this particular question, which is about"
+        },
+        {
+          "type": "text",
+          "text": "a COVID-positive person who had escaped from a facility, if that person was still in the"
+        },
+        {
+          "type": "text",
+          "text": "community, then I think it would be appropriate for the question to be asked. Now, the"
+        },
+        {
+          "type": "text",
+          "text": "second leg of the question goes to the investigation, and that is, I think, a question which"
+        },
+        {
+          "type": "text",
+          "text": "could be asked at some stage in the future and doesn’t have to be asked today."
+        },
+        {
+          "type": "text",
+          "text": "In accordance with the determination of the Business Committee the House stands"
+        },
+        {
+          "type": "text",
+          "text": "adjourned until 2 p.m. on Tuesday, 7 September 2021."
+        },
+        {
+          "type": "text",
+          "text": "The House adjourned at 2.44 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Index to"
+        },
+        {
+          "type": "text",
+          "text": "Thursday, 2 September 2021"
+        }
+      ]
+    },
+    {
+      "heading": "Explanation Of Abbreviations",
+      "items": [
+        {
+          "type": "text",
+          "text": "1R—First Reading"
+        },
+        {
+          "type": "text",
+          "text": "2R—Second Reading"
+        },
+        {
+          "type": "text",
+          "text": "3R—Third Reading"
+        },
+        {
+          "type": "text",
+          "text": "CWH—Committee of the whole House"
+        },
+        {
+          "type": "text",
+          "text": "LS—Legislative Statement"
+        },
+        {
+          "type": "text",
+          "text": "BILLS"
+        },
+        {
+          "type": "text",
+          "text": "Legislation is listed under BILLS. The name of an originating bill that has been divided into separate"
+        },
+        {
+          "type": "text",
+          "text": "bills is shown in italics after the names of the new bills."
+        }
+      ]
+    },
+    {
+      "heading": "Oral Questions",
+      "items": [
+        {
+          "type": "text",
+          "text": "Questions are listed under ORAL QUESTIONS by ministerial portfolio."
+        },
+        {
+          "type": "text",
+          "text": "______________________________________"
+        },
+        {
+          "type": "text",
+          "text": "BISHOP, CHRIS—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Managed Isolation and Quarantine,"
+        },
+        {
+          "type": "text",
+          "text": "4656"
+        },
+        {
+          "type": "text",
+          "text": "BILLS—"
+        },
+        {
+          "type": "text",
+          "text": "Appropriation (2021/22 Estimates) Bill,"
+        },
+        {
+          "type": "text",
+          "text": "CWH, 4649"
+        },
+        {
+          "type": "text",
+          "text": "BUSINESS OF THE HOUSE—"
+        },
+        {
+          "type": "text",
+          "text": "Estimates Debate—"
+        },
+        {
+          "type": "text",
+          "text": "Presiding Officer, 4649"
+        },
+        {
+          "type": "text",
+          "text": "COLLINS, Hon JUDITH—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Vaccination, 4651"
+        },
+        {
+          "type": "text",
+          "text": "DOOCEY, MATT—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Mental Health Support, 4657"
+        },
+        {
+          "type": "text",
+          "text": "McCLAY, Hon TODD—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Businesses, Government Support,"
+        },
+        {
+          "type": "text",
+          "text": "4655"
+        },
+        {
+          "type": "text",
+          "text": "Resurgence Support Payment, 4655"
+        },
+        {
+          "type": "text",
+          "text": "ORAL QUESTIONS—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Managed Isolation and Quarantine, 4656"
+        },
+        {
+          "type": "text",
+          "text": "Finance—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Businesses, Government Support,"
+        },
+        {
+          "type": "text",
+          "text": "4655"
+        },
+        {
+          "type": "text",
+          "text": "ORAL QUESTIONS—continued"
+        },
+        {
+          "type": "text",
+          "text": "Finance—continued"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—continued"
+        },
+        {
+          "type": "text",
+          "text": "Hardship, Measures to Address, 4654"
+        },
+        {
+          "type": "text",
+          "text": "Resurgence Support Payment, 4655"
+        },
+        {
+          "type": "text",
+          "text": "Wage Subsidy Scheme, 4653"
+        },
+        {
+          "type": "text",
+          "text": "Health—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Mental Health Support, 4657"
+        },
+        {
+          "type": "text",
+          "text": "Prime Minister—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Alert Levels, South Island, 4650"
+        },
+        {
+          "type": "text",
+          "text": "Vaccination, 4651"
+        },
+        {
+          "type": "text",
+          "text": "SEYMOUR, DAVID—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Alert Levels, South Island, 4650"
+        },
+        {
+          "type": "text",
+          "text": "SHAW, Hon JAMES—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Hardship, Measures to Address, 4654"
+        }
+      ]
+    },
+    {
+      "heading": "Speakers And Presiding",
+      "items": [
+        {
+          "type": "text",
+          "text": "OFFICERS—"
+        },
+        {
+          "type": "text",
+          "text": "Rulings—"
+        },
+        {
+          "type": "text",
+          "text": "Urgent Questions—"
+        },
+        {
+          "type": "text",
+          "text": "Declined, 4659"
+        },
+        {
+          "type": "text",
+          "text": "UPSTON, Hon LOUISE—"
+        },
+        {
+          "type": "text",
+          "text": "Oral Questions—"
+        },
+        {
+          "type": "text",
+          "text": "COVID-19 Response—"
+        },
+        {
+          "type": "text",
+          "text": "Wage Subsidy Scheme, 4653"
+        }
+      ]
+    }
+  ],
+  "plain_text": " \n \n \n \nFifty-third Parliament \n \n \n \n \nParliamentary Debates \n(HANSARD) \n \n \n \n \nFINAL DAILY \n \n \n \n \nThursday, 2 September 2021 \n(for inclusion in Volume 754) \n \n \nWELLINGTON, NEW ZEALAND \nPublished under the authority of the House of Representatives—2024 \n \n \n \n\n\n \nTHURSDAY, 2 SEPTEMBER 2021 \n  \nTABLE OF CONTENTS \n \nKARAKIA/PRAYERS ........................................................................................... 4649 \nBUSINESS STATEMENT..................................................................................... 4649 \nAPPROPRIATION (2021/22 ESTIMATES) BILL— \nEstimates Debate—Presiding Officer ................................................................ 4649 \nBUSINESS STATEMENT..................................................................................... 4649 \nPETITIONS, PAPERS, SELECT COMMITTEE REPORTS, AND   \nINTRODUCTION OF BILLS ................................................................................ 4650 \nORAL QUESTIONS— \nQuestions to Ministers— \nQuestion No. 1—Prime Minister .................................................................. 4650 \nQuestion No. 2—Prime Minister .................................................................. 4651 \nQuestion No. 3—Finance .............................................................................. 4653 \nQuestion No. 4—Finance .............................................................................. 4654 \nQuestion No. 5—Finance .............................................................................. 4655 \nQuestion No. 6—COVID-19 Response ........................................................ 4656 \nQuestion No. 7—Health ................................................................................ 4657 \nUrgent Questions— \nUrgent Question to Minister—Declined ....................................................... 4659 \n \n  \n \n \n \n \n2 Sep 2021 Karakia/Prayers 4649 \n \nTHURSDAY, 2 SEPTEMBER 2021 \nThe Speaker took the Chair at 2 p.m. \nKARAKIA/PRAYERS \nSPEAKER: Almighty God, we give thanks for the blessings which have been \nbestowed on us. Laying aside all personal interests, we acknowledge the Queen and pray \nfor guidance in our deliberations that we may conduct the affairs of this House with \nwisdom, justice, mercy, and humility for the welfare and peace of New Zealand. Amen. \nBUSINESS STATEMENT \nHon CHRIS HIPKINS (Leader of the House): Thank you, Mr Speaker. Next week, \nthe House will continue to meet in a manner that’s appropriate to the alert levels we are \nin at the time. On Thursday, 7 September, the Estimates debate will resume. Ministers to \nappear have yet to be finalised, but are likely to include the Ministers of Finance, COVID-\n19 Response, and Immigration. Further discussion is taking place over whether any other \nMinisters should appear. As agreed by the Business Committee, the Appropriation \n(2021/22 Estimates) Bill will then be set down for third reading. As happens every year, \nthe third reading will be taken with the second Imprest Supply Bill of the current financial \nyear. There will be oral questions each day and a general debate on Wednesday.  \nOf course, in these rapidly evolving times, if there are any further changes to that in \nthe coming days, I will be sure to inform the other parties.  \nAPPROPRIATION (2021/22 ESTIMATES) BILL \nEstimates Debate—Presiding Officer \nHon MICHAEL WOODHOUSE (National) : I thank the Leader of the House for \nthat update and also for the constructive discussions that are going on about the \nprogramme for next week. A couple of matters: firstly, recognising that there has been \nquite a bit of lost time, can I encourage him, as I’m sure he will, to signal early to the \nBusiness Committee if it will be necessary for the House to take urgency or extended \nhours in the fourth quarter of this year. \nSecondly, Mr Speaker, I seek a point of order. I seek leave for the Speaker to chair the \ncommittee of the whole House on the Appropriation (2021/22 Estimates) Bill and that \nwhile the Speaker chairs the committee, no motion to report to obtain the Speaker’s ruling \non a matter of procedure can be accepted, despite Standing Orders 173 and 179. \nSPEAKER: Is there any objection to that course of action? There appears to be none. \nBUSINESS STATEMENT \nHon CHRIS HIPKINS (Leader of the House): In answer to the member’s question \nregarding extended sitting and urgency, certainly I think it would be wise to expect that \nthere’ll be at least some extended sittings in the latter part of the year, depending on where \nwe’re at with various alert levels and when we can get back to a point where Parliament \ncan transact business more normally. I think we will absolutely be looking to make up for \nlost time, given that there’ll be quite a lot of business being built up over this period. I \nwill endeavour to provide as much notice of that as we possibly can. I’d also note that it’s \nnot just Government business that will have been accumulating during that time; we won’t \nhave had members’ days —we’ve already lost one and potentially could lose more. \nTherefore, I look forward to some constructive discussions about how all of the business \nbefore the House that needs to be given attention to before Christmas can be progressed. \n4650 Petitions, Papers, SC Reports, and Introduction of Bills 2 Sep 2021 \n \nPETITIONS, PAPERS, SELECT COMMITTEE REPORTS, AND  \nINTRODUCTION OF BILLS \nSPEAKER: No petitions, papers, or select committee reports have been presented. No \nbills have been introduced. \nORAL QUESTIONS \nQUESTIONS TO MINISTERS \nQuestion No. 1—Prime Minister \n1. DAVID SEYMOUR (Leader —ACT) to the Prime Minister: Does she stand by \nher statement, “A small handful are not due their day 12 test —but I would caution the \nmember that those are the contacts we know about”; if so, how many contacts are still \nawaiting a test result now? \nRt Hon JACINDA ARDERN (Prime Minister): As at 9 a.m. this morning, we have \n515 known contacts in the South Island. Of that, 15 are overdue their day 12 test and are \nbeing actively followed up by public health units. Seven are not yet due their day 12 test. \nI would remind the member that the restrictions that are in place at the moment across \nNew Zealand in some areas are there as a matter of caution, given that we are dealing \nwith a Delta outbreak. We cannot be 100 percent certain that we know ever y single \ncontact that was had in this outbreak, or how many of them may be in the South Island. \nIt is better that we get this right and ensure that we do not find a positive case in the South \nwhile we’re at lower alert levels, which could have devastating consequences. \nDavid Seymour: Why wouldn’t the Government simply isolate those remaining 22 \npeople so the other million South Islanders can address other aspects of their wellbeing—\nsuch as the survival of their businesses, their children’s education, and their healthcare—\nat lower alert levels? \nRt Hon JACINDA ARDERN : All contacts are required to isolate. They are in \nisolation. They in some cases have not yet had their final day 12 tests, or in other cases \nthey’re not yet overdue them. Yesterday, if I recall correctly, amongst the numbers that \nwe reported, of those contacts that we had, roughly 40 percent of them returned positive \nresults on their day 12 test, so it does demonstrate that they’re important. You then need \nto contact trace around those individuals and ensure that if they have exposure events, \nthere aren’t knock-on cases. So even though they’re isolated, caution would still suggest \nkeeping the alert levels where they are, not only till we get through that peri od but also \nbecause we cannot be 100 percent certain we have every known contact.  \nDavid Seymour: Did the Prime Minister understand it would take three weeks to be \nsure there were no cases in the South Island when she first announced a shor t, sharp \nlockdown, and if she did, why didn’t she say so at the time? \nRt Hon JACINDA ARDERN: When we discovered case A, we did not know at what \npoint that person was infected or, indeed, if they were at the beginning of the chain. We’ve \nsince discovered that Delta was, effectively, in our community for more than a week. \nUnlike the August outbreak, where we saw potentially an outbreak that had been in the \ncommunity for possibly three weeks, Delta got a head start that had a far more devastating \neffect. We’ve since modelled that we could have had this week upwards of 500 cases a \nday, had we not locked down. So we went short and sharp while we identified \ninformation, and since then identified information that Delta did have a big head start on \nus and that we needed to be careful. \nDavid Seymour : How long does the Prime Minister believe it is sustainable to \nmaintain its current strategy if a single initial case can lead to lockdowns that take weeks \nand weeks and weeks before the Government has any confidence about lifting them? \n2 Sep 2021 Oral Questions 4651 \n \nRt Hon JACINDA ARDERN : I’m going to start by correcting the member. That \nsingle initial case had hundreds of cases around it. It’s simply not correct to assume that \nwe had one case here and that everything that’s been done was because of one case. We \nliterally had hundreds. You can see in the outbreak now we’re working very hard to \nensure that that doesn’t have a negative effect on people in the South Island. I would \nactually just finish by reflecting on the comments made by a business owner in the South \nIsland who says, “There’s a whole [lot of] risk involved [with] us as well under level 2. \nWe’ve got people coming in our doors so you know the risk of us getting a case on site \nand getting shut down for a prolonged period of time is quite significant [to] us. … I think \nDelta changes things a little bit, and [I’m] definitely supportive of a more cautious \napproach”. \nQuestion No. 2—Prime Minister \n2. Hon JUDITH COLLINS (Leader of the Opposition)  to the Prime Minister : \nWhat did she mean yesterday when she said, “When the outbreak started, we saw, of \ncourse, as you may expect, some demand lift”, and does she accept that prior to the current \noutbreak, eligible people wanted to get vaccines but were not able to secure \nappointments? \nRt Hon JACINDA ARDERN (Prime Minister): Yes, I stand by what I said and, no, \nI do not accept the member’s assertion. \nHon Judith Collins: Why did it take an outbreak to try and speed up vaccine orders \nwhen, in July, Stuff  reported that over 37,000 group 3 eligible people called a vaccine \nhotline due to being unable to secure a booking for a COVID-19 vaccine? \nRt Hon JACINDA ARDERN: The biggest constraint, in fact the only constraint, we \nhave faced is supply, is the delivery of the contracted doses we have with Pfizer —those \ndoses being delivered into New Zealand. So whilst we get, basically, a four-weekly heads-\nup on what we can expect —we’re told across a quarter of what we can expect —the \nconstraint has been delivery by the pharmaceutical company whom we contracted and \nbegan negotiations with before they even finished their clinical trials. \nHon Judith Collins: Well, if Pfizer is the excuse, can she explain how Canada, Israel, \nand Germany can all run a Pfizer -focused strategy and achieve double the vaccination \nrates that we have? \nRt Hon JACINDA ARDERN: The first thing I’d say is that, actually, per capita, we \nare beating them on peak doses at the moment by quit e some margin with the delivery \nthat we are going through. The second point I would make is that they still have \nrestrictions in place, because they still have outbreaks despite having started their vaccine \nroll-out sooner. I would also point out we have lower case rates, lower death rates, lower \nlevels of restrictions. All of that, for me, is a measure of success, a measure of success in \nwhether or not your relative strategy for COVID, of which there is no costless response—\nwhether or not you’ve adopted th e right strategy for your country. On vaccination \nprogrammes, so those countries, of course, they all have multiple vaccines. We decided \nto deliver Pfizer, and in some cases they used emergency approvals rather than going \nthrough a full approval process, as we did. \nHon Judith Collins: Did New Zealand have sufficient vaccine supply in June when \nthe Kāpiti coast man in his 80s told Radio New Zealand he was eligible and wants to get \na vaccine, but was told by his DHB a vaccine appointment was not then available? \nRt Hon JACINDA ARDERN : What I can tell you is that the date that we were \nreleasing cohort invitations—for instance, for the 60- to 64-year-olds—76,000 bookings \nwere made at that time. For the next cohort, ano ther 70,000; that’s on day one. For the \n50- to 55-year-olds, 86,000 bookings were made on day one. For the 40- to 49-year-olds, \n137,000 bookings on day one. In fact, for 1 September we had 196,000 bookings made on \n4652 Oral Questions 2 Sep 2021 \n \nday one. So those bookings have been avail able, not necessarily on the precise day \nsomeone has wanted, but they have been available. What we’ve also done is increase the \nproviders that are available as we’ve rolled out as well. So in the beginning we had a \nbooking system that didn’t necessarily consolidate all of those providers. So that’s where \nyou did see some examples of people who may not have been able to access a local \nbooking in a timely way, because they didn’t necessarily have access to all of the capacity \nacross the area, but we’ve now co nsolidated that. We’ve got a single place where you \nbook and we’ve brought on new providers. So we have now GPs, pharmacies. That’s all \ngrown over time. \nHon Chris Hipkins : Did the Prime Minister and her Ministers indicate at the \nbeginning of the year, when the Government opted for a Pfizer -only campaign, that that \nwould mean that we would have to wait until the second half of the year to get the bulk \nof the doses delivered into New Zealand, and did discussions start almost immediately at \nthat point to see whether we could speed up those deliveries? \nRt Hon JACINDA ARDERN: Yes, that’s absolutely correct, and the member will be \nfamiliar, because he’s been part of those discussions with Pfizer around bringing forward \nthose orders as much as possible. Whilst we’ve always acknowledged that there are \nconstraints on the pharmaceutical companies who have enormous demands on supply \nacross the globe, we have managed to get the completion of our order through the month \nof October, whereas you will have heard us initially in the campaign saying that those \ndeliveries would occur across the fourth quarter. \nHon Judith Collins : So is the Prime Minister seriously telling the House that the \n37,000 people who, according to Stuff in July, had called a vaccine hotline due to being \nunable to secure a booking for a COVID-19 vaccine were simply wrong—37,000 people? \nRt Hon JACINDA ARDERN: Actually, all I can do is refer to the numbers that we \nhave now. I guess the proof will be in whether or not those individuals are indeed \nvaccinated. So 91 percent of people aged 65 -plus are either booked or have been \nvaccinated with at least one dose—91 percent of people aged 65-plus are booked or have \nbeen vaccinated with at least one dose. My challenge, then, would be to every other age \ncohort to see if they can rival the incredibly high take -up rate of our 65 -pluses. In the \nhunt, are our 40 -pluses—they’re at 83 percent booked or with at least one dose. If we  \ndrop down to the 30-plus, 79 percent are booked or have at least one dose. And then really \nheartening, given we only opened up on 1 September, 70 percent of people aged 12-plus \nare booked or have been vaccinated with at least one dose. Those are really he artening \nnumbers; we just need to keep going. \nHon Judith Collins : Does she agree that New Zealand will achieve 90 percent \nvaccination by the end of the year, as her economic and regional development Minister \nsaid yesterday? \nRt Hon JACINDA ARDERN: Actually, I think what you’ll find there is the Minister \nwas suggesting that he feels very positive about the likelihood of a high percentage of \nNew Zealanders taking up the opportunity to be vaccinated, because it is tr ue to say that \nevery single person in New Zealand over the age of 12 will have access to a vaccine. So \nit’s up to us to make it as available and as accessible as possible, but when we even take \nout the bookings, 86 percent of people aged 65-plus have been vaccinated with one dose \nalready. So he’s obviously basing that on what he’s seeing with people anticipating going \nto get vaccinated, and he’s trying to encourage everyone to continue with those bookings. \nHon Judith Collins : Point of order. I seek leave of this House to propose a motion \nwithout debate that this House adopts a COVID -19 vaccination target of 90 percent by \nthe end of the year. \nSPEAKER: Is there any objection to that course of action. There is objection. \nHon Chris Hipkins : Which does the Prime Minister think would be the more \nresponsible course of action: encouraging every eligible New Zealander to take up the \n2 Sep 2021 Oral Questions 4653 \n \nvaccine or setting a target, as was proposed only a few days ago, that would suggest that \nup to 30 percent of New Zealanders could be encouraged not to? \nRt Hon JACINDA ARDERN: That is absolutely the issue that public health experts \nhave pointed to. Of course, the targets only talk about those who are eligible to be \nvaccinated, and we know, at the moment, unfortunately, children are not in that group \nright now, and so that means we want as many people as possible, and that means not \ncreating space for someone to believe that they should be part of the 10 or the 30 percent. \nQuestion No. 3—Finance \n3. Hon LOUISE UPSTON (National —Taupō) to the Minister of Finance : How \ndoes the new requirement to reap ply for the COVID -19 Wage Subsidy every fortnight \nhelp businesses and employees? \nHon GRANT ROBERTSON (Minister of Finance): As we announced in December, \nour move to a two-weekly cycle, this is designed to ensure as part of the new way that the \nwage subsidy scheme is delivered, to give certainty that when we are at alert levels 3 or \n4, the wage subsidy scheme will be available.  It will help businesses by ensuring that \nthere is a sustainable scheme, and one that has integrity. \nHon Louise Upston: Have new requirements, like having to reapply every fortnight, \nbeen imposed because the Government only set aside $5 00 million to cover a wage \nsubsidy reactivation scheme in the current imprest supply, and, if not, what is the reason? \nHon GRANT ROBERTSON: In answer to the first part of the question, absolutely \nnot, and the member completely misunde rstands what the imprest supply bill is. The \nreason the change has been made is to ensure that we have a sustainable scheme and, \nindeed, the member might like to recall the words of her current leader, who said in the \nfirst round of the wage subsidy scheme  that it needed to be more carefully put in place. \nThe Government has made changes to ensure that’s happening. \nHon Louise Upston: How do these new requirements help those experiencing delays \nreceiving the first subsidy payment, such as one business owner who said, “Eleven days \nand waiting to receive my business subsidy for my 20 -plus staff. Three phone calls to \nMSD and told each time ‘it’s in processing’. Not very helpful.”? \nHon GRANT ROBERTSON : The experience of th e vast bulk of people who have \napplied for the wage subsidy scheme has been one where they have been mightily \nimpressed by the speed in which applications have been processed. And on that note, I \nthank the member’s colleague Chris Bishop, who went out of h is way on his Facebook \npage to seek people who were having problems and was inundated with comments from \npeople who said, “No issues at all, always been fast for us”, “Applied for Wage Subsidy \nat 2.20 last Wednesday, received”— \nSPEAKER: Order! Order! The member’s being repetitive. \nHon Louise Upston : How many employees will miss out on wages for this level 4 \nlockdown because businesses missed the application deadline for the first fortnightly \nperiod? \nHon GRANT ROBERTSON: Businesses are aware of the application deadline; there \nis no way of quantifying what the member is putting forward. What I do know is that the \nscheme is supporting, once again, hundreds of thousands of New Zealanders to stay \nattached to thei r job. It has been a very successful scheme that has contributed well to \nmaking sure not only that New Zealanders stay in work but that the economy recovers.  \nHon Louise Upston : Does he accept new wage subsidy requirements that hurt \nbusinesses increase the risk that more New Zealanders will lose their jobs? \nHon GRANT ROBERTSON: No, because I simply don’t accept the premise of the \nmember’s question. \n4654 Oral Questions 2 Sep 2021 \n \nQuestion No. 4—Finance \n4. Hon JAMES SHAW (Co-Leader—Green) to the Minister of Finance: Does he \nstand by his statement regarding people in hardship that “what we want to do is ensure \nthat the current forms of support we have are adequate”; if so, will the Government take \naction in response to the Salvation Army’s observation that despite actions taken so far, \n“critical food insecurity issues for people and whānau persist”? \nHon GRANT ROBERTSON (Minister of Finance): As the member will appreciate, \nresponding to an outbreak of this sort is an ongoing challenge which means that we are \nconstantly monitoring the impact of COVID-19 on different groups in society. This does \ninclude reassessing the adequacy of support that is available and, where we need to, to \ntake further action. A good example of this just today was the announcement by Ministers \nHenare and Sio of $23 million addit ional support through the Whānau Ora programme, \ncomprising $8.8 million of direct support for hard-to-reach whānau with complex needs, \nand a further $14.2 million available to be distributed in response to additional needs \namongst communities more affected by the changes. In addition to that, the Government \nhas announced $26 million today to support Pasifika health and disability services in \nrecognition of the impact the recent outbreak has had on those communities. We will \ncontinue to reassess the situation and provide support as we can. \nHon James Shaw : Does he agree with the Salvation Army that “food hardship is \nalways a symptom of other issues facing that person or whānau.”, and, if so, what new \nactions will the Government take to address housing costs, power bills, and other strains \non household budgets during the lockdown? \nHon GRANT ROBERTSON: In answer to the first part of the question, yes, I would \naccept that that is often the case. That is why we have a range of  supports available to \npeople to be able to work on issues like rent or power bills. And I do note that the number \nof calls the Ministry of Social Development (MSD) is getting is higher than normal, and \nit is about responding to those needs both through em ergency grants and other forms of \nsupport. \nHon James Shaw: Will he consider using the COVID Response and Recovery Fund \nto provide more income support so that people can shop and buy their own food and take \npressure off food parcel providers who are, obviously, experiencing huge demand? \nHon GRANT ROBERTSON : As we discussed yesterday, obviously, we have \nincreased our main benefit significantly and there is more to come in that regard on \n1 April with the announcement we made in the Budget. The nature of a situation like this, \nwhere it is a crisis situation, is that it is important to get the food and the support out \nquickly. That’s why we use the agencies and the approaches that we do. Longer term, we \ncontinue to look for ways that we can support our low-income New Zealanders. \nHon James Shaw : If—just in reference to —what he’s just said about the speed at \nwhich support is to be deployed is correct, can he confirm that last year during lockdown \nthere were only seven days between when the Cabinet made the decision to provide the \nwage subsidy and when the first cheques were, essentially, being written to businesses? \nHon GRANT ROBERTSON: I believe it may have even been quicker, actually, in \nterms of, perhaps, about five days. The problem—and not that I’m suggesting necessarily \nthis is what the Government is doing here —with making changes to main benefit rates, \nfor instance, is they do have a significantly longer lead time. \nHon James Shaw: Why is that? \nHon GRANT ROBERTSON : That is a very, very good question, and I don’t have \nthe answer for it today, but it does relate to the way in which the Ministry of Social \nDevelopment’s systems work. There is a very, very large number of people involved, and \nwhen we are changing supports, that, in turn, triggers other changes to other assistance \n2 Sep 2021 Oral Questions 4655 \n \nthat they might be getting as well. So it’s complex but it has been one of the issues that, \nover my time as a Minister, I have  sought answers on because I do believe that when \nGovernments make policy changes, we should be able to implement them as soon as \npossible. \nHon James Shaw: Will he consider using the COVID Response and Recovery Fund \nto support people with phone or internet credit so that they can actually contact MSD and \naccess the support that is available? \nHon GRANT ROBERTSON: If there are people in the situation where they simply \nare unable to contact MSD, we would want to know about that and ensure that we can \nsupport them in their immediate situation. In terms of more broad support on paying bills \nlike that, that is indeed what emergency assistance through MSD can be used for. \nHon James Shaw : Will the Governmen t increase the thresholds for housing -related \nspecial needs grants, as it did last year, and, if not, why not? \nHon GRANT ROBERTSON: At this stage, the Government does not have a plan to \ndo that, but, as I said in my primary answer, we  continue to monitor the impact of this \noutbreak on our low-income households and we will respond accordingly. \nHon James Shaw: In light of that answer, what further evidence of hardship during \nthe lockdown is the Government looking for before it decides that it’s going to take new \nactions to support those people who are really doing it tough right now? \nHon GRANT ROBERTSON: Well, as I say, we are in a continuous process of that. \nYou will have seen, as I referenced in my primary answer, that we have responded where \nwe have the relationships where we know we’ve got the systems in place. It’s not a matter \nof a particular threshold or anything like that; it’s simply responding to what we see in \nthe community. \nQuestion No. 5—Finance \n5. Hon TODD McCLAY (National—Rotorua) to the Minister of Finance: Does he \nbelieve that the current COVID -related financial s upport for struggling businesses is \nadequate, and how many businesses, if any, does he expect to close permanently as a \nresult of level 3 and level 4 lockdown restrictions? \nHon GRANT ROBERTSON (Minister of Finance): Generally speaking, yes, but as \nwe have done throughout the pandemic, we monitor and modify the support provided to \nour businesses, our workers, and low-income New Zealanders as circumstances change. \nIn answer to the second part of the member’s question, I cannot predict the future, but \nwhat I can say is that last lockdown company liquidations actually decreased compared \nto the previous year, and liquidations over this last year have tracked very similarly to \nprevious years. I recognise that many businesse s are doing it tough at the moment, and \nwe will continue to support them. \nHon Todd McClay : Will he extend the resurgence support payment, the small -\nbusiness cash flow, and the debt hibernation schemes to the 35,000 businesses started in \nthe last six months that are currently excluded and facing significant financial hardship \nas a result? \nHon GRANT ROBERTSON: I thank the member for his letter on that matter that he \nsent me yesterday, and I repeat the answer that I gave  to the primary question: we \ncontinually look to see how we can provide the support to businesses as they need it. \nHon Todd McClay: What additional support will he give to Auckland businesses who \nmay face another four or five weeks of lockdown restrictions, in light of reports that more \nthan 80 percent of hospitality businesses are saying they are unsustainable after just four \nweeks of restrictions and could face closure? \nHon GRANT ROBERTSON : I refer the member to my answers to earlier \nquestions—that we will continue to look to see what support we can give to businesses. \n4656 Oral Questions 2 Sep 2021 \n \nOne point I would note around the question of targeting to a particular region is that one \nof the things we learnt in the last outbreak is that when there are restrictions in Auckland, \nthat has an impact all over New Zealand, and so, therefore, we have tended to make sure \nthat supports are available universally, but, as I said, we will continue to see what else we \ncan do to support our businesses. \nHon Todd McClay: Has he asked the tourism Minister why he re-announced a scheme \nthis week for four South Island regions to provide money to consultants to tell tourism \nbusinesses they don’t have any tourists and how to close, and wouldn’t a re prioritisation \nof existing funds to actually help these businesses get through be better? \nHon GRANT ROBERTSON: I do not accept the member’s characterisation of either \nthe announcement or the scheme. \nHon Todd McClay : What financial support will he give to small businesses and \nlandlords, many of whom are small businesses themselves, to specifically help with rent \nduring level 4 and level 3 restrictions, and will he work with us on a proposal to provide \nurgently needed assistance for their mounting rent bills? \nHon GRANT ROBERTSON: The resurgence support payment, which we brought in \nlast year that is now being paid out through this lockdown, was designed to address in \npart the issue of fixed costs, wh ich include rent, and that payment has been paid out to \nthe tune, I think, of around $428 million, and along with the wage subsidy scheme means \nthat a grand total of $1.37 billion has been paid out to businesses in New Zealand over \nthe last couple of weeks. That is an important contribution. I recognise, as I said earlier, \nbusinesses are doing it tough at this time, but it is important that we continue to monitor \nthe schemes and see what we can do to change. I’ve noted the member’s proposal that he \nput forward. It will be one of a number of things that we consider over coming days. \nHon James Shaw : Can he confirm that last year the Government did considerable \nwork on options for commercial rent relief for small businesses until those solutions were \nblocked by a party no longer represented in this House, and, if so, will he renew that work \nnow? \nHon GRANT ROBERTSON: I’ll answer the latter part of the member’s question by \nsaying that I am aware that Ministry of Justice officials who are responsible for the piece \nof legislation concerned continue to do work in that area, and in terms of the first part of \nthe member’s question, history is remembered by people in different ways and can be \nwritten up in the future. \nQuestion No. 6—COVID-19 Response \n6. CHRIS BISHOP (National) to the Minister for COVID-19 Response: How many \nCOVID-positive people are awaiting transfer to quarantine facilities, if any, and is he \nsatisfied that the Government’s MIQ facilities were appropriately prepared for the Delta \nvariant arriving in New Zealand? \nHon CHRIS HIPKINS (Minister for COVID -19 Response): In answer to the first \npart of the question, I am advised by managed isolation and quarantine (MIQ) that they \nare collecting all cases within 24 hours of them being referred to them by Auckland \nRegional Public Health Service and transferring them to MIQ. As at 1 p.m. today there \nare 78 people who have tested positive in the community who are not yet in quarantine. \nThat is in the context of 736 cases overall. Some of those cases will have only been recent, \nbearing in mind that there were 49 cases that have just been reported this morning that \nhave come in in the last 24 hours. In answer to the second part of the question, yes, overall \nI am satisfied with our MIQ facilities and the preparations that th ey have put in place to \ndeal with new variants of the virus. Regular infection and prevention and control audits \nare done of all of our facilities, which does take into account the most recent scientific \ninformation that we know about the virus.  \n2 Sep 2021 Oral Questions 4657 \n \nChris Bishop : Thank you for the answer. Does he have any knowledge as to the \nmaximum length of time that any one person has waited to be transferred to a quarantine \nfacility after testing COVID positive, and, if so, what is it? \nHon CHRIS HIPKINS: I don’t have that historical information, although, when I say \n“historical”—beyond the last 24 hours or so. I am now confident, based on the advice that \nI’ve got, that any backlog has been cleared and that they are now picking people up within \n24 hours. When the surge in the case numbers first started coming through, it is fair to \nsay that there was a backlog, and some people were waiting between referral and being \npicked up. Not all of that, though, was sitting with MIQ. A lot of that was sitting with \nAuckland Regional Public Health Service, in the sense that they weren’t necessarily \nreferring cases to MIQ and giving them the information to go and collect people in as \ntimely a manner as we would like them to. I understand that that blockage has now been \nresolved and that they are now —once the case investigation part, the interview part, is \ncomplete—referring those cases to MIQ and MIQ are collecting them within 24 hours. \nChris Bishop: How can it possibly be the case that no is sues were raised in infection \ncontrol audits about both the public walkway next to the exercise area and the public \natrium at the Crowne Plaza, and if both those issues pass muster, why have both situations \nbeen ameliorated as a matter of urgency in recent days? \nHon CHRIS HIPKINS : In terms of the walkway beside the Crowne Plaza, it’s \nimportant to note that there is a high, solid wall between the area where people could have \nbeen exercising and anyone walking through the walkway. If we we re to determine that \na solid wall is insufficient protection, that would mean almost all of our MIQ facilities \nwould have to stop being used. The issue is whether there was potential for airflow \nbetween the exercise area and the walkway, and the overall co nclusion of previous \ninfection and prevention and control audits was that there wasn’t. In terms of the atrium, \nwhere the perspex screen did not go all the way to the ceiling, that was not picked up by \nprevious infection and prevention and control audits. It is something that they’ll look \nclosely at as to whether or not it should have been picked up. It has now been remediated. \nChris Bishop : Why are COVID -positive people allowed to exercise in the \nunderground car park at the Grand Mercure in Wellington, when the Prime Minister just \ntold the 1 p.m. press conference that COVID -positive people were confined to their \nrooms? \nHon CHRIS HIPKINS: The overall issue of exercise of people in MIQ is a topic of \nconversation with the Omb udsman, who has some very strong views on this particular \ncase, including Mandela rights, which suggest that people in incarceration should still be \nable to get outside at least once a day to see the sky. In terms of the Grand Mercure facility \nin Wellington, people who are in that facility can exercise in, effectively, an enclosed car \npark—although the sides of the car park are open, but they are well distanced from \nanybody else. The Grand Mercure in Wellington is used as a combined quarantine and \nisolation facility. Those who are in quarantine have much more stringent requirements \naround them than those who are in isolation. \nChris Bishop: How many rooms at the Novotel in Ellerslie, the Ibis in Auckland, and \nthe Holiday Inn Auckland have air filtration systems installed in the rooms? \nHon CHRIS HIPKINS: I don’t have that particular number to hand. \nQuestion No. 7—Health \n7. MATT DOOCEY (National —Waimakariri) to the Minister of Health : How \ndoes he reconcile Dr Susanna Every -Palmer’s research that one year after the first \nlockdown, levels of psychological distress remained elevated, even though there were no \nlockdown restrictions in place, with his comment that “Wellbeing dipped slightly during \nMarch-April 2020’s Alert Level 4, but quickly recovered as alert levels decreased”, and \n4658 Oral Questions 2 Sep 2021 \n \ndoes he now recognise that higher levels of mental distress have continued to be fe lt in \nthe community as a result of COVID-19? \nHon ANDREW LITTLE (Minister of Health) : The member is referring to two \ndifferent conclusions drawn from two different studies with comp letely different \nmethodologies. I’m advised that Dr Susanna Every -Palmer’s conclusions were drawn \nfrom a survey of roughly 2,000 people in April 2021 as a follow -up to a survey she \nconducted in April last year. My comments related to the Ministry of Health New Zealand \nhealth pulse survey of 29,000 New Zealanders conducted last year from April to \nSeptember. In response to the second part of the question, it is a statement of the bleeding \nobvious that the disruption caused by and the health risk created by th e COVID -19 \npandemic has had an effect on the mental wellbeing of New Zealanders. We know there \nare elevated levels of anxiety in the community, and that is why we have invested in a \nnumber of initiatives to provide additional support to people during lockdown. \nMatt Doocey: In response to the Minister’s answer “bleeding obvious”, what actions \nhas the Minister taken to ensure mental health support for the 35 percent of tourism \noperators where mental health concerns have been identified as a result of the impacts of \nCOVID-19? \nHon ANDREW LITTLE: Earlier this year, my colleague the Hon Stuart Nash made \na specific announcement and launched a specific package of mental health support for \ntourism operators. \nMatt Doocey: What actions has the Minister taken to ensure mental health support for \nthe 50 percent of small -business owners where mental health concerns have been \nidentified as a result of the impacts of COVID-19? \nHon ANDREW LITTLE : By way of contrast to the neglect shown to the mental \nhealth sector by the previous Government over nine years, this Government has invested \nheavily in the mental health support and services in this country. So the additional 560 \nfulltime-equivalent people who now stand at the front line in GP clinics and comparable \nclinics are available to support people, whether small-business owners or otherwise, with \ntheir mild to moderate mental health issues, both through lockdowns such as this and at \nany other time during the year. \nMatt Doocey: In response to the Minister’s answers about the front-line mental health \nservices, what does he say to the tourism operators and small-business owners who might \nbe registered at the over 70 percent of GP practices who still don’t deliver that front-line \nmental health service two years after it was announced? \nHon ANDREW LITTLE : I say to those people that in addition to that particular \nprogramme of work, which is a four- to five-year programme of work that we are roughly \nhalfway through, we have provided online help as well: telehealth services, including \n1737, and expanded and boosted that service; and for younger people we have, in fact, \neven just recently, provided additional funding to services such as Y outhline, OutLine, \nand we’ve recently called for quick bids for others providing mental health support to \nyoung people, particularly to Māori and Pacific populations. \nMatt Doocey: Why was funding stopped for the successful It’s All Right camp aign, \nwhich provided COVID -19 - related mental health promotion and awareness resources \nlast year in the lockdown?  \nHon ANDREW LITTLE : This Government has continued a range of psychosocial \nsupport services that were started during lockdown 2020 and continue now. These include \ndigital wellbeing services and they include Whakatau Mai wellbeing sessions, Staying on \nTrack, Small Steps, and Getting Through Together. There is a range of online and \ntelehealth services available to New Zealanders.  \nMatt Doocey : Point of order, Mr Speaker. I specifically asked why was funding \nstopped for a specific programme.  \n2 Sep 2021 Oral Questions 4659 \n \nSPEAKER: Yes, and if the member’s original question had referred to that specific \nprogramme, then the member could expect a specific answer. There are a series of very \ngood rulings, including that from my predecessor —who I know the member knows \nwell—which indicate that to get a specific answer, you’ve got to ask a specific question.  \nMatt Doocey: Thank you very much for that ruling, Mr Speaker. My supplementary: \nwith younger people reporting higher rates of COVID -19 - related mental distress, what \nactions has he taken since last year’s lockdown to address the doubling of the number of \nchildren who are waiting more than eight weeks for treatment?  \nHon ANDREW LITTLE : I refer to the measures that I have already referred to in \nthis session that the Government has taken in terms of online and telehealth services. The \nMinistry of Health continues to work with those DHBs who are experiencing elevated \nlevels of demand for acute services, and that is a piece of ongoing work.  \nHon James Shaw: What extra support is the Government making available to front -\nline youth mental health services in Auckland during the lockdown?  \nHon ANDREW LITTLE: In about the first week of this lockdown, this Government, \nbecause of the extraordinary level of demand that was being experienced by Youthline \nand OutLine to telehealth services that are available to young people, we provided \nadditional support—$275,000—to Youthline, additional funding to OutLine, and we have \nrecently called for bids in a very quick format for other services that are providing support \nto, particularly, rangitahi and young Pacific people.  \nURGENT QUESTIONS \nUrgent Question to Minister—Declined \nSPEAKER: Members, I have received from Chris Bishop an application for an urgent \nquestion and, because of our unusual circumstances, I haven’t been able to communicate \nin the way that I normally would as to whether it is accepted or not. \nI have decided to decline the question, and I’m giving reasons, notwithstanding the \nrulings that generally Speakers shouldn’t, because I haven’t been able to do that in the \ncurrent circumstances. I will refer the member to Spe akers’ rulings 197/5 -6 and 198/1, \nwhich essentially indicate that an urgent question is important if something is ongoing \nand needs the immediate attention of the House. In this particular question, which is about \na COVID-positive person who had escaped from a facility, if that person was still in the \ncommunity, then I think it would be appropriate for the question to be asked. Now, the \nsecond leg of the question goes to the investigation, and that is, I think, a question which \ncould be asked at some stage in the future and doesn’t have to be asked today. \nIn accordance with the determination of the Business Committee the House stands \nadjourned until 2 p.m. on Tuesday, 7 September 2021. \nThe House adjourned at 2.44 p.m. \n  \n \n \n \n \nIndex to \n \nThursday, 2 September 2021 \n \nEXPLANATION OF ABBREVIATIONS \n \n1R—First Reading  \n2R—Second Reading  \n3R—Third Reading  \nCWH—Committee of the whole House \nLS—Legislative Statement \n \nBILLS \n \nLegislation is listed under BILLS. The name of an originating bill that has been divided into separate \nbills is shown in italics after the names of the new bills.  \n \nORAL QUESTIONS \n \nQuestions are listed under ORAL QUESTIONS by ministerial portfolio. \n \n______________________________________ \n \n \nBISHOP, CHRIS— \nOral Questions— \nCOVID-19 Response— \nManaged Isolation and Quarantine, \n4656 \nBILLS— \nAppropriation (2021/22 Estimates) Bill, \nCWH, 4649 \nBUSINESS OF THE HOUSE— \nEstimates Debate— \nPresiding Officer, 4649 \nCOLLINS, Hon JUDITH— \nOral Questions— \nCOVID-19 Response— \nVaccination, 4651 \nDOOCEY, MATT— \nOral Questions— \nCOVID-19 Response— \nMental Health Support, 4657 \nMcCLAY, Hon TODD— \nOral Questions— \nCOVID-19 Response— \nBusinesses, Government Support, \n4655 \nResurgence Support Payment, 4655 \nORAL QUESTIONS— \nCOVID-19 Response— \nManaged Isolation and Quarantine, 4656 \nFinance— \nCOVID-19 Response— \nBusinesses, Government Support, \n4655 \nORAL QUESTIONS—continued \nFinance—continued \nCOVID-19 Response—continued \nHardship, Measures to Address, 4654 \nResurgence Support Payment, 4655 \nWage Subsidy Scheme, 4653 \nHealth— \nCOVID-19 Response— \nMental Health Support, 4657 \nPrime Minister— \nCOVID-19 Response— \nAlert Levels, South Island, 4650 \nVaccination, 4651 \nSEYMOUR, DAVID— \nOral Questions— \nCOVID-19 Response— \nAlert Levels, South Island, 4650 \nSHAW, Hon JAMES— \nOral Questions— \nCOVID-19 Response— \nHardship, Measures to Address, 4654 \nSPEAKERS AND PRESIDING \nOFFICERS— \nRulings— \nUrgent Questions— \nDeclined, 4659 \nUPSTON, Hon LOUISE— \nOral Questions— \nCOVID-19 Response— \nWage Subsidy Scheme, 4653 ",
+  "raw_text_length": 45490,
+  "parser": "scrape_hansard.py/v1.2-pdf"
+}
