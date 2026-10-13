@@ -1,0 +1,2338 @@
+{
+  "date": "2019-03-19",
+  "url": "https://hansard.parliament.nz/api/resources/daily/related/2019-03-19/2019-03-19-daily.pdf",
+  "source": "daily-pdf",
+  "scraped_at": "2026-10-13T22:09:22.166678+00:00",
+  "title": "Published under the authority of the House of Representatives—2019",
+  "sections": [
+    {
+      "heading": "Body",
+      "items": [
+        {
+          "type": "text",
+          "text": "Fifty-second Parliament"
+        },
+        {
+          "type": "text",
+          "text": "Parliamentary Debates"
+        },
+        {
+          "type": "text",
+          "text": "(HANSARD)"
+        }
+      ]
+    },
+    {
+      "heading": "Final Daily",
+      "items": [
+        {
+          "type": "text",
+          "text": "Tuesday, 19 March 2019"
+        },
+        {
+          "type": "text",
+          "text": "(for inclusion in Volume 737)"
+        }
+      ]
+    },
+    {
+      "heading": "Wellington, New Zealand",
+      "items": [
+        {
+          "type": "text",
+          "text": "Published under the authority of the House of Representatives—2019"
+        },
+        {
+          "type": "text",
+          "text": "TUESDAY, 19 MARCH 2019"
+        }
+      ]
+    },
+    {
+      "heading": "Table Of Contents",
+      "items": [
+        {
+          "type": "text",
+          "text": "PRAYERS ............................................................................................................ 10071"
+        },
+        {
+          "type": "text",
+          "text": "MINISTERIAL STATEMENTS—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—Christchurch .......................................................... 10072"
+        },
+        {
+          "type": "text",
+          "text": "SITTINGS OF THE HOUSE ............................................................................... 10080"
+        },
+        {
+          "type": "text",
+          "text": "19 Mar 2019 Prayers 10071"
+        },
+        {
+          "type": "text",
+          "text": "TUESDAY, 19 MARCH 2019"
+        },
+        {
+          "type": "text",
+          "text": "The Speaker took the Chair at 2 p.m."
+        },
+        {
+          "type": "text",
+          "text": "PRAYERS"
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Assalamo alaikum. As part of our expression of sorrow and of our hope"
+        },
+        {
+          "type": "text",
+          "text": "following the terrorist attack in Christchurch, I have invited Imam Nizam ul haq Thanvi"
+        },
+        {
+          "type": "text",
+          "text": "to say a prayer. He will do so in Arabic and then it will be repeated in English by Tahir"
+        },
+        {
+          "type": "text",
+          "text": "Nawaz. Following this, my colleague Adrian Rurawhe will say the parliamentary prayer"
+        },
+        {
+          "type": "text",
+          "text": "in Te Reo, and it will be repeated by Anne Tolley in English."
+        },
+        {
+          "type": "speech",
+          "speaker": "NIZAM UL HAQ THANVI",
+          "role": "",
+          "time": "",
+          "text": ""
+        },
+        {
+          "type": "text",
+          "text": "أعوذ بالله من الشيطان الرجيم"
+        },
+        {
+          "type": "text",
+          "text": "بسم الله الرحمن الرحيم"
+        },
+        {
+          "type": "text",
+          "text": "[ يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلََةِ إِنَّ اللَََّّ مَعَ الصَّابِرِينَ 153  وَلََ تَقُولُوا لِمَن يُقْتَلُ فِي ]"
+        },
+        {
+          "type": "text",
+          "text": "سَبِيلِ ا[للََِّّ أَمْوَاتٌ بَلْ أَحْيَاءٌ وَلََٰكِن لََّ تَشْعُرُونَ 154 وَلَنَبْلُوَنَّكُم بِشَيْءٍ م ِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ م ِنَ ]"
+        },
+        {
+          "type": "text",
+          "text": "[ الَْْمْوَالِ وَالَْْنفُسِ وَالثَّمَرَاتِ وَبَش ِرِ الصَّابِرِينَ 155الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا ]  للََِِّّ وَإِنَّا إِلَيْهِ"
+        },
+        {
+          "type": "text",
+          "text": "[رَاجِعُونَ 156]"
+        },
+        {
+          "type": "text",
+          "text": "صدق الله مولَنا العظيم"
+        },
+        {
+          "type": "text",
+          "text": "وصدق رسوله النبي الكريم"
+        },
+        {
+          "type": "text",
+          "text": "ونحن على ذلك من الشاهدين والشاكرين والحمد لله رب العالمين"
+        },
+        {
+          "type": "text",
+          "text": "اللآيات [153-156 ]من سورة البقرة"
+        },
+        {
+          "type": "speech",
+          "speaker": "TAHIR NAWAZ",
+          "role": "",
+          "time": "",
+          "text": "These verses are called the verses of patienc e, which provide"
+        },
+        {
+          "type": "text",
+          "text": "comfort and reassurance. Here is the translation of these verses:"
+        },
+        {
+          "type": "text",
+          "text": "Oh all who believe, ask for help with patience and prayers. Verily, God is with"
+        },
+        {
+          "type": "text",
+          "text": "people who are patient. Do not call those who are killed in the way of God as dead. In"
+        },
+        {
+          "type": "text",
+          "text": "fact, they are alive, but you do not realise this. Indeed, we will test you with"
+        },
+        {
+          "type": "text",
+          "text": "something—fear, hunger, loss of wealth, lives, and fruits —and give glad tidings to"
+        },
+        {
+          "type": "text",
+          "text": "those who are patient in trial when those who are afflicted with calamity say “Verily, we"
+        },
+        {
+          "type": "text",
+          "text": "belong to God, and truly to him we shall return.”"
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, our honourable Prime Minister has said that Friday, 15 March was one of"
+        },
+        {
+          "type": "text",
+          "text": "the darkest days in New Zealand’s history. Oh Lord, make this day a source of light for"
+        },
+        {
+          "type": "text",
+          "text": "this country and the entire world—the light which unites us all as one family."
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, our Prime Minister; the Deputy Prime Minister; the Governor -General;"
+        },
+        {
+          "type": "text",
+          "text": "Speaker of the House; many other MPs; the police; mayors of Wellington, Christchurch,"
+        },
+        {
+          "type": "text",
+          "text": "and other cities; the medical staff in Christchurch; othe r organisations and religious"
+        },
+        {
+          "type": "text",
+          "text": "groups; and all New Zealanders have dedicated their time and effort to help and support"
+        },
+        {
+          "type": "text",
+          "text": "us. Oh Lord, I ask you to help and bless them all, and reward them accordingly."
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, we ask you to accept those who lost their lives a s martyrs, and give them"
+        },
+        {
+          "type": "text",
+          "text": "the highest position in paradise."
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, we ask you to give full recovery to all those who were injured."
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, we ask you to grant patience and hope to all the family members affected"
+        },
+        {
+          "type": "text",
+          "text": "by this tragedy."
+        },
+        {
+          "type": "text",
+          "text": "Oh Lord, we ask you to protect New Zealand and the whole world from such"
+        },
+        {
+          "type": "text",
+          "text": "calamities. Amen."
+        },
+        {
+          "type": "speech",
+          "speaker": "ADRIAN RURAWHE",
+          "role": "Assistant Speaker —Labour",
+          "time": "",
+          "text": "E Te Atua Kaha Rawa, ka"
+        },
+        {
+          "type": "text",
+          "text": "tuku whakamoemiti mātou mō ngā karakia ku a waihotia mai ki runga i a mātou. Ka"
+        },
+        {
+          "type": "text",
+          "text": "waiho i ō mātou pānga waiaro katoa ki te taha. Ka mihi mātou ki te Kuini me te inoi atu"
+        },
+        {
+          "type": "text",
+          "text": "mō ngā ārahitanga i roto i ō mātou whakaaroarohanga, kia mōhio ai kia whakaiti ai tā"
+        },
+        {
+          "type": "text",
+          "text": "10072 Prayers 19 Mar 2019"
+        },
+        {
+          "type": "text",
+          "text": "mātou whakahaere i ngā take o Te Whare nei, m ō te oranga, te maungārongo, me te"
+        },
+        {
+          "type": "text",
+          "text": "aroha o Aotearoa."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon ANNE TOLLEY",
+          "role": "Deputy Speaker —National",
+          "time": "",
+          "text": "Almighty God, we give"
+        },
+        {
+          "type": "text",
+          "text": "thanks for the blessings which have been bestowed on us. Layi ng aside all personal"
+        },
+        {
+          "type": "text",
+          "text": "interests, we acknowledge the Queen and pray for guidance in our deliberations, that we"
+        },
+        {
+          "type": "text",
+          "text": "may conduct the affairs of this House with wisdom, justice, mercy, and humility for the"
+        },
+        {
+          "type": "text",
+          "text": "welfare and peace of New Zealand. Amen."
+        }
+      ]
+    },
+    {
+      "heading": "Ministerial Statements",
+      "items": [
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—Christchurch"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "Prime Minister",
+          "time": "",
+          "text": "I wish to make a ministerial"
+        },
+        {
+          "type": "text",
+          "text": "statement relating to the Christchurch mosque terror attacks. Al salam alaikum . Peace"
+        },
+        {
+          "type": "text",
+          "text": "be upon you, and peace be upon all of us."
+        },
+        {
+          "type": "text",
+          "text": "The 15th of March will now be for ever a day etched in our collective memories. On a"
+        },
+        {
+          "type": "text",
+          "text": "quiet Friday afternoon, a man stormed into a place of peaceful worship and took away"
+        },
+        {
+          "type": "text",
+          "text": "the lives of 50 people. That quiet Friday afternoon has become our darkest of days. But"
+        },
+        {
+          "type": "text",
+          "text": "for the families, it was more than that. It was the day that the simple act of prayer, of"
+        },
+        {
+          "type": "text",
+          "text": "practising their Muslim faith and religion, led to the loss of their loved ones’ lives."
+        },
+        {
+          "type": "text",
+          "text": "Those loved ones were bro thers, daughters, fathers, and children. They were New"
+        },
+        {
+          "type": "text",
+          "text": "Zealanders. They are us. And because they are us, we, as a nation, mourn them. We feel"
+        },
+        {
+          "type": "text",
+          "text": "a huge duty of care to them, and we have so much we feel the need to say and to do."
+        },
+        {
+          "type": "text",
+          "text": "One of the roles I never antic ipated having, and hoped never to have, was to voice"
+        },
+        {
+          "type": "text",
+          "text": "the grief of a nation. At this time, it has been second only to securing the care of those"
+        },
+        {
+          "type": "text",
+          "text": "affected and the safety of everyone. In this role, I wanted to speak directly to the"
+        },
+        {
+          "type": "text",
+          "text": "families. We cannot know yo ur grief but we can walk with you at every stage. We can"
+        },
+        {
+          "type": "text",
+          "text": "and will surround you with aroha, manaakitanga, and all that makes us us. Our hearts"
+        },
+        {
+          "type": "text",
+          "text": "are heavy but our spirit is strong."
+        },
+        {
+          "type": "text",
+          "text": "Less than six minutes after a 111 call was placed alerting the police to the s hootings"
+        },
+        {
+          "type": "text",
+          "text": "at Al Noor Mosque, police were on the scene. The arrest itself was nothing short of an"
+        },
+        {
+          "type": "text",
+          "text": "act of bravery. Two country police officers rammed the vehicle from which the offender"
+        },
+        {
+          "type": "text",
+          "text": "was still shooting. They pulled open his car door, when there were explos ives inside,"
+        },
+        {
+          "type": "text",
+          "text": "and pulled him out. I know we all wish to acknowledge that their acts put the safety of"
+        },
+        {
+          "type": "text",
+          "text": "New Zealanders above their own, and we thank them, but they were not the only ones"
+        },
+        {
+          "type": "text",
+          "text": "who showed extraordinary courage. Naeem Rashid, originally from Pakistan , died after"
+        },
+        {
+          "type": "text",
+          "text": "rushing at the terrorist and trying to wrestle the gun from him. He lost his life trying to"
+        },
+        {
+          "type": "text",
+          "text": "save those who were worshipping alongside him. Abdul Aziz, originally from"
+        },
+        {
+          "type": "text",
+          "text": "Afghanistan, confronted and faced down the armed terrorist after grabbing th e nearest"
+        },
+        {
+          "type": "text",
+          "text": "thing to hand —a simple EFTPOS machine. He risked his life, and no doubt saved"
+        },
+        {
+          "type": "text",
+          "text": "many, with his selfless bravery. There will be countless stories, some of which we may"
+        },
+        {
+          "type": "text",
+          "text": "never know, but to each we acknowledge you in this place, in this House."
+        },
+        {
+          "type": "text",
+          "text": "For many of us, the first sign of the scale of this terrorist attack was the images of"
+        },
+        {
+          "type": "text",
+          "text": "ambulance staff transporting victims to Christchurch Hospital. To the first responders,"
+        },
+        {
+          "type": "text",
+          "text": "the ambulance staff, and the health professionals who have assisted and who continue to"
+        },
+        {
+          "type": "text",
+          "text": "assist those who have been injured, please accept the heartfelt thanks of us all. I saw"
+        },
+        {
+          "type": "text",
+          "text": "first-hand your care and your professionalism in the face of extraordinary challenges."
+        },
+        {
+          "type": "text",
+          "text": "We are proud of your work and incredibly grateful for it."
+        },
+        {
+          "type": "text",
+          "text": "Mr Speaker, if you’ll al low, I’d like to talk about some of the immediate measures"
+        },
+        {
+          "type": "text",
+          "text": "currently in place, especially to ensure the safety of our Muslim community, and, more"
+        },
+        {
+          "type": "text",
+          "text": "broadly, the safety of everyone. As a nation, we do remain on high alert. While there"
+        },
+        {
+          "type": "text",
+          "text": "isn’t a specific threat at present, we are maintaining vigilance. Unfortunately, we have"
+        },
+        {
+          "type": "text",
+          "text": "seen in countries that know the horrors of terrorism more than us that there is a pattern"
+        },
+        {
+          "type": "text",
+          "text": "19 Mar 2019 Ministerial Statements 10073"
+        },
+        {
+          "type": "text",
+          "text": "of increased tension and actions over the weeks that follow that mean that we need to"
+        },
+        {
+          "type": "text",
+          "text": "ensure that vig ilance is maintained. There is an additional and on -going security"
+        },
+        {
+          "type": "text",
+          "text": "presence in Christchurch, and, as the police have indicated, there will continue to be a"
+        },
+        {
+          "type": "text",
+          "text": "police presence at mosques around the country while their doors are open. When they"
+        },
+        {
+          "type": "text",
+          "text": "are closed, police will be in the vicinity."
+        },
+        {
+          "type": "text",
+          "text": "There is a huge focus on ensuring the needs of families are met. That has to be our"
+        },
+        {
+          "type": "text",
+          "text": "priority. A community welfare centre has been set up near the hospital in Christchurch"
+        },
+        {
+          "type": "text",
+          "text": "to make sure people know how to access support. Visas for  family members overseas"
+        },
+        {
+          "type": "text",
+          "text": "are being prioritised so that they can attend funerals. Funeral costs are covered, and we"
+        },
+        {
+          "type": "text",
+          "text": "have moved quickly to ensure that this includes repatriation costs for any family"
+        },
+        {
+          "type": "text",
+          "text": "members who would like to move their loved ones away from N ew Zealand. We are"
+        },
+        {
+          "type": "text",
+          "text": "working to provide mental health and social support. The 1737 number yesterday"
+        },
+        {
+          "type": "text",
+          "text": "received roughly 600 texts or phone calls. They are, on average, lasting around 40"
+        },
+        {
+          "type": "text",
+          "text": "minutes, and I encourage anyone in need of reaching out to use these servic es—they are"
+        },
+        {
+          "type": "text",
+          "text": "there for you."
+        },
+        {
+          "type": "text",
+          "text": "Our language service has also provided support from more than 5,000 contacts,"
+        },
+        {
+          "type": "text",
+          "text": "ensuring, whether you are ACC or the Ministry of Social Development, you’re able to"
+        },
+        {
+          "type": "text",
+          "text": "pass on the support that is needed in the language that is needed. To all those working"
+        },
+        {
+          "type": "text",
+          "text": "within this service, we say thank you. Our security and intelligence services are"
+        },
+        {
+          "type": "text",
+          "text": "receiving a range of additional information. As has been the case in the past, these are"
+        },
+        {
+          "type": "text",
+          "text": "being taken extremely seriously and they are being followed up."
+        },
+        {
+          "type": "text",
+          "text": "I know, though, that there have, rightly, been questions around how this could have"
+        },
+        {
+          "type": "text",
+          "text": "happened here in a place that prides itself on being open, peaceful, diverse, and there is"
+        },
+        {
+          "type": "text",
+          "text": "anger that it has happened here. There are many questions that need to be answer ed, and"
+        },
+        {
+          "type": "text",
+          "text": "the assurance that I give you is that they will be. Yesterday, Cabinet agreed that an"
+        },
+        {
+          "type": "text",
+          "text": "inquiry—one that looks into the events that led up to the attack on 15 March —will"
+        },
+        {
+          "type": "text",
+          "text": "occur. We will examine what we did know, could have known, or should have known."
+        },
+        {
+          "type": "text",
+          "text": "We cannot allow this to happen again."
+        },
+        {
+          "type": "text",
+          "text": "Part of ensuring the safety of New Zealanders must include a frank examination of"
+        },
+        {
+          "type": "text",
+          "text": "our gun laws. As I’ve already said, our gun laws will change. Cabinet met yesterday and"
+        },
+        {
+          "type": "text",
+          "text": "made in -principle decisions 72 hours after the  attack. Before we meet again next"
+        },
+        {
+          "type": "text",
+          "text": "Monday, these decisions will be announced."
+        },
+        {
+          "type": "text",
+          "text": "There is one person at the centre of this terror attack against our Muslim community"
+        },
+        {
+          "type": "text",
+          "text": "in New Zealand. A 28 -year-old man, an Australian citizen, has been charged with one"
+        },
+        {
+          "type": "text",
+          "text": "count of murder; other charges will follow. He will face the full force of the law in New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand. The families of the fallen will have justice. He sought many things from his act"
+        },
+        {
+          "type": "text",
+          "text": "of terror, but one was notoriety, and that is why you will never hear me mention his"
+        },
+        {
+          "type": "text",
+          "text": "name. He is a terrorist, he is a criminal, he is an extremist, but he will, when I speak, be"
+        },
+        {
+          "type": "text",
+          "text": "nameless, and to others I implore you: speak the names of those who were lost rather"
+        },
+        {
+          "type": "text",
+          "text": "than the name of the man who took them. He may have sought notoriety but we i n New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand will give him nothing—not even his name."
+        },
+        {
+          "type": "text",
+          "text": "We will also look at the role social media played and what steps we can take,"
+        },
+        {
+          "type": "text",
+          "text": "including on the international stage and in unison with our partners. There is no"
+        },
+        {
+          "type": "text",
+          "text": "question that ideas and language of division and hate have existed for decades, but their"
+        },
+        {
+          "type": "text",
+          "text": "form of distribution, the tools of organisation—they are new. We cannot simply sit back"
+        },
+        {
+          "type": "text",
+          "text": "and accept that these platforms just exist and that what is said on them is not the"
+        },
+        {
+          "type": "text",
+          "text": "responsibility of the place where they are published. They are the publisher, not just the"
+        },
+        {
+          "type": "text",
+          "text": "postman. There cannot be a case of all profit, no responsibility."
+        },
+        {
+          "type": "text",
+          "text": "This of course doesn’t take away the responsibility we too must show as a nation to"
+        },
+        {
+          "type": "text",
+          "text": "confront racism, violence, and extremism. I don’t have all of the answers now, but we"
+        },
+        {
+          "type": "text",
+          "text": "must collectively find them and we must act. We are deeply grateful for all the"
+        },
+        {
+          "type": "text",
+          "text": "10074 Ministerial Statements 19 Mar 2019"
+        },
+        {
+          "type": "text",
+          "text": "messages of sympathy, support, and solidarity that we are receiving from our friends all"
+        },
+        {
+          "type": "text",
+          "text": "around the world, and we are grateful to the global Muslim community who have stood"
+        },
+        {
+          "type": "text",
+          "text": "with us, and we stand with them."
+        },
+        {
+          "type": "text",
+          "text": "I acknowledge that we also stand with Christchurch and the devastating blow that"
+        },
+        {
+          "type": "text",
+          "text": "this has been to their recovery, and I acknowledge every member of this House who has"
+        },
+        {
+          "type": "text",
+          "text": "stood alongside their Muslim community, but especially those in Canterbury as we"
+        },
+        {
+          "type": "text",
+          "text": "acknowledge this double grief."
+        },
+        {
+          "type": "text",
+          "text": "As I conclude, I acknowledge that there are many stories that will have struck all of"
+        },
+        {
+          "type": "text",
+          "text": "us since 15 March. One I wish to mention is that of Hati Mohemmed Daoud Na bi. He"
+        },
+        {
+          "type": "text",
+          "text": "was a 71 -year-old man who opened the door at the Al Noor Mosque and uttered the"
+        },
+        {
+          "type": "text",
+          "text": "words “Hello, brother, welcome.” —his final words. Of course, he had no idea of the"
+        },
+        {
+          "type": "text",
+          "text": "hate that sat behind that door, but his welcome tells us so much —that he was a member"
+        },
+        {
+          "type": "text",
+          "text": "of a faith that welcomed all its members, that showed openness and care."
+        },
+        {
+          "type": "text",
+          "text": "I’ve said many times that we are a nation of 200 ethnicities, 160 languages. We open"
+        },
+        {
+          "type": "text",
+          "text": "our doors to others and say welcome. The only thing that must change after the events"
+        },
+        {
+          "type": "text",
+          "text": "of Friday is  that this same door must close on all of those who espouse hate and fear."
+        },
+        {
+          "type": "text",
+          "text": "Yes, the person who committed these acts was not from here. He was not raised here."
+        },
+        {
+          "type": "text",
+          "text": "He did not find his ideology here. But that is not to say that those very same views do"
+        },
+        {
+          "type": "text",
+          "text": "not live here."
+        },
+        {
+          "type": "text",
+          "text": "I know that as a nation, we wish to provide every comfort we can to our Muslim"
+        },
+        {
+          "type": "text",
+          "text": "community in this darkest of times, and we are. The mountain of flowers around the"
+        },
+        {
+          "type": "text",
+          "text": "country that lie at the doors of mosques, and the spontaneous songs outside the gates —"
+        },
+        {
+          "type": "text",
+          "text": "these are ways of expressing an outpouring of love and empathy. But we wish to do"
+        },
+        {
+          "type": "text",
+          "text": "more. We wish for every member of our communities to also feel safe. Safety means"
+        },
+        {
+          "type": "text",
+          "text": "being free from the fear of violence, but it also means being free from the fear of those"
+        },
+        {
+          "type": "text",
+          "text": "sentiments of racism and hate that create a place where violence can flourish, and every"
+        },
+        {
+          "type": "text",
+          "text": "single one of us has the power to change that."
+        },
+        {
+          "type": "text",
+          "text": "On Friday, it will be a week since the attack. Members of the Muslim community"
+        },
+        {
+          "type": "text",
+          "text": "will gather for worship on that day. Let us  acknowledge their grief as they do. Let’s"
+        },
+        {
+          "type": "text",
+          "text": "support them as they gather again for worship. We are one. They are us. Tātou, tātou. Al"
+        },
+        {
+          "type": "text",
+          "text": "salam alaikum. Weh Rahmat Allah. Weh Barakaatuh."
+        },
+        {
+          "type": "speech",
+          "speaker": "Hon SIMON BRIDGES",
+          "role": "Leader of the Opposition",
+          "time": "",
+          "text": "As New Zealand woke on 15"
+        },
+        {
+          "type": "text",
+          "text": "March 2019, none of us could have imagined the horror and terror about to be"
+        },
+        {
+          "type": "text",
+          "text": "unleashed on our people. As mums and d ads, brothers and sisters, and sons and"
+        },
+        {
+          "type": "text",
+          "text": "daughters in Christchurch went to work or to school or to prayer, none of them thought"
+        },
+        {
+          "type": "text",
+          "text": "for a moment that they would return home that night changed for ever. For 50 of the"
+        },
+        {
+          "type": "text",
+          "text": "worshippers who entered Al Noor Mosque and th e Linwood Islamic Centre in"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch for Jumu’ah, for Friday prayers, it would be their last day in this world."
+        },
+        {
+          "type": "text",
+          "text": "These New Zealanders had their lives ended, and all of us changed for ever."
+        },
+        {
+          "type": "text",
+          "text": "For some, New Zealand had been their home for a long time. They had made their"
+        },
+        {
+          "type": "text",
+          "text": "lives here working in our businesses, going to our schools, living in rich and diverse"
+        },
+        {
+          "type": "text",
+          "text": "communities, and espousing everything good about our nation. For some, New Zealand"
+        },
+        {
+          "type": "text",
+          "text": "was somewhere they found solace in a world full of problems. New Zealan d was for"
+        },
+        {
+          "type": "text",
+          "text": "them a new, a fresh, opportunity: the chance to live in a country which embraced"
+        },
+        {
+          "type": "text",
+          "text": "tolerance, respect, compassion, opportunity, and freedom to be who you want to be. It"
+        },
+        {
+          "type": "text",
+          "text": "was for them, as it is for us, the best little country in the world. We let the m down, and"
+        },
+        {
+          "type": "text",
+          "text": "for that we are sorry."
+        },
+        {
+          "type": "text",
+          "text": "The unimaginable hurt that our Islamic community is feeling is shared amongst all"
+        },
+        {
+          "type": "text",
+          "text": "New Zealanders, because I know that every New Zealander feels this wasn’t just"
+        },
+        {
+          "type": "text",
+          "text": "something targeted at our Islamic community or just at Christchurch, as real as that is; it"
+        },
+        {
+          "type": "text",
+          "text": "has happened to all New Zealanders, and all New Zealanders are grieving with them."
+        },
+        {
+          "type": "text",
+          "text": "19 Mar 2019 Ministerial Statements 10075"
+        },
+        {
+          "type": "text",
+          "text": "Over the past four days, there’s been a lot of soul -searching, reflection, sadness,"
+        },
+        {
+          "type": "text",
+          "text": "anger, and shame across New Zealand and around the world.  On Saturday, I joined the"
+        },
+        {
+          "type": "text",
+          "text": "Prime Minister and other party leaders in Christchurch for what was a day of anguish"
+        },
+        {
+          "type": "text",
+          "text": "and tears. It was moving, it was uplifting, it was tragic, and it was humbling. I was"
+        },
+        {
+          "type": "text",
+          "text": "privileged to meet with the Christchurch Islamic community  and the many people who"
+        },
+        {
+          "type": "text",
+          "text": "came to support them."
+        },
+        {
+          "type": "text",
+          "text": "I came away realising that we all have a choice following the violence that tore"
+        },
+        {
+          "type": "text",
+          "text": "through their community: to choose fear, hate, or anger; or to choose compassion, love,"
+        },
+        {
+          "type": "text",
+          "text": "and forgiveness. Martin Luther King said  it so well: “Returning hate for hate multiplies"
+        },
+        {
+          "type": "text",
+          "text": "hate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive"
+        },
+        {
+          "type": "text",
+          "text": "out darkness; only light can do that. Hate cannot drive out hate; only love can do that.”"
+        },
+        {
+          "type": "text",
+          "text": "Our strength as a nation is ou r compassion and our welcoming of diversity. It’s been"
+        },
+        {
+          "type": "text",
+          "text": "a hallmark of our culture for hundreds of years. This will not change us. At times like"
+        },
+        {
+          "type": "text",
+          "text": "these, we do not consider ourselves Christian or Muslim, Sikh or Jew, Māori or Pākehā,"
+        },
+        {
+          "type": "text",
+          "text": "Chinese, Pacific Islander,  Indian, or any other ethnicity —today and for ever we are all"
+        },
+        {
+          "type": "text",
+          "text": "New Zealanders."
+        },
+        {
+          "type": "text",
+          "text": "In recent day s, I’ve visited mosques in Auckland and Hamilton, adding my support"
+        },
+        {
+          "type": "text",
+          "text": "to the voices and prayers of hundreds of thousands of others around our country. They"
+        },
+        {
+          "type": "text",
+          "text": "welcomed me in, as they welcome in their wider communities, with open arms. Dr Asad"
+        },
+        {
+          "type": "text",
+          "text": "Mohsin from the Ōt āhuhu mosque told me, yesterday, that he chooses love over hate."
+        },
+        {
+          "type": "text",
+          "text": "We will choose love too."
+        },
+        {
+          "type": "text",
+          "text": "However, because our peaceful existence is so treasured, hard questions will need to"
+        },
+        {
+          "type": "text",
+          "text": "be asked about how this could occur here. Why are small networks of hateful peopl e"
+        },
+        {
+          "type": "text",
+          "text": "able to congregate online and elsewhere and attempt to sow disharmony? How can these"
+        },
+        {
+          "type": "text",
+          "text": "hateful people then take tangible steps to carry out evil acts? Do our police and"
+        },
+        {
+          "type": "text",
+          "text": "intelligence services have the people, the resources, the legislation, and the technolo gy"
+        },
+        {
+          "type": "text",
+          "text": "to seek out and prevent such acts? While these heinous acts were carried out by an"
+        },
+        {
+          "type": "text",
+          "text": "individual, there can be no doubt that he had sympathetic associates —certainly online"
+        },
+        {
+          "type": "text",
+          "text": "and possibly offline. How do we combat this in an age of social media and increasing"
+        },
+        {
+          "type": "text",
+          "text": "technological challenges?"
+        },
+        {
+          "type": "text",
+          "text": "These questions and others need to be asked of Government agencies, individuals,"
+        },
+        {
+          "type": "text",
+          "text": "companies, public commentators, and numerous other groups. The formal investigations"
+        },
+        {
+          "type": "text",
+          "text": "into these events need to be thorough, open, and honest. Nation al will play a"
+        },
+        {
+          "type": "text",
+          "text": "constructive role in this and in overhauling New Zealand’s firearms laws. Now no one"
+        },
+        {
+          "type": "text",
+          "text": "can understand why anyone needs military -style semi -automatic weapons for"
+        },
+        {
+          "type": "text",
+          "text": "recreational use."
+        },
+        {
+          "type": "text",
+          "text": "In addition, let’s see New Zealand re -evaluate the boundaries of  acceptable social"
+        },
+        {
+          "type": "text",
+          "text": "and political discussion. Our resolve now should be to take every opportunity to push"
+        },
+        {
+          "type": "text",
+          "text": "against extremism, to call out hate and fear when we see it, and to stand up to the vile"
+        },
+        {
+          "type": "text",
+          "text": "ideologies that exist to spread hate, fear, mistrust, and lies."
+        },
+        {
+          "type": "text",
+          "text": "It is always the case when tragic, evil acts occur that we see an immediate"
+        },
+        {
+          "type": "text",
+          "text": "counterweight of bravery and compassion. Christchurch has been no exception. Both"
+        },
+        {
+          "type": "text",
+          "text": "civilians and law and order professionals immediately showed superhuman courage in"
+        },
+        {
+          "type": "text",
+          "text": "the face of rapidly unfolding, extremely frightening, and unprecedented acts and events"
+        },
+        {
+          "type": "text",
+          "text": "in this land. Medical professionals have worked non -stop since, in truly horrific"
+        },
+        {
+          "type": "text",
+          "text": "circumstances, to save lives. I, like our Prime Minister, want to pay tribute to the New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand Police, the ambulance services, the Red Cross, our Defence Force, healthcare"
+        },
+        {
+          "type": "text",
+          "text": "workers, and the vast, vast range of volunteers who have done so much to try and soften"
+        },
+        {
+          "type": "text",
+          "text": "the brutal blow since Friday."
+        },
+        {
+          "type": "text",
+          "text": "While in Christchurch, I met with a young police officer. I kno w his family very"
+        },
+        {
+          "type": "text",
+          "text": "well. He was one of the first responders on the day of the shootings. He was emotional"
+        },
+        {
+          "type": "text",
+          "text": "10076 Ministerial Statements 19 Mar 2019"
+        },
+        {
+          "type": "text",
+          "text": "as he told me about what it was like that day. He has been a policeman for six years, but"
+        },
+        {
+          "type": "text",
+          "text": "he said no amount of training or experience could have prepar ed him for what he and"
+        },
+        {
+          "type": "text",
+          "text": "his colleagues faced that day. No one could be. All of those who were working that day"
+        },
+        {
+          "type": "text",
+          "text": "will never forget what they saw. To everyone who has responded on the ground in"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, thank you. You are heroes. New Zealand owes you a debt of gratitude."
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon WINSTON PETERS",
+          "role": "Deputy Prime Minister",
+          "time": "",
+          "text": "We acknowledge that the"
+        },
+        {
+          "type": "text",
+          "text": "Prime Minister speaks for the coalition Government and, indeed, because of that, we"
+        },
+        {
+          "type": "text",
+          "text": "would have preferred not to rise and speak, but that should not in any way be construed"
+        },
+        {
+          "type": "text",
+          "text": "as giving consent or licence to the obscene act perpetrated against innocent worshippers"
+        },
+        {
+          "type": "text",
+          "text": "last Frida y at Linwood Ave and Deans Ave mosques in Christchurch. The sickening"
+        },
+        {
+          "type": "text",
+          "text": "scourge of terrorism imported to Christchurch was the work of a coward —a coward"
+        },
+        {
+          "type": "text",
+          "text": "whom we reject. That is what we must all say."
+        },
+        {
+          "type": "text",
+          "text": "We rise today in support of the victims of the violent attac ks of 15 March. The"
+        },
+        {
+          "type": "text",
+          "text": "Muslim community in Christchurch and elsewhere have our deepest sympathies for"
+        },
+        {
+          "type": "text",
+          "text": "their profound sense of loss and grief. In a country like ours, which practises religious"
+        },
+        {
+          "type": "text",
+          "text": "tolerance, an attack on one of us peacefully observing their belief s is an attack on all of"
+        },
+        {
+          "type": "text",
+          "text": "our beliefs."
+        },
+        {
+          "type": "text",
+          "text": "Friday, 15 March 2019 is the day everything changed in our country —a day when"
+        },
+        {
+          "type": "text",
+          "text": "someone from outside our shores attempted to terrorise us and tear us apart. That, we"
+        },
+        {
+          "type": "text",
+          "text": "believe, was his objective, and he has failed. Why? He  failed because violent"
+        },
+        {
+          "type": "text",
+          "text": "extremism, whatever its origin or form or creed, is utterly rejected by New Zealanders."
+        },
+        {
+          "type": "text",
+          "text": "His creed, like extremists’ anywhere and everywhere, seeks only to destroy; it’s evil and"
+        },
+        {
+          "type": "text",
+          "text": "it’s destructive. The Pakistani Foreign Minister, when  expressing his country’s"
+        },
+        {
+          "type": "text",
+          "text": "sympathies for New Zealand, told me that 77,000 people in his country had died from"
+        },
+        {
+          "type": "text",
+          "text": "terrorist-related violence in Pakistan’s recent history. He truly understood how New"
+        },
+        {
+          "type": "text",
+          "text": "Zealanders feel, and we’ve had a number of messages in a simi lar vein from Muslim"
+        },
+        {
+          "type": "text",
+          "text": "countries all around the world."
+        },
+        {
+          "type": "text",
+          "text": "New Zealand is not alone, yet the terrorists’ formula always remains the same:"
+        },
+        {
+          "type": "text",
+          "text": "whenever a terrorist strikes, it seeks to create or provoke fear and panic. But in New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand, he has failed. It has failed because our thoughts are not the terrorist’s thoughts,"
+        },
+        {
+          "type": "text",
+          "text": "and his ways are not our ways, because New Zealanders believe in a fair go. We are a"
+        },
+        {
+          "type": "text",
+          "text": "practical people who are tolerant people. We aren’t scared to lift our heads above the"
+        },
+        {
+          "type": "text",
+          "text": "parapet and express our valu es to the world, and we have the ability to reflect upon"
+        },
+        {
+          "type": "text",
+          "text": "ourselves and how others see us, so we know how to get along with each other. While"
+        },
+        {
+          "type": "text",
+          "text": "everything else may have changed on 15 March, New Zealand’s essential character has"
+        },
+        {
+          "type": "text",
+          "text": "not and will not."
+        },
+        {
+          "type": "text",
+          "text": "One lesson that we have learnt from this national tragedy is that our firearms laws are"
+        },
+        {
+          "type": "text",
+          "text": "not fit for purpose, which is why the Government is committed to fixing them up. But"
+        },
+        {
+          "type": "text",
+          "text": "that’s for tomorrow; today is a day to pay our respects to the grieving families of"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, and we here in this Parliament stand with them and the people of that city."
+        },
+        {
+          "type": "text",
+          "text": "Once more their lives have been massively disrupted. Once more we see their"
+        },
+        {
+          "type": "text",
+          "text": "remarkable resilience. They have suffered more over the past decade than we can say."
+        },
+        {
+          "type": "text",
+          "text": "The people of Chr istchurch will stay in our thoughts as they reclaim their city. As they"
+        },
+        {
+          "type": "text",
+          "text": "and the rest of us rebuild, we must remember that only by drawing on our strengths as a"
+        },
+        {
+          "type": "text",
+          "text": "people will we prevail against the malevolent forces of intolerance and hate. That is"
+        },
+        {
+          "type": "text",
+          "text": "what we must do."
+        },
+        {
+          "type": "text",
+          "text": "Can I close by acknowledging the calm and comforting leadership of the Prime"
+        },
+        {
+          "type": "text",
+          "text": "Minister during this moment of national tragedy. Her clarity, empathy, and unifying"
+        },
+        {
+          "type": "text",
+          "text": "leadership is helping to guide the country through this massive test of our resolve. We"
+        },
+        {
+          "type": "text",
+          "text": "will follow that example."
+        },
+        {
+          "type": "text",
+          "text": "19 Mar 2019 Ministerial Statements 10077"
+        },
+        {
+          "type": "speech",
+          "speaker": "MARAMA DAVIDSON",
+          "role": "Co -Leader—Green",
+          "time": "",
+          "text": "Tēnā tātou. Ka tika me whai"
+        },
+        {
+          "type": "text",
+          "text": "whakaaro ki a rātou kua kapohia e ngā ringa tauwhiro o Aituā. Kua pōhara haere tō"
+        },
+        {
+          "type": "text",
+          "text": "tātou nei whenua taurikura, tō tātou nei ao i tō koutou ngarohanga atu. Nō reira, ki a"
+        },
+        {
+          "type": "text",
+          "text": "koutou kua whetūrangitia, ki a koutou kua hoe i ō koutou waka wairua ki tō tātou"
+        },
+        {
+          "type": "text",
+          "text": "Kaihanga i te Wāhi Ngaro, hoea, hoea, hoea atu rā. Ka mihia rātou e tangi atu rā, koutou"
+        },
+        {
+          "type": "text",
+          "text": "e tangi mai, mā tātou e tangi atu nei."
+        },
+        {
+          "type": "text",
+          "text": "Huri noa ki a koutou katoa e noho pani ana, e noho kirimate ana, e noho pōuri ana,"
+        },
+        {
+          "type": "text",
+          "text": "kei konei mātou hei pou aroha, hei pou akiaki, hei pou tautoko mā koutou katoa."
+        },
+        {
+          "type": "text",
+          "text": "[Greetings to one and all. It is only right that I turn my thoughts to those who have"
+        },
+        {
+          "type": "text",
+          "text": "been plucked by the unwelcome hand of misfortune. Our beautiful land, indeed, our"
+        },
+        {
+          "type": "text",
+          "text": "world is the poorer for having lost you this way. Therefore, to those of you who have"
+        },
+        {
+          "type": "text",
+          "text": "joined the throngs on the other side, who have paddled your spiritual canoe to our"
+        },
+        {
+          "type": "text",
+          "text": "Creator in the Heavens, farewell, farewell. We salute those whose passing is lamented,"
+        },
+        {
+          "type": "text",
+          "text": "we acknowledge you who are overcome by grief, and we mourn alongside you."
+        },
+        {
+          "type": "text",
+          "text": "Turning to those of you who are left bereft of loved ones, who most feel the keenness"
+        },
+        {
+          "type": "text",
+          "text": "of the loss, remember that we are here as reminders of the aroha that exists, as pillars"
+        },
+        {
+          "type": "text",
+          "text": "of encouragement, as rocks of support for you all.]"
+        },
+        {
+          "type": "text",
+          "text": "I acknowledge the lives cruelly taken and badly injured in our Muslim community by"
+        },
+        {
+          "type": "text",
+          "text": "a terrorist attack driven by hatred. We are holding deep love for your families and loved"
+        },
+        {
+          "type": "text",
+          "text": "ones, and your entire Muslim communities. We are holding deep love for the city of"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch and all of us who are hurting and are angry."
+        },
+        {
+          "type": "text",
+          "text": "You were praying. You were in the most profoundly peaceful state of harmony and"
+        },
+        {
+          "type": "text",
+          "text": "compassion that a human can be in. You were with your children, your elders, your"
+        },
+        {
+          "type": "text",
+          "text": "partners and siblings, your friends, and your closest loved ones. You were ancho red in"
+        },
+        {
+          "type": "text",
+          "text": "the collective love of your community, the collective practice of your sacred traditions"
+        },
+        {
+          "type": "text",
+          "text": "under the shelter of your sacred place of worship. Your families have been ripped apart,"
+        },
+        {
+          "type": "text",
+          "text": "your hearts broken, your wairua destroyed. As artist Ruby Alice Rose dr ew: “This is"
+        },
+        {
+          "type": "text",
+          "text": "your home and you should have been safe here.”"
+        },
+        {
+          "type": "text",
+          "text": "I know that we must work together, all of us, to become an Aotearoa where everyone"
+        },
+        {
+          "type": "text",
+          "text": "is safe to pray, or not —an Aotearoa where people are safe to be who they are. Manaaki"
+        },
+        {
+          "type": "text",
+          "text": "and tika, caring for each other in a way that is just and right, is what we should be"
+        },
+        {
+          "type": "text",
+          "text": "upholding with every inch of our selves. Upholding my mana, my dignity, is connected"
+        },
+        {
+          "type": "text",
+          "text": "to upholding your mana, your dignity. I am as passionate about the well -being of your"
+        },
+        {
+          "type": "text",
+          "text": "tamariki, your children, as I am about making sure my children are OK and have"
+        },
+        {
+          "type": "text",
+          "text": "everything they need. These are the values we should be upholding with every inch of"
+        },
+        {
+          "type": "text",
+          "text": "our being. This spirit of connection is how we will stay together and bring everyone"
+        },
+        {
+          "type": "text",
+          "text": "with us."
+        },
+        {
+          "type": "text",
+          "text": "I also acknowledge the calls from those in Muslim communities to ensure that we tell"
+        },
+        {
+          "type": "text",
+          "text": "the truth right from the start. I note the Muslim voices highlighting the truth that New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand has a long history of colonial policy, discourse, and violence that sought to"
+        },
+        {
+          "type": "text",
+          "text": "harm indigenous pe oples. As tangata whenua, I am aware that we need to build"
+        },
+        {
+          "type": "text",
+          "text": "connections now more than ever, to heal, and to create loving futures for everyone. I"
+        },
+        {
+          "type": "text",
+          "text": "was privileged to sit with the elders at the Al -Mustafa Jamia Masjid in Ōtāhuhu on"
+        },
+        {
+          "type": "text",
+          "text": "Sunday. I shared with them t he story of Parihaka and the violent Crown invasion into a"
+        },
+        {
+          "type": "text",
+          "text": "peaceful community, and the recognition work that has begun because of our"
+        },
+        {
+          "type": "text",
+          "text": "acknowledgment. They were grateful for the knowing of something they hadn’t known"
+        },
+        {
+          "type": "text",
+          "text": "before. These are the bridges that we can build."
+        },
+        {
+          "type": "text",
+          "text": "We must never again ignore or contribute to anti -Islamic hatred as part of the rise of"
+        },
+        {
+          "type": "text",
+          "text": "white supremacy and extreme white-right ideology. As one young Muslim woman said,"
+        },
+        {
+          "type": "text",
+          "text": "“we’ve now lost lives so I think it’s time that we started having the uncomfor table"
+        },
+        {
+          "type": "text",
+          "text": "conversations.” The agenda that drove this violence wants to harm many other"
+        },
+        {
+          "type": "text",
+          "text": "10078 Ministerial Statements 19 Mar 2019"
+        },
+        {
+          "type": "text",
+          "text": "communities: Jewish communities, Sikh communities, Buddhist followers, people of"
+        },
+        {
+          "type": "text",
+          "text": "colour communities, brown immigrants and refugees, tangata whenua and Pacific"
+        },
+        {
+          "type": "text",
+          "text": "peoples, women and disabled peoples, and many others. I know the Muslim community"
+        },
+        {
+          "type": "text",
+          "text": "tried to tell us these truths of the dangers that you faced and felt. We did not protect"
+        },
+        {
+          "type": "text",
+          "text": "you. We will do better. I am pleased that we will support the Prime Minister and the"
+        },
+        {
+          "type": "text",
+          "text": "programme across this House to ensure that we strengthen the systems and the gun laws"
+        },
+        {
+          "type": "text",
+          "text": "that we have responsibility for."
+        },
+        {
+          "type": "text",
+          "text": "So what do we do now? I am energised by the signs of people now reflecting on their"
+        },
+        {
+          "type": "text",
+          "text": "own bias and prejudice and committing to fighting racism with all t heir might. I was"
+        },
+        {
+          "type": "text",
+          "text": "asked to talk today about the hate that Muslim women wearing scarves receive, just"
+        },
+        {
+          "type": "text",
+          "text": "going about their lives. I was asked to acknowledge stories like Muslim women doctors"
+        },
+        {
+          "type": "text",
+          "text": "receiving abuse from the very people they are caring for, because of their headscarves. I"
+        },
+        {
+          "type": "text",
+          "text": "want us all to commit to never accepting racism and bigotry from anyone in our"
+        },
+        {
+          "type": "text",
+          "text": "beautiful country."
+        },
+        {
+          "type": "text",
+          "text": "We know that people in your Muslim community need to know, as that rightful anger"
+        },
+        {
+          "type": "text",
+          "text": "is harboured—we need to let you know that we hear you, that we get it. We know that"
+        },
+        {
+          "type": "text",
+          "text": "you need to feel and see and hear that we have got your back, that we will do all we can"
+        },
+        {
+          "type": "text",
+          "text": "to prevent this and protect you so that you aren’t left alone with that burden in your"
+        },
+        {
+          "type": "text",
+          "text": "rightful anger. We need to create an inclusive worl d where no one feels excluded, so"
+        },
+        {
+          "type": "text",
+          "text": "that no individual or group feels that the only choice they have left is to grab a weapon."
+        },
+        {
+          "type": "text",
+          "text": "How do we find safe avenues for people’s humanity to shine through, rather than their"
+        },
+        {
+          "type": "text",
+          "text": "fear? It is time for us all to reflect. It is time to understand that words matter."
+        },
+        {
+          "type": "text",
+          "text": "I acknowledge that today, there is not one Muslim voice in this House. It is time to"
+        },
+        {
+          "type": "text",
+          "text": "understand whose voices need to be put first. I acknowledge that the Muslim"
+        },
+        {
+          "type": "text",
+          "text": "communities will choose how they grieve and that we cann ot put our expectations on"
+        },
+        {
+          "type": "text",
+          "text": "what emotions that might include. I also acknowledge the essential leadership role that"
+        },
+        {
+          "type": "text",
+          "text": "tangata whenua have in taking us forward together, in bridging with our communities."
+        },
+        {
+          "type": "text",
+          "text": "I want to end with thanks to all those who responded so bravely on Friday: to the"
+        },
+        {
+          "type": "text",
+          "text": "police who put themselves in the line of fire to prevent further deaths; to all the"
+        },
+        {
+          "type": "text",
+          "text": "ambulance paramedics who rushed to save lives; to all the nurses, doctors, and hospital"
+        },
+        {
+          "type": "text",
+          "text": "staff who rapidly treated the wounded and continued to loo k after the survivors; to all"
+        },
+        {
+          "type": "text",
+          "text": "the people standing on the street who did all they could to support those in need. I want"
+        },
+        {
+          "type": "text",
+          "text": "to thank the teachers and staff who looked after our tamariki and had to deal with the"
+        },
+        {
+          "type": "text",
+          "text": "lockdown and keep children feeling safe and not c onfused. There were librarians who"
+        },
+        {
+          "type": "text",
+          "text": "comforted people in the central city library. To everyone who held each other while"
+        },
+        {
+          "type": "text",
+          "text": "their city felt under attack, to all those who continue to provide a warm embrace and a"
+        },
+        {
+          "type": "text",
+          "text": "shoulder to cry on, you inspire me. You are the h ope that we can have to make a real"
+        },
+        {
+          "type": "text",
+          "text": "change."
+        },
+        {
+          "type": "text",
+          "text": "I want to thank the Prime Minister. Her calm and strong leadership in one of the most"
+        },
+        {
+          "type": "text",
+          "text": "harrowing situations that a Prime Minister could ever face is deeply appreciated. We"
+        },
+        {
+          "type": "text",
+          "text": "know that the communities directly affect ed are incredibly grateful. We are all grateful."
+        },
+        {
+          "type": "text",
+          "text": "Kia kaha, Jacinda Ardern."
+        },
+        {
+          "type": "text",
+          "text": "We have a big shift ahead of us. We have lessons to learn. We have conversations to"
+        },
+        {
+          "type": "text",
+          "text": "have. It’s just that this seems like it was too big a price to pay to get us to this point. In"
+        },
+        {
+          "type": "text",
+          "text": "closing, to our Muslim communities, we love you not just because you are us but"
+        },
+        {
+          "type": "text",
+          "text": "because you are you. Kia ora."
+        },
+        {
+          "type": "speech",
+          "speaker": "DAVID SEYMOUR",
+          "role": "Leader —ACT",
+          "time": "",
+          "text": "Thank you, Mr Speaker. I rise on behalf of"
+        },
+        {
+          "type": "text",
+          "text": "the ACT Party to join with other leaders in offering the victims condolence, and the"
+        },
+        {
+          "type": "text",
+          "text": "perpetrator condemnation. I extend, not just to those who were attacked but to every"
+        },
+        {
+          "type": "text",
+          "text": "Muslim New Zealander, our sympathy  but also our solidarity. It is important that that"
+        },
+        {
+          "type": "text",
+          "text": "solidarity is comprehensive, so let us close ranks around the cherished values of our"
+        },
+        {
+          "type": "text",
+          "text": "19 Mar 2019 Ministerial Statements 10079"
+        },
+        {
+          "type": "text",
+          "text": "country. Let me adopt, from the opposite end of our political spectrum, the words of our"
+        },
+        {
+          "type": "speech",
+          "speaker": "Prime Minister",
+          "role": "",
+          "time": "",
+          "text": "“we grieve together. We are one. They are us.”"
+        },
+        {
+          "type": "text",
+          "text": "Normally, in New Zealand, all the bad news is in the world section of our"
+        },
+        {
+          "type": "text",
+          "text": "newspapers. How could it be that our country is supplying bad news to the papers of the"
+        },
+        {
+          "type": "text",
+          "text": "world? It is tempting to say that we have changed for ever. Well, cold comfort it may"
+        },
+        {
+          "type": "text",
+          "text": "be, but one of our darkest days has also shed light on our true character. Up and down"
+        },
+        {
+          "type": "text",
+          "text": "this country, we have opened up seemingly bottomless wells of love and strength."
+        },
+        {
+          "type": "text",
+          "text": "I’d like to pay tribute to those first responders, including t he very first responders,"
+        },
+        {
+          "type": "text",
+          "text": "who heroically confronted the terrorist practically unarmed. I hope that the Crown"
+        },
+        {
+          "type": "text",
+          "text": "suitably recognises you. To those who followed up —the police, the medics, hospital"
+        },
+        {
+          "type": "text",
+          "text": "staff, teachers —this Parliament thanks you for your service. To those who have held"
+        },
+        {
+          "type": "text",
+          "text": "vigils, created memes of affirmation, left flowers, and donated millions of dollars, you"
+        },
+        {
+          "type": "text",
+          "text": "show the warmth and resilience of our communities."
+        },
+        {
+          "type": "text",
+          "text": "Please allow me a small amount of disagreement, then, with those who say our"
+        },
+        {
+          "type": "text",
+          "text": "country has changed  for ever. Changing New Zealand was the terrorist’s objective."
+        },
+        {
+          "type": "text",
+          "text": "Changing New Zealand dishonours the victims by letting him win. The values that"
+        },
+        {
+          "type": "text",
+          "text": "we’ve seen expressed over the past several days are the same ones that are recorded in"
+        },
+        {
+          "type": "text",
+          "text": "our country’s founding doc ument for almost 180 years: that we, and what we treasure,"
+        },
+        {
+          "type": "text",
+          "text": "should be safe from harm; that we have equal rights and duties. The inherent rights to"
+        },
+        {
+          "type": "text",
+          "text": "safety, and equal treatment of every individual in this country, have been recorded more"
+        },
+        {
+          "type": "text",
+          "text": "fully in our New Zealand Bill of Rights Act."
+        },
+        {
+          "type": "text",
+          "text": "It is worth remembering what that Act guarantees. Among its promises are the right"
+        },
+        {
+          "type": "text",
+          "text": "not to be deprived of life; freedom of thought, conscience and religion; freedom of"
+        },
+        {
+          "type": "text",
+          "text": "expression; freedom of peaceful assembly; and freedom of associat ion and movement."
+        },
+        {
+          "type": "text",
+          "text": "One of them is worth quoting at length —manifestation of religion and belief: “Every"
+        },
+        {
+          "type": "text",
+          "text": "person has the right to manifest that person’s religion or belief in worship, observance,"
+        },
+        {
+          "type": "text",
+          "text": "practice, or teaching, either individually or in community with others, and either in"
+        },
+        {
+          "type": "text",
+          "text": "public or in private.” The terrorist may not like it, but this country has shown, and this"
+        },
+        {
+          "type": "text",
+          "text": "Parliament is showing, that we will never dishonour the victims by backing down from"
+        },
+        {
+          "type": "text",
+          "text": "our fervent belief in these freedoms for all of us."
+        },
+        {
+          "type": "text",
+          "text": "But l et us also remember the words of the Canadian author Naomi Klein, who"
+        },
+        {
+          "type": "text",
+          "text": "warned in her Shock Doctrine  that “in moments of crisis, people [can be] willing to"
+        },
+        {
+          "type": "text",
+          "text": "hand over a great deal of power”. It is important that we maintain our tradition of sober,"
+        },
+        {
+          "type": "text",
+          "text": "robust law-making at all times but especially now. Clearly, there are policy issues that"
+        },
+        {
+          "type": "text",
+          "text": "must be addressed. Some of them have already been raised today and they relate to gun"
+        },
+        {
+          "type": "text",
+          "text": "laws, to speech and social media, and the performance of the security and intelligence"
+        },
+        {
+          "type": "text",
+          "text": "services. It is critical that we get these issues right and that any changes are relevant to,"
+        },
+        {
+          "type": "text",
+          "text": "and effective at, solving the problems that have been so nakedly laid bare in the past"
+        },
+        {
+          "type": "text",
+          "text": "four days."
+        },
+        {
+          "type": "text",
+          "text": "It would be a shame to fall for the old fallacy that we must do some thing: “This is"
+        },
+        {
+          "type": "text",
+          "text": "something, so let’s do this thing.” On the issue of security and intelligence in particular,"
+        },
+        {
+          "type": "text",
+          "text": "we need to know how it is possible that what has happened has happened, and what"
+        },
+        {
+          "type": "text",
+          "text": "might be done to prevent it from happening again. Given that it in volves the"
+        },
+        {
+          "type": "text",
+          "text": "performance of Government agencies, I cannot see how the issue arising could be"
+        },
+        {
+          "type": "text",
+          "text": "visited by anything less than a royal commission reporting to the Governor -General, at"
+        },
+        {
+          "type": "text",
+          "text": "arm’s length from the Government of the day."
+        },
+        {
+          "type": "text",
+          "text": "The same could be said for this H ouse and the Government’s existing schedule. I"
+        },
+        {
+          "type": "text",
+          "text": "hope that critical policy issues will be given time to be properly ventilated through the"
+        },
+        {
+          "type": "text",
+          "text": "usual processes. Giving all current submission and report dates, a fortnight’s stay, as a"
+        },
+        {
+          "type": "text",
+          "text": "rule of thumb, I believe woul d be an excellent gesture. Suffice it to say, this Parliament"
+        },
+        {
+          "type": "text",
+          "text": "stands ready to assist in getting the policy response to the terror tragedy right. It must be"
+        },
+        {
+          "type": "text",
+          "text": "10080 Ministerial Statements 19 Mar 2019"
+        },
+        {
+          "type": "text",
+          "text": "a high-quality response in keeping with the underlying values of our country. The best"
+        },
+        {
+          "type": "text",
+          "text": "way to show defiance is to refuse to erode our free society."
+        },
+        {
+          "type": "text",
+          "text": "But so much for those future challenges. For now, let us honour the heroes, console"
+        },
+        {
+          "type": "text",
+          "text": "those who have lost, and commemorate those who were lost. As a touching image"
+        },
+        {
+          "type": "text",
+          "text": "shared by many on the internet and already touched upon as this debate concludes, I say"
+        },
+        {
+          "type": "text",
+          "text": "to the victims, “This is your home. You should have been safe here.”"
+        },
+        {
+          "type": "speech",
+          "speaker": "Rt Hon JACINDA ARDERN",
+          "role": "Prime Minister",
+          "time": "",
+          "text": "Mr Speaker, I conclude by"
+        },
+        {
+          "type": "text",
+          "text": "acknowledging the statements made within this House. I acknowledge the grief that has"
+        },
+        {
+          "type": "text",
+          "text": "been expressed directly and on behalf of communities, and I acknowledge the"
+        },
+        {
+          "type": "text",
+          "text": "representation of those commun ities in the gallery here today. The discussion, the"
+        },
+        {
+          "type": "text",
+          "text": "words, here have been honest. They have been direct. They have been focused on the"
+        },
+        {
+          "type": "text",
+          "text": "terrorist attack against our Muslim community, the ideology that surrounded it, and"
+        },
+        {
+          "type": "text",
+          "text": "what we must do to prevent it from e ver happening again. We are united, as New"
+        },
+        {
+          "type": "text",
+          "text": "Zealand is united. But this week, as others have said, is a time for the dignity of those"
+        },
+        {
+          "type": "text",
+          "text": "who have passed, support for those who have lost, and comfort for all those who mourn."
+        },
+        {
+          "type": "text",
+          "text": "My final words I wish to express dir ectly to the women and children of the Muslim"
+        },
+        {
+          "type": "text",
+          "text": "faith. As I left the mosque I visited on Sunday here in Wellington, a child, a very young"
+        },
+        {
+          "type": "text",
+          "text": "boy, called out my name and asked, “Prime Minister, will we be safe now?” Mr"
+        },
+        {
+          "type": "text",
+          "text": "Speaker, I hear in this House today that we are all collectively committing to telling that"
+        },
+        {
+          "type": "text",
+          "text": "young boy a resounding yes, as I told him. And we will do all we can do. We will do"
+        },
+        {
+          "type": "text",
+          "text": "everything in our power to ensure that that is the case. Tātau tātau. Al salam alaikum."
+        }
+      ]
+    },
+    {
+      "heading": "Sittings Of The House",
+      "items": [
+        {
+          "type": "speech",
+          "speaker": "Hon CHRIS HIPKINS",
+          "role": "Leader of the House",
+          "time": "",
+          "text": "I seek leave for the House to now"
+        },
+        {
+          "type": "text",
+          "text": "adjourn as a mark of respect for those people affected by the Christchurch mosque terror"
+        },
+        {
+          "type": "text",
+          "text": "attacks."
+        },
+        {
+          "type": "speech",
+          "speaker": "SPEAKER",
+          "role": "",
+          "time": "",
+          "text": "Leave has been sought for that course of action. Is there any objection?"
+        },
+        {
+          "type": "text",
+          "text": "There is none. The House stands adjourned until 2 p.m. tomorrow."
+        },
+        {
+          "type": "text",
+          "text": "The House adjourned at 2.55 p.m."
+        },
+        {
+          "type": "text",
+          "text": "Index to"
+        },
+        {
+          "type": "text",
+          "text": "Tuesday, 19 March 2019"
+        }
+      ]
+    },
+    {
+      "heading": "Explanation Of Abbreviations",
+      "items": [
+        {
+          "type": "text",
+          "text": "1R—First Reading"
+        },
+        {
+          "type": "text",
+          "text": "2R—Second Reading"
+        },
+        {
+          "type": "text",
+          "text": "3R—Third Reading"
+        },
+        {
+          "type": "text",
+          "text": "CWH—Committee of the whole House"
+        },
+        {
+          "type": "text",
+          "text": "BILLS"
+        },
+        {
+          "type": "text",
+          "text": "Legislation is listed under BILLS. The name of an originating bill that has been divided into separate"
+        },
+        {
+          "type": "text",
+          "text": "bills is shown in italics after the names of the new bills."
+        }
+      ]
+    },
+    {
+      "heading": "Oral Questions",
+      "items": [
+        {
+          "type": "text",
+          "text": "Questions are listed under ORAL QUESTIONS by ministerial portfolio."
+        },
+        {
+          "type": "text",
+          "text": "______________________________________"
+        },
+        {
+          "type": "text",
+          "text": "ARDERN, Rt Hon JACINDA—"
+        },
+        {
+          "type": "text",
+          "text": "Ministerial Statements—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10072, 10080"
+        },
+        {
+          "type": "text",
+          "text": "BRIDGES, Hon SIMON—"
+        },
+        {
+          "type": "text",
+          "text": "Ministerial Statements—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10074"
+        },
+        {
+          "type": "text",
+          "text": "DAVIDSON, MARAMA—"
+        },
+        {
+          "type": "text",
+          "text": "Māori Language / Te Reo, 10077"
+        },
+        {
+          "type": "text",
+          "text": "Ministerial Statements—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10077"
+        },
+        {
+          "type": "text",
+          "text": "HIPKINS, Hon CHRIS—"
+        },
+        {
+          "type": "text",
+          "text": "Sittings of the House—"
+        },
+        {
+          "type": "text",
+          "text": "Sitting Hours—"
+        },
+        {
+          "type": "text",
+          "text": "House to Rise Early as Mark of"
+        },
+        {
+          "type": "text",
+          "text": "Respect, 10080"
+        },
+        {
+          "type": "text",
+          "text": "KARAKIA, 10071"
+        },
+        {
+          "type": "text",
+          "text": "MĀORI LANGUAGE / TE REO—"
+        },
+        {
+          "type": "text",
+          "text": "Davidson, Marama, 10077"
+        },
+        {
+          "type": "text",
+          "text": "Rurawhe, Adrian, 10071"
+        },
+        {
+          "type": "text",
+          "text": "MINISTERIAL STATEMENTS—"
+        },
+        {
+          "type": "text",
+          "text": "Ardern, Rt Hon Jacinda—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10072"
+        },
+        {
+          "type": "text",
+          "text": "NAWAZ, TAHIR—"
+        },
+        {
+          "type": "text",
+          "text": "Prayers, English, 10071"
+        },
+        {
+          "type": "text",
+          "text": "PETERS, Rt Hon WINSTON—"
+        },
+        {
+          "type": "text",
+          "text": "Ministerial Statements—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10076"
+        },
+        {
+          "type": "text",
+          "text": "PRAYERS—"
+        },
+        {
+          "type": "text",
+          "text": "Arabic, 10071"
+        },
+        {
+          "type": "text",
+          "text": "English, 10071, 10072"
+        },
+        {
+          "type": "text",
+          "text": "RURAWHE, ADRIAN—"
+        },
+        {
+          "type": "text",
+          "text": "Māori Language / Te Reo, 10071"
+        },
+        {
+          "type": "text",
+          "text": "SEYMOUR, DAVID—"
+        },
+        {
+          "type": "text",
+          "text": "Ministerial Statements—"
+        },
+        {
+          "type": "text",
+          "text": "Mosques Terror Attacks—"
+        },
+        {
+          "type": "text",
+          "text": "Christchurch, 10078"
+        },
+        {
+          "type": "text",
+          "text": "SITTINGS OF THE HOUSE—"
+        },
+        {
+          "type": "text",
+          "text": "Sitting Hours—"
+        },
+        {
+          "type": "text",
+          "text": "House to Rise Early as Mark of Respect,"
+        },
+        {
+          "type": "text",
+          "text": "10080"
+        },
+        {
+          "type": "text",
+          "text": "TE REO—"
+        },
+        {
+          "type": "text",
+          "text": "see MĀORI LANGUAGE / TE REO—"
+        },
+        {
+          "type": "text",
+          "text": "THANVI, NIZAM UL HAQ—"
+        },
+        {
+          "type": "text",
+          "text": "Prayers, Arabic, 10071"
+        },
+        {
+          "type": "text",
+          "text": "TOLLEY, Hon ANNE—"
+        },
+        {
+          "type": "text",
+          "text": "Prayers, English, 10072"
+        }
+      ]
+    }
+  ],
+  "plain_text": " \n \n \n \nFifty-second Parliament \n \n \n \n \nParliamentary Debates \n(HANSARD) \n \n \n \n \nFINAL DAILY \n \n \n \n \nTuesday, 19 March 2019 \n(for inclusion in Volume 737) \n \n \nWELLINGTON, NEW ZEALAND \nPublished under the authority of the House of Representatives—2019 \n \n \n \n\n\n \nTUESDAY, 19 MARCH 2019 \n  \nTABLE OF CONTENTS \n \nPRAYERS ............................................................................................................ 10071 \nMINISTERIAL STATEMENTS— \nMosques Terror Attacks—Christchurch .......................................................... 10072 \nSITTINGS OF THE HOUSE ............................................................................... 10080 \n \n  \n \n \n \n  \n19 Mar 2019 Prayers 10071 \n \nTUESDAY, 19 MARCH 2019 \nThe Speaker took the Chair at 2 p.m. \nPRAYERS \nSPEAKER: Assalamo alaikum. As part of our expression of sorrow and of our hope \nfollowing the terrorist attack in Christchurch, I have invited Imam Nizam ul haq Thanvi \nto say a prayer. He will do so in Arabic and then it will be repeated in English by Tahir \nNawaz. Following this, my colleague Adrian Rurawhe will say the parliamentary prayer \nin Te Reo, and it will be repeated by Anne Tolley in English. \nNIZAM UL HAQ THANVI: \nأعوذ بالله من الشيطان الرجيم \nبسم الله الرحمن الرحيم \n[ يَا أَيُّهَا الَّذِينَ آمَنُوا اسْتَعِينُوا بِالصَّبْرِ وَالصَّلََةِ إِنَّ اللَََّّ مَعَ الصَّابِرِينَ 153  وَلََ تَقُولُوا لِمَن يُقْتَلُ فِي ]\nسَبِيلِ ا[للََِّّ أَمْوَاتٌ بَلْ أَحْيَاءٌ وَلََٰكِن لََّ تَشْعُرُونَ 154 وَلَنَبْلُوَنَّكُم بِشَيْءٍ م ِنَ الْخَوْفِ وَالْجُوعِ وَنَقْصٍ م ِنَ ]\n[ الَْْمْوَالِ وَالَْْنفُسِ وَالثَّمَرَاتِ وَبَش ِرِ الصَّابِرِينَ 155الَّذِينَ إِذَا أَصَابَتْهُم مُّصِيبَةٌ قَالُوا إِنَّا ]  للََِِّّ وَإِنَّا إِلَيْهِ \n[رَاجِعُونَ 156] \nصدق الله مولَنا العظيم \nوصدق رسوله النبي الكريم \nونحن على ذلك من الشاهدين والشاكرين والحمد لله رب العالمين \nاللآيات [153-156 ]من سورة البقرة \nTAHIR NAWAZ : These verses are called the verses of patienc e, which provide \ncomfort and reassurance. Here is the translation of these verses:  \nOh all who believe, ask for help with patience and prayers. Verily, God is with \npeople who are patient. Do not call those who are killed in the way of God as dead. In \nfact, they are alive, but you do not realise this. Indeed, we will test you with \nsomething—fear, hunger, loss of wealth, lives, and fruits —and give glad tidings to \nthose who are patient in trial when those who are afflicted with calamity say “Verily, we \nbelong to God, and truly to him we shall return.” \nOh Lord, our honourable Prime Minister has said that Friday, 15 March was one of \nthe darkest days in New Zealand’s history. Oh Lord, make this day a source of light for \nthis country and the entire world—the light which unites us all as one family. \nOh Lord, our Prime Minister; the Deputy Prime Minister; the Governor -General; \nSpeaker of the House; many other MPs; the police; mayors of Wellington, Christchurch, \nand other cities; the medical staff in Christchurch; othe r organisations and religious \ngroups; and all New Zealanders have dedicated their time and effort to help and support \nus. Oh Lord, I ask you to help and bless them all, and reward them accordingly. \nOh Lord, we ask you to accept those who lost their lives a s martyrs, and give them \nthe highest position in paradise. \nOh Lord, we ask you to give full recovery to all those who were injured. \nOh Lord, we ask you to grant patience and hope to all the family members affected \nby this tragedy. \nOh Lord, we ask you to protect New Zealand and the whole world from such \ncalamities. Amen. \nADRIAN RURAWHE (Assistant Speaker —Labour): E Te Atua Kaha Rawa, ka \ntuku whakamoemiti mātou mō ngā karakia ku a waihotia mai ki runga i a mātou. Ka \nwaiho i ō mātou pānga waiaro katoa ki te taha. Ka mihi mātou ki te Kuini me te inoi atu \nmō ngā ārahitanga i roto i ō mātou whakaaroarohanga, kia mōhio ai kia whakaiti ai tā \n10072 Prayers 19 Mar 2019 \n \nmātou whakahaere i ngā take o Te Whare nei, m ō te oranga, te maungārongo, me te \naroha o Aotearoa. \nHon ANNE TOLLEY (Deputy Speaker —National): Almighty God, we give \nthanks for the blessings which have been bestowed on us. Layi ng aside all personal \ninterests, we acknowledge the Queen and pray for guidance in our deliberations, that we \nmay conduct the affairs of this House with wisdom, justice, mercy, and humility for the \nwelfare and peace of New Zealand. Amen. \nMINISTERIAL STATEMENTS \nMosques Terror Attacks—Christchurch \nRt Hon JACINDA ARDERN (Prime Minister) : I wish to make a ministerial \nstatement relating to the Christchurch mosque terror attacks. Al salam alaikum . Peace \nbe upon you, and peace be upon all of us.  \nThe 15th of March will now be for ever a day etched in our collective memories. On a \nquiet Friday afternoon, a man stormed into a place of peaceful worship and took away \nthe lives of 50 people. That quiet Friday afternoon has become our darkest of days. But \nfor the families, it was more than that. It was the day that the simple act of prayer, of \npractising their Muslim faith and religion, led to the loss of their loved ones’ lives. \nThose loved ones were bro thers, daughters, fathers, and children. They were New \nZealanders. They are us. And because they are us, we, as a nation, mourn them. We feel \na huge duty of care to them, and we have so much we feel the need to say and to do. \nOne of the roles I never antic ipated having, and hoped never to have, was to voice \nthe grief of a nation. At this time, it has been second only to securing the care of those \naffected and the safety of everyone. In this role, I wanted to speak directly to the \nfamilies. We cannot know yo ur grief but we can walk with you at every stage. We can \nand will surround you with aroha, manaakitanga, and all that makes us us. Our hearts \nare heavy but our spirit is strong. \nLess than six minutes after a 111 call was placed alerting the police to the s hootings \nat Al Noor Mosque, police were on the scene. The arrest itself was nothing short of an \nact of bravery. Two country police officers rammed the vehicle from which the offender \nwas still shooting. They pulled open his car door, when there were explos ives inside, \nand pulled him out. I know we all wish to acknowledge that their acts put the safety of \nNew Zealanders above their own, and we thank them, but they were not the only ones \nwho showed extraordinary courage. Naeem Rashid, originally from Pakistan , died after \nrushing at the terrorist and trying to wrestle the gun from him. He lost his life trying to \nsave those who were worshipping alongside him. Abdul Aziz, originally from \nAfghanistan, confronted and faced down the armed terrorist after grabbing th e nearest \nthing to hand —a simple EFTPOS machine. He risked his life, and no doubt saved \nmany, with his selfless bravery. There will be countless stories, some of which we may \nnever know, but to each we acknowledge you in this place, in this House. \nFor many of us, the first sign of the scale of this terrorist attack was the images of \nambulance staff transporting victims to Christchurch Hospital. To the first responders, \nthe ambulance staff, and the health professionals who have assisted and who continue to \nassist those who have been injured, please accept the heartfelt thanks of us all. I saw \nfirst-hand your care and your professionalism in the face of extraordinary challenges. \nWe are proud of your work and incredibly grateful for it. \nMr Speaker, if you’ll al low, I’d like to talk about some of the immediate measures \ncurrently in place, especially to ensure the safety of our Muslim community, and, more \nbroadly, the safety of everyone. As a nation, we do remain on high alert. While there \nisn’t a specific threat at present, we are maintaining vigilance. Unfortunately, we have \nseen in countries that know the horrors of terrorism more than us that there is a pattern \n19 Mar 2019 Ministerial Statements 10073 \n \nof increased tension and actions over the weeks that follow that mean that we need to \nensure that vig ilance is maintained. There is an additional and on -going security \npresence in Christchurch, and, as the police have indicated, there will continue to be a \npolice presence at mosques around the country while their doors are open. When they \nare closed, police will be in the vicinity. \nThere is a huge focus on ensuring the needs of families are met. That has to be our \npriority. A community welfare centre has been set up near the hospital in Christchurch \nto make sure people know how to access support. Visas for  family members overseas \nare being prioritised so that they can attend funerals. Funeral costs are covered, and we \nhave moved quickly to ensure that this includes repatriation costs for any family \nmembers who would like to move their loved ones away from N ew Zealand. We are \nworking to provide mental health and social support. The 1737 number yesterday \nreceived roughly 600 texts or phone calls. They are, on average, lasting around 40 \nminutes, and I encourage anyone in need of reaching out to use these servic es—they are \nthere for you. \nOur language service has also provided support from more than 5,000 contacts, \nensuring, whether you are ACC or the Ministry of Social Development, you’re able to \npass on the support that is needed in the language that is needed. To all those working \nwithin this service, we say thank you. Our security and intelligence services are \nreceiving a range of additional information. As has been the case in the past, these are \nbeing taken extremely seriously and they are being followed up.  \nI know, though, that there have, rightly, been questions around how this could have \nhappened here in a place that prides itself on being open, peaceful, diverse, and there is \nanger that it has happened here. There are many questions that need to be answer ed, and \nthe assurance that I give you is that they will be. Yesterday, Cabinet agreed that an \ninquiry—one that looks into the events that led up to the attack on 15 March —will \noccur. We will examine what we did know, could have known, or should have known.  \nWe cannot allow this to happen again.  \nPart of ensuring the safety of New Zealanders must include a frank examination of \nour gun laws. As I’ve already said, our gun laws will change. Cabinet met yesterday and \nmade in -principle decisions 72 hours after the  attack. Before we meet again next \nMonday, these decisions will be announced.  \nThere is one person at the centre of this terror attack against our Muslim community \nin New Zealand. A 28 -year-old man, an Australian citizen, has been charged with one \ncount of murder; other charges will follow. He will face the full force of the law in New \nZealand. The families of the fallen will have justice. He sought many things from his act \nof terror, but one was notoriety, and that is why you will never hear me mention his  \nname. He is a terrorist, he is a criminal, he is an extremist, but he will, when I speak, be \nnameless, and to others I implore you: speak the names of those who were lost rather \nthan the name of the man who took them. He may have sought notoriety but we i n New \nZealand will give him nothing—not even his name.  \nWe will also look at the role social media played and what steps we can take, \nincluding on the international stage and in unison with our partners. There is no \nquestion that ideas and language of division and hate have existed for decades, but their \nform of distribution, the tools of organisation—they are new. We cannot simply sit back \nand accept that these platforms just exist and that what is said on them is not the \nresponsibility of the place where they are published. They are the publisher, not just the \npostman. There cannot be a case of all profit, no responsibility.  \nThis of course doesn’t take away the responsibility we too must show as a nation to \nconfront racism, violence, and extremism. I don’t have all of the answers now, but we \nmust collectively find them and we must act. We are deeply grateful for all the \n10074 Ministerial Statements 19 Mar 2019 \n \nmessages of sympathy, support, and solidarity that we are receiving from our friends all \naround the world, and we are grateful to the global Muslim community who have stood \nwith us, and we stand with them.  \nI acknowledge that we also stand with Christchurch and the devastating blow that \nthis has been to their recovery, and I acknowledge every member of this House who has \nstood alongside their Muslim community, but especially those in Canterbury as we \nacknowledge this double grief. \nAs I conclude, I acknowledge that there are many stories that will have struck all of \nus since 15 March. One I wish to mention is that of Hati Mohemmed Daoud Na bi. He \nwas a 71 -year-old man who opened the door at the Al Noor Mosque and uttered the \nwords “Hello, brother, welcome.” —his final words. Of course, he had no idea of the \nhate that sat behind that door, but his welcome tells us so much —that he was a member \nof a faith that welcomed all its members, that showed openness and care. \nI’ve said many times that we are a nation of 200 ethnicities, 160 languages. We open \nour doors to others and say welcome. The only thing that must change after the events \nof Friday is  that this same door must close on all of those who espouse hate and fear. \nYes, the person who committed these acts was not from here. He was not raised here. \nHe did not find his ideology here. But that is not to say that those very same views do \nnot live here. \nI know that as a nation, we wish to provide every comfort we can to our Muslim \ncommunity in this darkest of times, and we are. The mountain of flowers around the \ncountry that lie at the doors of mosques, and the spontaneous songs outside the gates —\nthese are ways of expressing an outpouring of love and empathy. But we wish to do \nmore. We wish for every member of our communities to also feel safe. Safety means \nbeing free from the fear of violence, but it also means being free from the fear of those \nsentiments of racism and hate that create a place where violence can flourish, and every \nsingle one of us has the power to change that. \nOn Friday, it will be a week since the attack. Members of the Muslim community \nwill gather for worship on that day. Let us  acknowledge their grief as they do. Let’s \nsupport them as they gather again for worship. We are one. They are us. Tātou, tātou. Al \nsalam alaikum. Weh Rahmat Allah. Weh Barakaatuh. \nHon SIMON BRIDGES (Leader of the Opposition) : As New Zealand woke on 15 \nMarch 2019, none of us could have imagined the horror and terror about to be \nunleashed on our people. As mums and d ads, brothers and sisters, and sons and \ndaughters in Christchurch went to work or to school or to prayer, none of them thought \nfor a moment that they would return home that night changed for ever. For 50 of the \nworshippers who entered Al Noor Mosque and th e Linwood Islamic Centre in \nChristchurch for Jumu’ah, for Friday prayers, it would be their last day in this world. \nThese New Zealanders had their lives ended, and all of us changed for ever. \nFor some, New Zealand had been their home for a long time. They had made their \nlives here working in our businesses, going to our schools, living in rich and diverse \ncommunities, and espousing everything good about our nation. For some, New Zealand \nwas somewhere they found solace in a world full of problems. New Zealan d was for \nthem a new, a fresh, opportunity: the chance to live in a country which embraced \ntolerance, respect, compassion, opportunity, and freedom to be who you want to be. It \nwas for them, as it is for us, the best little country in the world. We let the m down, and \nfor that we are sorry. \nThe unimaginable hurt that our Islamic community is feeling is shared amongst all \nNew Zealanders, because I know that every New Zealander feels this wasn’t just \nsomething targeted at our Islamic community or just at Christchurch, as real as that is; it \nhas happened to all New Zealanders, and all New Zealanders are grieving with them. \n19 Mar 2019 Ministerial Statements 10075 \n \nOver the past four days, there’s been a lot of soul -searching, reflection, sadness, \nanger, and shame across New Zealand and around the world.  On Saturday, I joined the \nPrime Minister and other party leaders in Christchurch for what was a day of anguish \nand tears. It was moving, it was uplifting, it was tragic, and it was humbling. I was \nprivileged to meet with the Christchurch Islamic community  and the many people who \ncame to support them. \nI came away realising that we all have a choice following the violence that tore \nthrough their community: to choose fear, hate, or anger; or to choose compassion, love, \nand forgiveness. Martin Luther King said  it so well: “Returning hate for hate multiplies \nhate, adding deeper darkness to a night already devoid of stars. Darkness cannot drive \nout darkness; only light can do that. Hate cannot drive out hate; only love can do that.” \nOur strength as a nation is ou r compassion and our welcoming of diversity. It’s been \na hallmark of our culture for hundreds of years. This will not change us. At times like \nthese, we do not consider ourselves Christian or Muslim, Sikh or Jew, Māori or Pākehā, \nChinese, Pacific Islander,  Indian, or any other ethnicity —today and for ever we are all \nNew Zealanders. \nIn recent day s, I’ve visited mosques in Auckland and Hamilton, adding my support \nto the voices and prayers of hundreds of thousands of others around our country. They \nwelcomed me in, as they welcome in their wider communities, with open arms. Dr Asad \nMohsin from the Ōt āhuhu mosque told me, yesterday, that he chooses love over hate. \nWe will choose love too. \nHowever, because our peaceful existence is so treasured, hard questions will need to \nbe asked about how this could occur here. Why are small networks of hateful peopl e \nable to congregate online and elsewhere and attempt to sow disharmony? How can these \nhateful people then take tangible steps to carry out evil acts? Do our police and \nintelligence services have the people, the resources, the legislation, and the technolo gy \nto seek out and prevent such acts? While these heinous acts were carried out by an \nindividual, there can be no doubt that he had sympathetic associates —certainly online \nand possibly offline. How do we combat this in an age of social media and increasing  \ntechnological challenges? \nThese questions and others need to be asked of Government agencies, individuals, \ncompanies, public commentators, and numerous other groups. The formal investigations \ninto these events need to be thorough, open, and honest. Nation al will play a \nconstructive role in this and in overhauling New Zealand’s firearms laws. Now no one \ncan understand why anyone needs military -style semi -automatic weapons for \nrecreational use. \nIn addition, let’s see New Zealand re -evaluate the boundaries of  acceptable social \nand political discussion. Our resolve now should be to take every opportunity to push \nagainst extremism, to call out hate and fear when we see it, and to stand up to the vile \nideologies that exist to spread hate, fear, mistrust, and lies. \nIt is always the case when tragic, evil acts occur that we see an immediate \ncounterweight of bravery and compassion. Christchurch has been no exception. Both \ncivilians and law and order professionals immediately showed superhuman courage in \nthe face of rapidly unfolding, extremely frightening, and unprecedented acts and events \nin this land. Medical professionals have worked non -stop since, in truly horrific \ncircumstances, to save lives. I, like our Prime Minister, want to pay tribute to the New \nZealand Police, the ambulance services, the Red Cross, our Defence Force, healthcare \nworkers, and the vast, vast range of volunteers who have done so much to try and soften \nthe brutal blow since Friday. \nWhile in Christchurch, I met with a young police officer. I kno w his family very \nwell. He was one of the first responders on the day of the shootings. He was emotional \n10076 Ministerial Statements 19 Mar 2019 \n \nas he told me about what it was like that day. He has been a policeman for six years, but \nhe said no amount of training or experience could have prepar ed him for what he and \nhis colleagues faced that day. No one could be. All of those who were working that day \nwill never forget what they saw. To everyone who has responded on the ground in \nChristchurch, thank you. You are heroes. New Zealand owes you a debt of gratitude. \nRt Hon WINSTON PETERS (Deputy Prime Minister) : We acknowledge that the \nPrime Minister speaks for the coalition Government and, indeed, because of that, we \nwould have preferred not to rise and speak, but that should not in any way be construed \nas giving consent or licence to the obscene act perpetrated against innocent worshippers \nlast Frida y at Linwood Ave and Deans Ave mosques in Christchurch. The sickening \nscourge of terrorism imported to Christchurch was the work of a coward —a coward \nwhom we reject. That is what we must all say. \nWe rise today in support of the victims of the violent attac ks of 15 March. The \nMuslim community in Christchurch and elsewhere have our deepest sympathies for \ntheir profound sense of loss and grief. In a country like ours, which practises religious \ntolerance, an attack on one of us peacefully observing their belief s is an attack on all of \nour beliefs. \nFriday, 15 March 2019 is the day everything changed in our country —a day when \nsomeone from outside our shores attempted to terrorise us and tear us apart. That, we \nbelieve, was his objective, and he has failed. Why? He  failed because violent \nextremism, whatever its origin or form or creed, is utterly rejected by New Zealanders. \nHis creed, like extremists’ anywhere and everywhere, seeks only to destroy; it’s evil and \nit’s destructive. The Pakistani Foreign Minister, when  expressing his country’s \nsympathies for New Zealand, told me that 77,000 people in his country had died from \nterrorist-related violence in Pakistan’s recent history. He truly understood how New \nZealanders feel, and we’ve had a number of messages in a simi lar vein from Muslim \ncountries all around the world. \nNew Zealand is not alone, yet the terrorists’ formula always remains the same: \nwhenever a terrorist strikes, it seeks to create or provoke fear and panic. But in New \nZealand, he has failed. It has failed because our thoughts are not the terrorist’s thoughts, \nand his ways are not our ways, because New Zealanders believe in a fair go. We are a \npractical people who are tolerant people. We aren’t scared to lift our heads above the \nparapet and express our valu es to the world, and we have the ability to reflect upon \nourselves and how others see us, so we know how to get along with each other. While \neverything else may have changed on 15 March, New Zealand’s essential character has \nnot and will not. \nOne lesson that we have learnt from this national tragedy is that our firearms laws are \nnot fit for purpose, which is why the Government is committed to fixing them up. But \nthat’s for tomorrow; today is a day to pay our respects to the grieving families of \nChristchurch, and we here in this Parliament stand with them and the people of that city. \nOnce more their lives have been massively disrupted. Once more we see their \nremarkable resilience. They have suffered more over the past decade than we can say. \nThe people of Chr istchurch will stay in our thoughts as they reclaim their city. As they \nand the rest of us rebuild, we must remember that only by drawing on our strengths as a \npeople will we prevail against the malevolent forces of intolerance and hate. That is \nwhat we must do. \nCan I close by acknowledging the calm and comforting leadership of the Prime \nMinister during this moment of national tragedy. Her clarity, empathy, and unifying \nleadership is helping to guide the country through this massive test of our resolve. We \nwill follow that example. \n19 Mar 2019 Ministerial Statements 10077 \n \nMARAMA DAVIDSON (Co -Leader—Green): Tēnā tātou. Ka tika me whai \nwhakaaro ki a rātou kua kapohia e ngā ringa tauwhiro o Aituā. Kua pōhara haere tō \ntātou nei whenua taurikura, tō tātou nei ao i tō koutou ngarohanga atu. Nō reira, ki a \nkoutou kua whetūrangitia, ki a koutou kua hoe i ō koutou waka wairua ki tō tātou \nKaihanga i te Wāhi Ngaro, hoea, hoea, hoea atu rā. Ka mihia rātou e tangi atu rā, koutou \ne tangi mai, mā tātou e tangi atu nei. \nHuri noa ki a koutou katoa e noho pani ana, e noho kirimate ana, e noho pōuri ana, \nkei konei mātou hei pou aroha, hei pou akiaki, hei pou tautoko mā koutou katoa.  \n[Greetings to one and all. It is only right that I turn my thoughts to those who have \nbeen plucked by the unwelcome hand of misfortune. Our beautiful land, indeed, our \nworld is the poorer for having lost you this way. Therefore, to those of you who have \njoined the throngs on the other side, who have paddled your spiritual canoe to our \nCreator in the Heavens, farewell, farewell. We salute those whose passing is lamented, \nwe acknowledge you who are overcome by grief, and we mourn alongside you. \nTurning to those of you who are left bereft of loved ones, who most feel the keenness \nof the loss, remember that we are here as reminders of the aroha that exists, as pillars \nof encouragement, as rocks of support for you all.] \nI acknowledge the lives cruelly taken and badly injured in our Muslim community by \na terrorist attack driven by hatred. We are holding deep love for your families and loved \nones, and your entire Muslim communities. We are holding deep love for the city of \nChristchurch and all of us who are hurting and are angry.  \nYou were praying. You were in the most profoundly peaceful state of harmony and \ncompassion that a human can be in. You were with your children, your elders, your \npartners and siblings, your friends, and your closest loved ones. You were ancho red in \nthe collective love of your community, the collective practice of your sacred traditions \nunder the shelter of your sacred place of worship. Your families have been ripped apart, \nyour hearts broken, your wairua destroyed. As artist Ruby Alice Rose dr ew: “This is \nyour home and you should have been safe here.”  \nI know that we must work together, all of us, to become an Aotearoa where everyone \nis safe to pray, or not —an Aotearoa where people are safe to be who they are. Manaaki \nand tika, caring for each other in a way that is just and right, is what we should be \nupholding with every inch of our selves. Upholding my mana, my dignity, is connected \nto upholding your mana, your dignity. I am as passionate about the well -being of your \ntamariki, your children, as I am about making sure my children are OK and have \neverything they need. These are the values we should be upholding with every inch of \nour being. This spirit of connection is how we will stay together and bring everyone \nwith us.  \nI also acknowledge the calls from those in Muslim communities to ensure that we tell \nthe truth right from the start. I note the Muslim voices highlighting the truth that New \nZealand has a long history of colonial policy, discourse, and violence that sought to \nharm indigenous pe oples. As tangata whenua, I am aware that we need to build \nconnections now more than ever, to heal, and to create loving futures for everyone. I \nwas privileged to sit with the elders at the Al -Mustafa Jamia Masjid in Ōtāhuhu on \nSunday. I shared with them t he story of Parihaka and the violent Crown invasion into a \npeaceful community, and the recognition work that has begun because of our \nacknowledgment. They were grateful for the knowing of something they hadn’t known \nbefore. These are the bridges that we can build. \nWe must never again ignore or contribute to anti -Islamic hatred as part of the rise of \nwhite supremacy and extreme white-right ideology. As one young Muslim woman said, \n“we’ve now lost lives so I think it’s time that we started having the uncomfor table \nconversations.” The agenda that drove this violence wants to harm many other \n10078 Ministerial Statements 19 Mar 2019 \n \ncommunities: Jewish communities, Sikh communities, Buddhist followers, people of \ncolour communities, brown immigrants and refugees, tangata whenua and Pacific \npeoples, women and disabled peoples, and many others. I know the Muslim community \ntried to tell us these truths of the dangers that you faced and felt. We did not protect \nyou. We will do better. I am pleased that we will support the Prime Minister and the \nprogramme across this House to ensure that we strengthen the systems and the gun laws \nthat we have responsibility for. \nSo what do we do now? I am energised by the signs of people now reflecting on their \nown bias and prejudice and committing to fighting racism with all t heir might. I was \nasked to talk today about the hate that Muslim women wearing scarves receive, just \ngoing about their lives. I was asked to acknowledge stories like Muslim women doctors \nreceiving abuse from the very people they are caring for, because of their headscarves. I \nwant us all to commit to never accepting racism and bigotry from anyone in our \nbeautiful country. \nWe know that people in your Muslim community need to know, as that rightful anger \nis harboured—we need to let you know that we hear you, that we get it. We know that \nyou need to feel and see and hear that we have got your back, that we will do all we can \nto prevent this and protect you so that you aren’t left alone with that burden in your \nrightful anger. We need to create an inclusive worl d where no one feels excluded, so \nthat no individual or group feels that the only choice they have left is to grab a weapon. \nHow do we find safe avenues for people’s humanity to shine through, rather than their \nfear? It is time for us all to reflect. It is time to understand that words matter. \nI acknowledge that today, there is not one Muslim voice in this House. It is time to \nunderstand whose voices need to be put first. I acknowledge that the Muslim \ncommunities will choose how they grieve and that we cann ot put our expectations on \nwhat emotions that might include. I also acknowledge the essential leadership role that \ntangata whenua have in taking us forward together, in bridging with our communities. \nI want to end with thanks to all those who responded so bravely on Friday: to the \npolice who put themselves in the line of fire to prevent further deaths; to all the \nambulance paramedics who rushed to save lives; to all the nurses, doctors, and hospital \nstaff who rapidly treated the wounded and continued to loo k after the survivors; to all \nthe people standing on the street who did all they could to support those in need. I want \nto thank the teachers and staff who looked after our tamariki and had to deal with the \nlockdown and keep children feeling safe and not c onfused. There were librarians who \ncomforted people in the central city library. To everyone who held each other while \ntheir city felt under attack, to all those who continue to provide a warm embrace and a \nshoulder to cry on, you inspire me. You are the h ope that we can have to make a real \nchange. \nI want to thank the Prime Minister. Her calm and strong leadership in one of the most \nharrowing situations that a Prime Minister could ever face is deeply appreciated. We \nknow that the communities directly affect ed are incredibly grateful. We are all grateful. \nKia kaha, Jacinda Ardern. \nWe have a big shift ahead of us. We have lessons to learn. We have conversations to \nhave. It’s just that this seems like it was too big a price to pay to get us to this point. In \nclosing, to our Muslim communities, we love you not just because you are us but \nbecause you are you. Kia ora. \nDAVID SEYMOUR (Leader —ACT): Thank you, Mr Speaker. I rise on behalf of \nthe ACT Party to join with other leaders in offering the victims condolence, and the \nperpetrator condemnation. I extend, not just to those who were attacked but to every \nMuslim New Zealander, our sympathy  but also our solidarity. It is important that that \nsolidarity is comprehensive, so let us close ranks around the cherished values of our \n19 Mar 2019 Ministerial Statements 10079 \n \ncountry. Let me adopt, from the opposite end of our political spectrum, the words of our \nPrime Minister: “we grieve together. We are one. They are us.” \nNormally, in New Zealand, all the bad news is in the world section of our \nnewspapers. How could it be that our country is supplying bad news to the papers of the \nworld? It is tempting to say that we have changed for ever. Well, cold comfort it may \nbe, but one of our darkest days has also shed light on our true character. Up and down \nthis country, we have opened up seemingly bottomless wells of love and strength. \nI’d like to pay tribute to those first responders, including t he very first responders, \nwho heroically confronted the terrorist practically unarmed. I hope that the Crown \nsuitably recognises you. To those who followed up —the police, the medics, hospital \nstaff, teachers —this Parliament thanks you for your service. To those who have held \nvigils, created memes of affirmation, left flowers, and donated millions of dollars, you \nshow the warmth and resilience of our communities. \nPlease allow me a small amount of disagreement, then, with those who say our \ncountry has changed  for ever. Changing New Zealand was the terrorist’s objective. \nChanging New Zealand dishonours the victims by letting him win. The values that \nwe’ve seen expressed over the past several days are the same ones that are recorded in \nour country’s founding doc ument for almost 180 years: that we, and what we treasure, \nshould be safe from harm; that we have equal rights and duties. The inherent rights to \nsafety, and equal treatment of every individual in this country, have been recorded more \nfully in our New Zealand Bill of Rights Act. \nIt is worth remembering what that Act guarantees. Among its promises are the right \nnot to be deprived of life; freedom of thought, conscience and religion; freedom of \nexpression; freedom of peaceful assembly; and freedom of associat ion and movement. \nOne of them is worth quoting at length —manifestation of religion and belief: “Every \nperson has the right to manifest that person’s religion or belief in worship, observance, \npractice, or teaching, either individually or in community with others, and either in \npublic or in private.” The terrorist may not like it, but this country has shown, and this \nParliament is showing, that we will never dishonour the victims by backing down from \nour fervent belief in these freedoms for all of us.  \nBut l et us also remember the words of the Canadian author Naomi Klein, who \nwarned in her Shock Doctrine  that “in moments of crisis, people [can be] willing to \nhand over a great deal of power”. It is important that we maintain our tradition of sober, \nrobust law-making at all times but especially now. Clearly, there are policy issues that \nmust be addressed. Some of them have already been raised today and they relate to gun \nlaws, to speech and social media, and the performance of the security and intelligence \nservices. It is critical that we get these issues right and that any changes are relevant to, \nand effective at, solving the problems that have been so nakedly laid bare in the past \nfour days.  \nIt would be a shame to fall for the old fallacy that we must do some thing: “This is \nsomething, so let’s do this thing.” On the issue of security and intelligence in particular, \nwe need to know how it is possible that what has happened has happened, and what \nmight be done to prevent it from happening again. Given that it in volves the \nperformance of Government agencies, I cannot see how the issue arising could be \nvisited by anything less than a royal commission reporting to the Governor -General, at \narm’s length from the Government of the day. \nThe same could be said for this H ouse and the Government’s existing schedule. I \nhope that critical policy issues will be given time to be properly ventilated through the \nusual processes. Giving all current submission and report dates, a fortnight’s stay, as a \nrule of thumb, I believe woul d be an excellent gesture. Suffice it to say, this Parliament \nstands ready to assist in getting the policy response to the terror tragedy right. It must be \n10080 Ministerial Statements 19 Mar 2019 \n \na high-quality response in keeping with the underlying values of our country. The best \nway to show defiance is to refuse to erode our free society.  \nBut so much for those future challenges. For now, let us honour the heroes, console \nthose who have lost, and commemorate those who were lost. As a touching image \nshared by many on the internet and already touched upon as this debate concludes, I say \nto the victims, “This is your home. You should have been safe here.” \nRt Hon JACINDA ARDERN (Prime Minister) : Mr Speaker, I conclude by \nacknowledging the statements made within this House. I acknowledge the grief that has \nbeen expressed directly and on behalf of communities, and I acknowledge the \nrepresentation of those commun ities in the gallery here today. The discussion, the \nwords, here have been honest. They have been direct. They have been focused on the \nterrorist attack against our Muslim community, the ideology that surrounded it, and \nwhat we must do to prevent it from e ver happening again. We are united, as New \nZealand is united. But this week, as others have said, is a time for the dignity of those \nwho have passed, support for those who have lost, and comfort for all those who mourn. \nMy final words I wish to express dir ectly to the women and children of the Muslim \nfaith. As I left the mosque I visited on Sunday here in Wellington, a child, a very young \nboy, called out my name and asked, “Prime Minister, will we be safe now?” Mr \nSpeaker, I hear in this House today that we are all collectively committing to telling that \nyoung boy a resounding yes, as I told him. And we will do all we can do. We will do \neverything in our power to ensure that that is the case. Tātau tātau. Al salam alaikum. \nSITTINGS OF THE HOUSE \nHon CHRIS HIPKINS (Leader of the House) : I seek leave for the House to now \nadjourn as a mark of respect for those people affected by the Christchurch mosque terror \nattacks. \nSPEAKER: Leave has been sought for that course of action. Is there any objection? \nThere is none. The House stands adjourned until 2 p.m. tomorrow. \nThe House adjourned at 2.55 p.m. \n \n \nIndex to \n \nTuesday, 19 March 2019 \n \nEXPLANATION OF ABBREVIATIONS \n \n1R—First Reading  \n2R—Second Reading  \n3R—Third Reading  \nCWH—Committee of the whole House \n \nBILLS \n \nLegislation is listed under BILLS. The name of an originating bill that has been divided into separate \nbills is shown in italics after the names of the new bills.  \n \nORAL QUESTIONS \n \nQuestions are listed under ORAL QUESTIONS by ministerial portfolio. \n \n______________________________________ \n \n \nARDERN, Rt Hon JACINDA— \nMinisterial Statements— \nMosques Terror Attacks— \nChristchurch, 10072, 10080 \nBRIDGES, Hon SIMON— \nMinisterial Statements— \nMosques Terror Attacks— \nChristchurch, 10074 \nDAVIDSON, MARAMA— \nMāori Language / Te Reo, 10077 \nMinisterial Statements— \nMosques Terror Attacks— \nChristchurch, 10077 \nHIPKINS, Hon CHRIS— \nSittings of the House— \nSitting Hours— \nHouse to Rise Early as Mark of \nRespect, 10080 \nKARAKIA, 10071 \nMĀORI LANGUAGE / TE REO— \nDavidson, Marama, 10077 \nRurawhe, Adrian, 10071 \nMINISTERIAL STATEMENTS— \nArdern, Rt Hon Jacinda— \nMosques Terror Attacks— \nChristchurch, 10072 \nNAWAZ, TAHIR— \nPrayers, English, 10071 \nPETERS, Rt Hon WINSTON— \nMinisterial Statements— \nMosques Terror Attacks— \nChristchurch, 10076 \nPRAYERS— \nArabic, 10071 \nEnglish, 10071, 10072 \nRURAWHE, ADRIAN— \nMāori Language / Te Reo, 10071 \nSEYMOUR, DAVID— \nMinisterial Statements— \nMosques Terror Attacks— \nChristchurch, 10078 \nSITTINGS OF THE HOUSE— \nSitting Hours— \nHouse to Rise Early as Mark of Respect, \n10080 \nTE REO— \nsee MĀORI LANGUAGE / TE REO— \nTHANVI, NIZAM UL HAQ— \nPrayers, Arabic, 10071 \nTOLLEY, Hon ANNE— \nPrayers, English, 10072 ",
+  "raw_text_length": 40376,
+  "parser": "scrape_hansard.py/v1.2-pdf"
+}
