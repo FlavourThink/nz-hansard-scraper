@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-08T21:31:30.706176+00:00",
+  "updated_at": "2026-11-10T01:02:57.459061+00:00",
   "coverage_note": "HTML Hansard on parliament.nz is reliably available from ~Feb 2003. Winston Peters first elected 25 Nov 1978; pre-2003 needs PDF/OCR.",
   "days": {
     "2026-08-21": {
@@ -13792,7 +13792,7 @@
     },
     "2026-10-28": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:06.428524+00:00"
+      "scraped_at": "2026-11-10T00:58:28.615377+00:00"
     },
     "2016-09-05": {
       "status": "no_sitting",
@@ -14056,7 +14056,7 @@
     },
     "2026-10-29": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:09.214818+00:00"
+      "scraped_at": "2026-11-10T00:58:31.426282+00:00"
     },
     "2016-06-27": {
       "status": "no_sitting",
@@ -14260,7 +14260,7 @@
     },
     "2026-10-30": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:12.003568+00:00"
+      "scraped_at": "2026-11-10T00:58:34.214939+00:00"
     },
     "2016-05-09": {
       "status": "no_sitting",
@@ -14484,7 +14484,7 @@
     },
     "2026-10-31": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:14.806324+00:00"
+      "scraped_at": "2026-11-10T00:58:37.002928+00:00"
     },
     "2016-03-14": {
       "status": "no_sitting",
@@ -14840,7 +14840,7 @@
     },
     "2026-11-01": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:17.594429+00:00"
+      "scraped_at": "2026-11-10T00:58:39.795218+00:00"
     },
     "2015-12-02": {
       "status": "no_sitting",
@@ -15348,11 +15348,11 @@
     },
     "2026-11-02": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:20.410451+00:00"
+      "scraped_at": "2026-11-10T00:58:42.607289+00:00"
     },
     "2026-11-03": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:23.200910+00:00"
+      "scraped_at": "2026-11-10T00:58:45.395866+00:00"
     },
     "2015-06-30": {
       "status": "ok",
@@ -15776,7 +15776,7 @@
     },
     "2026-11-04": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:25.983921+00:00"
+      "scraped_at": "2026-11-10T00:58:48.200384+00:00"
     },
     "2015-03-17": {
       "status": "ok",
@@ -16124,7 +16124,7 @@
     },
     "2026-11-05": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:28.844601+00:00"
+      "scraped_at": "2026-11-10T00:58:51.012388+00:00"
     },
     "2014-12-08": {
       "status": "no_sitting",
@@ -16328,7 +16328,7 @@
     },
     "2026-11-06": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:31.636601+00:00"
+      "scraped_at": "2026-11-10T00:58:53.833772+00:00"
     },
     "2014-10-20": {
       "status": "ok",
@@ -16748,7 +16748,7 @@
     },
     "2026-11-07": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:34.472645+00:00"
+      "scraped_at": "2026-11-10T00:58:56.771900+00:00"
     },
     "2014-06-17": {
       "status": "ok",
@@ -16992,7 +16992,7 @@
     },
     "2026-11-08": {
       "status": "no_sitting",
-      "scraped_at": "2026-11-08T21:28:37.257314+00:00"
+      "scraped_at": "2026-11-10T00:58:59.560842+00:00"
     },
     "2014-04-15": {
       "status": "ok",
@@ -17213,7 +17213,355 @@
       "scraped_at": "2026-11-08T21:31:30.674243+00:00",
       "path": "data/days/2014-02-19.json",
       "raw_text_length": 338131
+    },
+    "2026-11-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:02.348290+00:00"
+    },
+    "2026-11-10": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:05.147511+00:00"
+    },
+    "2014-02-18": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-02-18/2014-02-18-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T00:59:10.374208+00:00",
+      "path": "data/days/2014-02-18.json",
+      "raw_text_length": 349327
+    },
+    "2014-02-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:13.176684+00:00"
+    },
+    "2014-02-14": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:15.960108+00:00"
+    },
+    "2014-02-13": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-02-13/2014-02-13-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T00:59:20.765747+00:00",
+      "path": "data/days/2014-02-13.json",
+      "raw_text_length": 221592
+    },
+    "2014-02-12": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-02-12/2014-02-12-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T00:59:26.001952+00:00",
+      "path": "data/days/2014-02-12.json",
+      "raw_text_length": 364814
+    },
+    "2014-02-11": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-02-11/2014-02-11-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T00:59:33.120842+00:00",
+      "path": "data/days/2014-02-11.json",
+      "raw_text_length": 354119
+    },
+    "2014-02-10": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:35.962452+00:00"
+    },
+    "2014-02-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:38.789895+00:00"
+    },
+    "2014-02-06": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:41.647591+00:00"
+    },
+    "2014-02-05": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:44.450831+00:00"
+    },
+    "2014-02-04": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:47.262105+00:00"
+    },
+    "2014-02-03": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:50.045721+00:00"
+    },
+    "2014-01-31": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T00:59:52.844088+00:00"
+    },
+    "2014-01-30": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-01-30/2014-01-30-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T00:59:57.646018+00:00",
+      "path": "data/days/2014-01-30.json",
+      "raw_text_length": 214684
+    },
+    "2014-01-29": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-01-29/2014-01-29-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T01:00:02.823884+00:00",
+      "path": "data/days/2014-01-29.json",
+      "raw_text_length": 346505
+    },
+    "2014-01-28": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2014-01-28/2014-01-28-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2014",
+      "scraped_at": "2026-11-10T01:00:08.044103+00:00",
+      "path": "data/days/2014-01-28.json",
+      "raw_text_length": 355908
+    },
+    "2014-01-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:10.856827+00:00"
+    },
+    "2014-01-24": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:13.639865+00:00"
+    },
+    "2014-01-23": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:16.425181+00:00"
+    },
+    "2014-01-22": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:19.221301+00:00"
+    },
+    "2014-01-21": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:22.019256+00:00"
+    },
+    "2014-01-20": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:24.812143+00:00"
+    },
+    "2014-01-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:27.602708+00:00"
+    },
+    "2014-01-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:30.395095+00:00"
+    },
+    "2014-01-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:33.192567+00:00"
+    },
+    "2014-01-14": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:35.985064+00:00"
+    },
+    "2014-01-13": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:38.769582+00:00"
+    },
+    "2014-01-10": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:41.560652+00:00"
+    },
+    "2014-01-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:44.343027+00:00"
+    },
+    "2014-01-08": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:47.135255+00:00"
+    },
+    "2014-01-07": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:49.946253+00:00"
+    },
+    "2014-01-06": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:52.737818+00:00"
+    },
+    "2014-01-03": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:55.532653+00:00"
+    },
+    "2014-01-02": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:00:58.331457+00:00"
+    },
+    "2014-01-01": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:01.159109+00:00"
+    },
+    "2013-12-31": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:03.955660+00:00"
+    },
+    "2013-12-30": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:06.741488+00:00"
+    },
+    "2013-12-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:09.532597+00:00"
+    },
+    "2013-12-26": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:12.325196+00:00"
+    },
+    "2013-12-25": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:15.117837+00:00"
+    },
+    "2013-12-24": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:17.918493+00:00"
+    },
+    "2013-12-23": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:20.701227+00:00"
+    },
+    "2013-12-20": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:23.539062+00:00"
+    },
+    "2013-12-19": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:26.330384+00:00"
+    },
+    "2013-12-18": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:29.116530+00:00"
+    },
+    "2013-12-17": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:31.924836+00:00"
+    },
+    "2013-12-16": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:34.708429+00:00"
+    },
+    "2013-12-13": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:37.495282+00:00"
+    },
+    "2013-12-12": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:40.278642+00:00"
+    },
+    "2013-12-11": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-12-11/2013-12-11-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:01:45.107380+00:00",
+      "path": "data/days/2013-12-11.json",
+      "raw_text_length": 205883
+    },
+    "2013-12-10": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-12-10/2013-12-10-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:01:50.378743+00:00",
+      "path": "data/days/2013-12-10.json",
+      "raw_text_length": 348437
+    },
+    "2013-12-09": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:53.180905+00:00"
+    },
+    "2013-12-06": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:01:56.071234+00:00"
+    },
+    "2013-12-05": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-12-05/2013-12-05-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:00.925297+00:00",
+      "path": "data/days/2013-12-05.json",
+      "raw_text_length": 220356
+    },
+    "2013-12-04": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-12-04/2013-12-04-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:06.195090+00:00",
+      "path": "data/days/2013-12-04.json",
+      "raw_text_length": 364339
+    },
+    "2013-12-03": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-12-03/2013-12-03-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:11.454805+00:00",
+      "path": "data/days/2013-12-03.json",
+      "raw_text_length": 344942
+    },
+    "2013-12-02": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:14.257155+00:00"
+    },
+    "2013-11-29": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:17.054910+00:00"
+    },
+    "2013-11-28": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:19.838844+00:00"
+    },
+    "2013-11-27": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:22.645398+00:00"
+    },
+    "2013-11-26": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:25.440884+00:00"
+    },
+    "2013-11-25": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:28.225931+00:00"
+    },
+    "2013-11-22": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:31.014157+00:00"
+    },
+    "2013-11-21": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:33.808045+00:00"
+    },
+    "2013-11-20": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:36.591843+00:00"
+    },
+    "2013-11-19": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-11-19/2013-11-19-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:41.752707+00:00",
+      "path": "data/days/2013-11-19.json",
+      "raw_text_length": 341156
+    },
+    "2013-11-18": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:44.553368+00:00"
+    },
+    "2013-11-15": {
+      "status": "no_sitting",
+      "scraped_at": "2026-11-10T01:02:47.336850+00:00"
+    },
+    "2013-11-14": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-11-14/2013-11-14-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:52.176467+00:00",
+      "path": "data/days/2013-11-14.json",
+      "raw_text_length": 220784
+    },
+    "2013-11-13": {
+      "status": "ok",
+      "url": "https://hansard.parliament.nz/api/resources/daily/related/2013-11-13/2013-11-13-daily.pdf",
+      "title": "Published under the authority of the House of Representatives—2013",
+      "scraped_at": "2026-11-10T01:02:57.429706+00:00",
+      "path": "data/days/2013-11-13.json",
+      "raw_text_length": 357252
     }
   },
-  "backfill_cursor": "2014-02-19"
+  "backfill_cursor": "2013-11-13"
 }
